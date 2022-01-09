@@ -1,20 +1,12 @@
 {
     "jurisdiction": {
-      "name": "XXX",
-      "id": "Qxxx"
+      "name": "Democratic Republic of the Congo",
+      "id": "Q974"
     },
     "cabinet": {
-      "id": "Qxxx",
-      "start": "YYYY-MM-DD",
-      "parent": "Qxxx"
+      "id": "Q106866588",
+      "start": "2021-04-12",
+      "parent": "Q3112604"
     },
-    "source": {
-        "url":   "XXX",
-        "title": "XXX",
-        "lang":  {
-            "code": "en",
-            "wikidata": "Q1860"
-        }
-    },
-    "agent": "every-politican-scrapers/XXX"
+    "agent": "every-politican-scrapers/drc-ministers"
 }
