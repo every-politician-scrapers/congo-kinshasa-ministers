@@ -1,1 +1,13 @@
-ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q3112614,Transitional Government of the Democratic Republic of the Congo,2003-01-01,9,,,2007-01-01,9,,,Q3112549,Q3112549,Q3112081,1st Gizenga cabinet,,,,
+,Q3112081,1st Gizenga cabinet,2006-12-30,11,,,2008-10-10,11,,,Q3112614,Transitional Government of the Democratic Republic of the Congo,Q3112079,2nd Gizenga Cabinet,,,,
+,Q3112079,2nd Gizenga Cabinet,,,2007-11-25,11,2008-10-10,11,,,Q3112081,1st Gizenga cabinet,Q3112305,1st Muzito Cabinet,,,,
+,Q1236593,Adolphe Muzito cabinet,2008-10-10,11,,,2010-02-20,11,,,,,,,,,,
+,Q3112307,2nd Muzito Cabinet,2010-02-19,11,,,2011-09-11,11,,,Q3112305,1st Muzito Cabinet,Q3112308,3rd Muzito Cabinet,,,,
+,Q3112308,3rd Muzito Cabinet,2011-09-11,11,,,2012-03-06,11,,,Q3112307,2nd Muzito Cabinet,Q3112273,Matata Cabinet,,,,
+,Q3112273,Matata Cabinet,2012-03-06,11,,,2014-12-07,11,,,Q3112308,3rd Muzito Cabinet,Q23816929,2nd Matata Cabinet,,,,
+,Q23816929,2nd Matata Cabinet,2014-12-07,11,,,2016-11-14,11,,,Q3112273,Matata Cabinet,Q56301148,Badibanga Cabinet,,,,
+,Q56301148,Badibanga Cabinet,2016-12-19,11,,,2017-05-09,11,,,Q23816929,2nd Matata Cabinet,Q56301601,Tshibala Cabinet,,,,
+,Q56301601,Tshibala Cabinet,2017-05-09,11,,,2019-09-06,11,,,Q56301148,Badibanga Cabinet,Q86666693,Ilunga Cabinet,,,,
+,Q86666693,Ilunga Cabinet,2019-09-06,11,,,2021-04-26,11,,,,,Q106866588,Lukonde cabinet,,,,
+,Q106866588,Lukonde cabinet,2021-04-12,11,,,,,,,Q86666693,Ilunga Cabinet,,,,,,
