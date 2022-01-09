@@ -1,0 +1,110 @@
+{
+  "title": "Marie Tumba Nzeza",
+  "pageID": 66276223,
+  "categories": [
+    "Living people",
+    "Democratic Republic of the Congo diplomats",
+    "Foreign Ministers of the Democratic Republic of the Congo",
+    "Government ministers of the Democratic Republic of the Congo",
+    "Year of birth missing (living people)",
+    "Female foreign ministers",
+    "21st-century Democratic Republic of the Congo people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Marie Tumba Nzeza is a Congolese politician and diplomat.",
+              "formatting": {
+                "bold": [
+                  "Marie Tumba Nzeza"
+                ]
+              }
+            },
+            {
+              "text": "She served as the Minister of Foreign Affairs of the Democratic Republic of Congo in Prime Minister Sylvestre Ilunga's cabinet from September 2019 to April 2021.",
+              "links": [
+                {
+                  "text": "Minister of Foreign Affairs of the Democratic Republic of Congo",
+                  "type": "internal",
+                  "page": "Minister of Foreign Affairs (Democratic Republic of the Congo)"
+                },
+                {
+                  "text": "Sylvestre Ilunga's",
+                  "type": "internal",
+                  "page": "Sylvestre Ilunga"
+                }
+              ]
+            },
+            {
+              "text": "Previously, she was deputy secretary general of the Union for Democracy and Social Progress (UDPS), responsible for foreign affairs.",
+              "links": [
+                {
+                  "text": "Union for Democracy and Social Progress",
+                  "type": "internal",
+                  "page": "Union for Democracy and Social Progress (Democratic Republic of the Congo)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Congolese politician",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "alma_mater": {
+            "text": "Université libre de Bruxelles",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Université libre de Bruxelles"
+              }
+            ]
+          },
+          "name": {
+            "text": "Marie Tumba Nzeza"
+          },
+          "image": {
+            "text": "Marie Tumba Nzeza -2019 (cropped).jpg"
+          },
+          "office1": {
+            "text": "Minister of Foreign Affairs of the Democratic Republic of Congo"
+          },
+          "term_start1": {
+            "text": "9 September 2019"
+          },
+          "term_end1": {
+            "text": "12 April 2021"
+          },
+          "predecessor1": {
+            "text": "Franck Mwe di Malila",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Franck Mwe di Malila"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Christophe Lutundula",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Christophe Lutundula"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

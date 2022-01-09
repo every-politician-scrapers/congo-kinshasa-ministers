@@ -1,0 +1,175 @@
+{
+  "title": "Modeste Mutinga",
+  "pageID": 31908583,
+  "categories": [
+    "Democratic Republic of the Congo journalists",
+    "Living people",
+    "Year of birth missing (living people)",
+    "Government ministers of the Democratic Republic of the Congo"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": " Modeste Mutinga Mutuishayi, commonly known as Modeste Mutinga, is a journalist and senator of the Democratic Republic of Congo.",
+              "links": [
+                {
+                  "text": "senator",
+                  "type": "internal",
+                  "page": "Senate of the Democratic Republic of the Congo"
+                },
+                {
+                  "type": "internal",
+                  "page": "Democratic Republic of Congo"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  " Modeste Mutinga Mutuishayi",
+                  "Modeste Mutinga"
+                ]
+              }
+            },
+            {
+              "text": "He is the publisher of Le Potentiel, which The Committee to Protect Journalists described as \"the only independent daily newspaper in the war-torn Democratic Republic of Congo\".",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Le Potentiel"
+                },
+                {
+                  "type": "internal",
+                  "page": "The Committee to Protect Journalists"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Le Potentiel"
+                ]
+              }
+            },
+            {
+              "text": "According to Mutinga, the paper has \"an agenda\" of promoting economic development and democracy."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Mutinga has been threatened, arrested, and jailed multiple times on charges related to his reporting."
+            },
+            {
+              "text": "In 1992, during the Mobutu Sese Seko era, the Le Potentiel offices were bombed.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mobutu Sese Seko"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Le Potentiel"
+                ]
+              }
+            },
+            {
+              "text": "In 1998, he was arrested by authorities following an article covering the house arrest of opposition leader Etienne Tshisekedi.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Etienne Tshisekedi"
+                }
+              ]
+            },
+            {
+              "text": "In January 2000, he was assaulted in New York City by the advisors of DRC President Laurent-Désiré Kabila while covering a meeting of the United Nations Security Council.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Laurent-Désiré Kabila"
+                },
+                {
+                  "type": "internal",
+                  "page": "United Nations Security Council"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2000, he was awarded the International Press Freedom Award of the Committee to Protect Journalists.",
+              "links": [
+                {
+                  "text": "International Press Freedom Award",
+                  "type": "internal",
+                  "page": "CPJ International Press Freedom Awards"
+                }
+              ]
+            },
+            {
+              "text": "The award citation described him as \"a relentless advocate for human rights\" and \"an inspiration to journalists throughout Africa who continue to fight against tremendous odds for freedom of expression and better governance\"."
+            }
+          ]
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Modeste Mutinga Mutuishayi"
+          },
+          "nationality": {
+            "text": "Democratic Republic of Congo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Democratic Republic of Congo"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "journalist, senator"
+          },
+          "organization": {
+            "text": "Le Potentiel",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Le Potentiel"
+              }
+            ],
+            "formatting": {
+              "italic": [
+                "Le Potentiel"
+              ]
+            }
+          },
+          "awards": {
+            "text": "International Press Freedom Award (2000)",
+            "links": [
+              {
+                "text": "International Press Freedom Award",
+                "type": "internal",
+                "page": "CPJ International Press Freedom Awards"
+              }
+            ]
+          },
+          "party": {
+            "text": "Alliance of the Presidential Majority",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alliance of the Presidential Majority"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
