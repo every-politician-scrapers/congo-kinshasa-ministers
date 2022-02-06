@@ -324,8 +324,20 @@
               }
             ]
           },
+          "successor2": {
+            "text": "Macky Sall",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Macky Sall"
+              }
+            ]
+          },
           "termstart2": {
             "text": "6 February 2021"
+          },
+          "termend2": {
+            "text": "5 February 2022"
           }
         }
       ]
