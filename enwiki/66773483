@@ -67,6 +67,10 @@
       ],
       "templates": [
         {
+          "date": "February 2022",
+          "template": "use dmy dates"
+        },
+        {
           "description": "Politician of the Democratic Republic of the Congo",
           "template": "short description"
         },
@@ -74,6 +78,7 @@
           "year": "1977",
           "month": "8",
           "day": "4",
+          "df": "y",
           "template": "birth date and age"
         }
       ],
