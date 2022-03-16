@@ -1,27 +1,27 @@
 id,name,relationship,relative,relativename
-Q104600997,Guy Loando Mboyo,father,Q104601569,Mboyo Loando Pierre
-Q104600997,Guy Loando Mboyo,mother,Q104601534,Bompongo Mpetshi Marie
-Q104600997,Guy Loando Mboyo,spouse,Q104601341,Déborah Linda Loando
-Q106914680,Juliette Mbambu Mughole,father,Q110994233,Paluku Malambo
-Q106914680,Juliette Mbambu Mughole,mother,Q110994244,Kavira Kyabusiku
-Q106914680,Juliette Mbambu Mughole,relative,Q110994233,Paluku Malambo
-Q106914680,Juliette Mbambu Mughole,relative,Q110994244,Kavira Kyabusiku
-Q107368856,Gael Bussa,father,Q106647261,Jean-Lucien Bussa Tongba
-Q107368856,Gael Bussa,mother,Q107369212,Petronelle Mambetuku Kimpioka
-Q107368856,Gael Bussa,spouse,Q107369189,Alicia Salawa
-Q135547,Laurent-Désiré Kabila,child,Q19629165,Zoé Kabila
-Q135547,Laurent-Désiré Kabila,child,Q2828106,Aimée Kabila Mulengela
-Q135547,Laurent-Désiré Kabila,child,Q3163304,Jaynet Kabila
-Q135547,Laurent-Désiré Kabila,child,Q57416,Joseph Kabila
-Q18611995,Franck Mwe di Malila,father,Q18746076,Édouard Mwe di Malila Apenela
-Q29032770,Félix Tshisekedi,father,Q168629,Étienne Tshisekedi
-Q29032770,Félix Tshisekedi,spouse,Q61855144,Denise Nyakeru Tshisekedi
-Q316942,Antoine Gizenga,child,Q25387204,Lugi Gizenga
-Q379148,Jean-Pierre Bemba,father,Q3176296,Jeannot Bemba Saolona
-Q57416,Joseph Kabila,father,Q135547,Laurent-Désiré Kabila
-Q57416,Joseph Kabila,relative,Q109651236,Francis Selemani
-Q57416,Joseph Kabila,sibling,Q109673209,Gloria Mteyu
-Q57416,Joseph Kabila,sibling,Q19629165,Zoé Kabila
-Q57416,Joseph Kabila,sibling,Q2828106,Aimée Kabila Mulengela
-Q57416,Joseph Kabila,sibling,Q3163304,Jaynet Kabila
-Q57416,Joseph Kabila,spouse,Q509657,Olive Lembe di Sita
+Q104600997,Guy Loando Mboyo,father,Q104601569,
+Q104600997,Guy Loando Mboyo,mother,Q104601534,
+Q104600997,Guy Loando Mboyo,spouse,Q104601341,
+Q106914680,Juliette Mbambu Mughole,father,Q110994233,
+Q106914680,Juliette Mbambu Mughole,mother,Q110994244,
+Q106914680,Juliette Mbambu Mughole,relative,Q110994233,
+Q106914680,Juliette Mbambu Mughole,relative,Q110994244,
+Q107368856,Gael Bussa,father,Q106647261,
+Q107368856,Gael Bussa,mother,Q107369212,
+Q107368856,Gael Bussa,spouse,Q107369189,
+Q135547,Laurent-Désiré Kabila,child,Q19629165,
+Q135547,Laurent-Désiré Kabila,child,Q2828106,
+Q135547,Laurent-Désiré Kabila,child,Q3163304,
+Q135547,Laurent-Désiré Kabila,child,Q57416,
+Q18611995,Franck Mwe di Malila,father,Q18746076,
+Q29032770,Félix Tshisekedi,father,Q168629,
+Q29032770,Félix Tshisekedi,spouse,Q61855144,
+Q316942,Antoine Gizenga,child,Q25387204,
+Q379148,Jean-Pierre Bemba,father,Q3176296,
+Q57416,Joseph Kabila,father,Q135547,
+Q57416,Joseph Kabila,relative,Q109651236,
+Q57416,Joseph Kabila,sibling,Q109673209,
+Q57416,Joseph Kabila,sibling,Q19629165,
+Q57416,Joseph Kabila,sibling,Q2828106,
+Q57416,Joseph Kabila,sibling,Q3163304,
+Q57416,Joseph Kabila,spouse,Q509657,
