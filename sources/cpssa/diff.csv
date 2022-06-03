@@ -1,0 +1,479 @@
+@@,item,name,positionitem,position,start,end
++++,Q2821395,Abdoulaye Yerodia Ndombasi,Q112220993,Education,2000-11-20,2001-01-16
++++,Q2821395,Abdoulaye Yerodia Ndombasi,Q6866142,Foreign Affairs and International Cooperation,1999-03-14,2000-11-20
++++,Q2821395,Abdoulaye Yerodia Ndombasi,Q3556877,Vice-President,2003-07-30,2007-02-05
++++,Q87990699,Acacia Bandubola Mbongo,Q112220992,Economy,2019-08-26,
++++,,Adolphe Lumanu Mulenda Bwana Nsefu,Q112221041,Relations with the Parliament,2007-11-26,2010-02-19
++++,,Adolphe Lumanu Mulenda Bwana Nsefu,Q112221013,Vice-Prime Minister and Minister of Interior and Security,2010-02-19,2011-09-11
++++,,Adolphe Lumanu Mulenda Bwana Nsefu,Q112221013,"Vice-Prime Minister and Minister of Interior, Security, Decentralization, and Regional Planning",2011-09-11,2012-04-28
++++,Q365790,Adolphe Muzito,Q112220973,Budget,2007-02-05,2008-10-26
+->,Q365790,Adolphe Muzito,Q3401753,Prime Minister of the Democratic Republic of the Congo->Prime Minister,2008-10-10->2008-10-26,2012-03-06->2012-04-28
++++,Q112207919,Adolphe Onusumba Yemba,Q17110451,"Defence, Demobilisation and Veterans",2005-01-03,2006-10-16
++++,Q101412106,Adèle Degbalase Kanda,Q108730998,"Social Affairs, Humanitarian Action and National Solidarity",2015-09-25,2016-12-19
++++,Q106904729,Aggee Aje Matembo Toto,Q112221027,Physical Planning,2019-08-26,
++++,Q96210398,Aime Sakombi Molendo,Q112221018,Lands,2019-08-26,
++++,Q18353237,Aimé Boji,Q56515760,Foreign Trade,2016-12-19,2017-05-09
++++,Q18681696,Aimé Ngoy Mukena,Q17110451,Defence and Veterans,2019-08-26,
++++,Q18681696,Aimé Ngoy Mukena,Q17110451,Defence and Veterans,2014-12-09,2015-09-25
++++,Q18681696,Aimé Ngoy Mukena,Q112221007,Hydrocarbons,2015-09-25,2019-01-23
++++,Q129404,Alexandre Luba Ntambo,Q17110451,Vice-Prime Minister and Minister of Defence and Veterans,2012-04-28,2014-12-09
++++,Q2834659,Alexis Thambwe Mwamba,Q6866142,Foreign Affairs,2008-10-26,2012-04-28
++++,Q2834659,Alexis Thambwe Mwamba,Q112221015,Justice,2016-12-19,2019-01-23
++++,Q2834659,Alexis Thambwe Mwamba,Q112221015,Justice and Human Rights,2014-12-09,2016-12-19
+---,Q2834659,Alexis Thambwe Mwamba,Q6866142,Minister of Foreign Affairs,2008-10-01,2012-04-01
+---,Q2834659,Alexis Thambwe Mwamba,Q6866142,Minister of Foreign Affairs,2019-01-01,2019-01-01
++++,Q2834659,Alexis Thambwe Mwamba,Q112221028,Planning,2003-07-30,2006-03-24
++++,,Ami Ambatombe Nyongolo,Q112220998,Environment and Sustainable Development,2017-05-09,2019-01-23
++++,,Ami Ambatombe Nyongolo,Q112221031,"Posts, Telecommunications and New Information and Communication Technologies",2016-12-19,2017-05-09
++++,,Anastasie Moleka Moliva,Q112221001,Health,2004-07-11,2005-01-03
++++,Q106904653,Andre Kabanda Kana,Q112221058,Minister without Portfolio,2019-08-26,
++++,Q67218417,Andre Lite Asebea,Q112221005,Human Rights,2019-08-26,
++++,,André Moke Sanza,Q54437053,Tourism,2016-12-19,2017-05-09
++++,Q516526,André-Philippe Futa,Q54429353,"Agriculture, Fishing and Animal Husbandry",2001-04-14,2002-11-17
++++,Q516526,André-Philippe Futa,Q112220992,Economy,2002-11-17,2003-07-30
++++,Q516526,André-Philippe Futa,Q112220992,Economy and Commerce,2007-11-26,2010-02-19
++++,Q516526,André-Philippe Futa,Q112221009,Industry and Small and Medium Enterprises,2003-07-30,2003-10-05
+->,Q516526,André-Philippe Futa,Q97366094,Minister of Finance->Finance,2003-09-01->2003-10-05,2005-11-01->2005-11-18
++++,Q107694336,Anicet Kuzunda Mutangiji,Q112221009,Industry,2010-02-19,2012-04-28
+->,Q2853312,Antipas Mbusa->Mbusa Nyamwisi,Q6866142,Minister of Foreign Affairs->Foreign Affairs and International Cooperation,2007-02-01->2007-02-05,2008-10-01->2008-10-26
+->,Q2853995,Antoine Ghonda->Antoine Ghonda Mangalibi,Q6866142,Minister of Foreign Affairs->Foreign Affairs and International Cooperation,2003-06-30->2003-07-30,2004-07-22
+->,Q316942,Antoine Gizenga,Q3401753,Prime Minister of the Democratic Republic of the Congo->Prime Minister,2006-12-30,2008-10-10->2008-10-26
++++,,Arthur Zahidi Ngoma,Q3556877,Vice-President,2003-07-30,2007-02-05
++++,Q109017046,Astrid Madiya,Q54100574,Culture and Arts,2017-05-09,2019-01-23
++++,Q2868988,Athanase Matenda Kyelu,Q112220980,Civil Service,2004-07-11,2006-10-16
+->,Q2868988,Athanase Matenda Kyelu,Q97366094,Minister of Finance->Finance,2007-02-01->2007-02-05,2010-02-01->2010-02-19
++++,,Atis Kabongo Kalonji,Q112220998,Environment and Sustainable Development,2016-12-19,2017-05-09
++++,,Auguste Mopipi Mukulumania,Q112221001,Health,2008-10-26,2010-02-19
++++,Q767826,Augustin Katumba Mwanke,Q112221058,Minister without Portfolio,2001-04-14,2002-11-17
++++,Q107189280,Augustin Kibassa Maliba,Q112221031,"Posts, Telecommunications and New Information and Communications Technologies",2019-08-26,
++++,,Augustin Simanga,Q112220996,Energy,2006-10-16,2007-02-05
++++,Q2875098,Azarias Ruberwa Manywa,Q112220990,Decentralization and Institutional Reforms,2016-12-19,2019-01-23
++++,Q2875098,Azarias Ruberwa Manywa,Q112220990,Decentralization and Institutional Reforms,2019-08-26,
++++,Q2875098,Azarias Ruberwa Manywa,Q3556877,Vice-President,2003-07-30,2007-02-05
++++,Q109017155,Babi Mbayi,Q112220996,Energy,1999-03-14,2001-01-16
++++,,Badimani Bilembo Mulumba,Q112221028,Planning and Trade,1999-03-14,2000-06-22
++++,Q108200117,Balamage Nkolo,Q112221017,Labour and Social Security,2005-01-03,2006-10-16
++++,Q108200117,Balamage Nkolo,Q112221026,Parastatals,2006-10-16,2007-02-05
++++,,Bamboka Lobendi,Q112221044,Scientific Research,2016-12-19,2017-05-09
++++,Q2885955,Barthélemy Botswali Lengomo,Q108730998,"Social Affairs, Humanitarian Affairs, and National Solidarity",2008-10-26,2010-01-09
++++,Q2883576,Baudouin Banza Mukalay Nsungu,Q54100574,Culture and Arts,2014-12-09,2016-05-14
++++,Q2883576,Baudouin Banza Mukalay Nsungu,Q112221057,"Youth, Sports, Culture and Arts",2012-04-28,2014-12-09
++++,,Bavon N'sa Mputu Elima,Q112220998,Environment and Tourism,2012-04-28,2014-12-09
++++,Q96210138,Beatrice Lomeya Atilite,Q112220999,"Gender, Family, and Children",2019-08-26,
++++,Q3176296,Bemba Saolona,Q112220992,Economy and Industry,1999-03-14,2000-06-22
++++,,Benjamin Kaswama,Q112221035,Public Works and Infrastructure,2006-10-16,2007-02-05
++++,Q2896177,Benjamin Mukulungu,Q112220980,Civil Service,2001-04-14,2003-07-30
++++,Q2897532,Bernard Biando Sango,Q112221047,Solidarity and Humanitarian Action,2017-05-09,2019-01-23
++++,Q2897532,Bernard Biando Sango,Q54430447,"Trade, Small and Medium Enterprises",2010-02-19,2011-03-11
++++,,Bernard-Gustave Kabeji Penemagu,Q112220980,Civil Service,2003-07-30,2004-07-11
++++,Q19631188,Bienvenu Liyota Ndjoli,Q112220998,Environment and Sustainable Development,2014-12-09,2015-09-25
++++,Q19631188,Bienvenu Liyota Ndjoli,Q112221045,Small and Medium Enterprises,2017-05-09,2019-01-23
++++,Q19631190,Bijou Mushitu Kat,Q112220999,"Gender, Family and Children, Social Affairs, Humanitarian Action and National Solidarity",2015-01-29,2015-09-25
++++,Q19631190,Bijou Mushitu Kat,Q112220999,"Gender, Family, and Children",2014-12-09,2015-01-29
++++,,Bohongo Nkoyi,Q112221045,Small and Medium Enterprises,2014-12-09,2016-12-19
++++,Q18642479,Bolengetenge Balela,Q112221018,Lands,2014-12-09,2015-09-25
++++,Q107126535,Bruno Kapanji Kalala,Q112221054,Water Resources and Electricity,2012-04-28,2014-12-09
+->,Q29239480,Bruno Tshibala->Bruno Tshibala Nzenze,Q3401753,Prime Minister of the Democratic Republic of the Congo->Prime Minister,2017-04-07,2019-09-07->2019-01-23
++++,Q2942019,Catherine Nzuzi wa Mbombo,Q112221047,Solidarity and Humanitarian Affairs,2003-07-30,2007-02-05
++++,,Celestin Luangi,Q112220980,Civil Service,2000-09-02,2001-01-16
++++,,Celestin Mvunabali,Q112220992,Economy,2003-07-30,2004-07-11
++++,,Celestin Mvunabali,Q112221026,Parastatals,2004-07-11,2006-10-16
++++,Q78469448,Celestin Tunda ya Kasende,Q112221015,Vice-Prime Minister and Minister of Justice,2019-08-26,
++++,Q107475161,Cesar Lubamba Ngimbi,Q112221052,Urban Development and Housing,2010-02-19,2012-04-28
++++,Q96244723,Chantal Ngalula Mulumba,Q56515760,Foreign Trade,2005-01-03,2007-02-05
++++,Q56654533,Chantal Safu,Q112220999,"Gender, Family, and Children",2017-05-09,2019-01-23
++++,Q108146627,Charles Alulea Mengulwa,Q112221043,Rural Development,2011-09-11,2012-04-28
++++,,Charles Christphe Muzungu,Q54100574,Culture and Arts,2004-07-11,2005-11-18
++++,Q2959880,Charles Mwando Nsimba,Q17110451,Defence and Veterans,2008-10-26,2012-04-28
++++,Q2959880,Charles Mwando Nsimba,Q112221043,Rural Development,2007-02-05,2007-11-26
++++,Q2959880,Charles Mwando Nsimba,Q112221051,Transport,2007-11-26,2008-10-26
++++,,Charles Nawej Mundele,Q108730998,"Social Affairs, Humanitarian Affairs, and National Solidarity",2012-04-28,2014-12-09
++++,Q96244903,Charlotte Twamba,Q112220980,Civil Service,2006-10-16,2007-02-05
++++,,Chelo Lotsima,Q112221003,"Higher Education, University, and Scientific Research",2012-04-28,2014-12-09
++++,Q2963552,Chikez Diemu,Q17110451,Defence and Veterans,2007-02-05,2008-10-26
++++,Q48775372,Claude Nyamugabo Bazibuhe,Q112220998,Environment and Sustainable Development,2019-08-26,
++++,Q48775372,Claude Nyamugabo Bazibuhe,Q112221045,Small and Medium Enterprises,2008-10-26,2010-02-19
++++,Q48775372,Claude Nyamugabo Bazibuhe,Q112221057,Youth and Sports,2010-02-19,2012-04-28
++++,Q99851996,Clement Kuete Nymi Bemuna,Q112221026,Parastatals,2019-08-26,
++++,,Clément Kanku Bukasa,Q112220988,Cooperation and Development,2016-12-19,2017-05-09
++++,,Constant Ndom Nda Ombel,Q54429353,Agriculture,2005-11-18,2006-10-16
++++,,Constant Ndom Nda Ombel,Q112221034,Primary and Secondary Education and Professional Training,2004-01-22,2005-11-18
++++,Q3002789,Crispin Atama Tabe,Q17110451,Defence and Veterans,2015-09-25,2019-01-23
++++,Q3002789,Crispin Atama Tabe,Q112221007,Hydrocarbons,2012-04-28,2015-09-25
++++,Q3010091,Célestin Mbuyu Kabango,Q112221007,Hydrocarbons,2010-02-19,2012-04-28
++++,Q3010091,Célestin Mbuyu Kabango,Q112221013,Interior and Security,2008-10-26,2010-02-19
++++,Q16545541,Célestin Vunabandi Kanyamihigo,Q112221028,Planning and Implementation of the Modernisation Revolution,2012-04-28,2014-12-09
++++,,Dakahu Dino Wakale Minida,Q112221051,Transport,2001-04-14,2003-07-30
++++,,Daniel Madimba Kalonji,Q112221044,Scientific Research and Technology,2014-12-09,2016-12-19
++++,Q130512,Daniel Mukoko Samba,Q112220973,Vice-Prime Minister and Minister of Budget,2012-04-28,2014-12-09
++++,Q107189252,David Jolino Makelele,Q112220985,Communications and Media,2019-08-26,
++++,Q3022760,Denis Kalume Numbi,Q112221013,"Interior, Decentralization and Security",2006-10-10,2008-10-26
++++,Q3022760,Denis Kalume Numbi,Q112221028,Planning and Reconstruction,2000-09-02,2001-01-16
++++,Q3022760,Denis Kalume Numbi,Q112221028,Planning and Reconstruction,2001-04-14,2002-11-17
++++,Q3022760,Denis Kalume Numbi,Q112221036,Reconstruction,1999-03-14,2000-09-02
++++,Q108385607,Denis Kambayi Tshimbumbu,Q112221057,Youth and Sports,2015-09-25,2016-12-19
++++,Q3022820,Denis Mbuyu Manga,,,2007-05-28,2007-11-26
++++,Q99852154,Deogratias Nkusu Kunzi Bikawa,Q112221041,Relations with the Parliament,2019-08-26,
++++,Q3026832,Didace Pembe Bokiaga,Q112220998,Environment,2007-02-05,2007-11-26
++++,Q97163169,Didier Mazengu Mukanzu,Q112221051,Transport,2019-08-26,
++++,Q3027119,Didier Mumengi,Q112221010,Information and Tourism,1999-03-14,2000-09-02
++++,Q3027119,Didier Mumengi,Q112221057,Youth and Sports,2000-09-02,2001-01-16
++++,Q107694205,Dieudonne´ Upira Sunguma Kagimbi,Q112220980,Civil Service,2010-02-19,2012-04-28
++++,Q102072771,Dominique Sakombi Inongo,Q112221010,Information,2000-09-02,2001-01-16
++++,,Edouard Kabukapwa Bitanga,Q112221018,Lands,2007-11-26,2008-10-26
++++,Q3050926,Elias Kakule Mbahingana,Q54437053,Tourism,2007-02-05,2007-11-26
++++,,Elias Mulungula,Q112220998,Environment,2006-10-16,2007-02-05
++++,,Elvis Mutiri wa Bashala,Q54437053,Tourism,2014-12-09,2016-12-19
++++,Q79423044,Elysee Munembwe Tamukumwe,Q112221032,Primary Education,2003-07-30,2004-01-22
++++,Q79423044,Elysee Munembwe Tamukumwe,Q112221028,Vice-Prime Minister and Minister of Planning,2019-08-26,
++++,,Emery Okundji,Q112221031,"Posts, Telecommunications and New Information and Communication Technologies",2017-05-09,2019-01-23
++++,,Emile Bongeli Yekolo,Q112220985,Communications and Media,2007-11-26,2008-10-26
++++,,Emile Bongeli Yekolo,Q112221001,Health,2005-01-03,2006-10-10
++++,,Emile Bongeli Yekolo,Q54099408,Vice-Prime Minister,2008-10-26,2010-02-19
++++,Q106904386,Emile Mota Ndongo Kang,Q54429353,"Agriculture, Fishing and Livestock",2015-09-25,2016-12-19
++++,,Emile Ngoy Kasongo,Q112220992,Economy,2004-07-11,2005-01-03
++++,,Emile Ngoy Kasongo,Q112221003,Higher Education,2003-07-30,2004-07-11
++++,,Emmanuel Ilunga Ngoy Kasongo,Q112220987,Congolese Abroad,2017-05-09,2019-01-23
++++,Q16269662,Emmanuel Ramazani Shadary,Q112221013,Vice-Prime Minister and Minister of Interior and Security,2016-12-19,2018-02-21
++++,,Enselme Emerunga,Q112220998,Environment,2003-07-30,2006-10-16
++++,Q106904634,Eraston Kambale Tsongo,Q112221057,Youth and Citizenship,2019-08-26,
++++,,Esdras Kambale Baekwa,Q54100574,Culture and Arts,2007-11-26,2010-02-19
++++,Q88222785,Eteni Longondo,Q112221001,Health,2019-08-26,
++++,,Etienne Kikanga Shima Musebo,Q54429353,Agriculture,2000-11-20,2001-01-16
++++,,Etienne Kikanga Shima Musebo,Q54429353,Agriculture and Animal Husbandry,1999-03-14,2000-11-20
++++,,Eugene Diomi Dongala,Q112221020,Mines,2003-07-30,2005-01-03
++++,Q3060002,Eugène Lokwa Ilwaloma,Q112221005,Human Rights,2007-02-05,2007-11-26
++++,Q3060173,Eugène Serufuli Ngayabaseka,Q112221043,Rural Development,2014-12-09,2016-12-19
++++,Q3060173,Eugène Serufuli Ngayabaseka,Q112221045,Small and Medium Enterprises,2016-12-19,2017-05-09
++++,Q3060173,Eugène Serufuli Ngayabaseka,Q108730998,Social Affairs,2017-05-09,2019-01-23
++++,Q96464551,Eustache Muhanzi Mubembe,Q112221054,Water Resources and Electricity,2019-08-26,
++++,,Evariste Heva Muakasa,Q112221044,Scientific Research,2017-05-09,2019-01-23
++++,,Evariste Heva Muakasa,Q112221051,Transport and Communications,2005-01-03,2007-02-05
++++,,Faida Mwangila,Q112220999,Family and Women Affairs,2003-07-30,2007-02-05
++++,,Ferdinand Kambere Kalumbi,Q112221017,Labour and Social Security,2008-10-26,2010-02-19
++++,,Ferdinand Kambere Kalumbi,Q108730998,"Social Affairs, Humanitarian Affairs, and National Solidarity",2010-02-19,2012-04-28
++++,,Ferdinand Mawapanga Mwanda Nanga,Q97366094,Finance,1999-03-14,2000-11-20
++++,,Ferdinand Mawapanga Mwanda Nanga,Q112221000,Fishing and Animal Husbandry,2000-11-20,2001-01-16
++++,,Fidèle Ntingu Bayi,Q112221058,Minister without Portfolio,2016-12-19,2017-05-09
++++,,Floribert Bokanga,Q112220992,Economy,2005-01-03,2005-11-18
+->,Q18611995,Franck Mwe di Malila,Q6866142->Q54437053,Minister of Foreign Affairs->Tourism,2019-01-01->2017-05-09,2019-09-09->2019-01-23
++++,Q3085432,Francois Muamba Tshishimbi,Q112220973,Budget,2003-07-30,2006-10-16
++++,Q3091442,François-Joseph Mobutu Nzanga Ngbangawe,Q54429353,Agriculture,2007-02-05,2007-11-26
++++,Q3091442,François-Joseph Mobutu Nzanga Ngbangawe,Q54429353,Agriculture and Rural Development,2007-11-26,2008-10-26
++++,Q3091442,François-Joseph Mobutu Nzanga Ngbangawe,Q54099408,Vice-Prime Minister,2008-10-26,2010-02-19
++++,Q3091442,François-Joseph Mobutu Nzanga Ngbangawe,Q112221017,Vice-Prime Minister and Minister of Labour and Social Security,2010-02-19,2011-03-11
+---,Q3087043,Freddy Matungulu,Q97366094,Minister of Finance,2001-04-01,2003-02-01
++++,Q3087663,Fridolin Kasweshi Musoka,Q112221011,"Infrastructure, Public Works, and Reconstruction",2010-02-19,2012-04-28
++++,Q3087663,Fridolin Kasweshi Musoka,Q112221011,Infrastructures and Public Works,2014-12-09,2016-12-19
++++,Q3087663,Fridolin Kasweshi Musoka,Q112221048,"Spatial Planning, Town Planning, Housing, Infrastructures, Public Works and Reconstruction",2012-04-28,2014-12-09
++++,Q5506698,Frédéric Kibassa Maliba,Q112221020,Mines,1998-01-03,2000-06-22
++++,Q19544597,Félix Kabange Numbi Mukwampa,Q112221001,Health,2012-04-28,2016-12-19
++++,Q19544597,Félix Kabange Numbi Mukwampa,Q112221018,Lands,2016-12-19,2017-05-09
++++,Q19544597,Félix Kabange Numbi Mukwampa,Q112221040,Regional Planning,2017-05-09,2019-01-23
++++,Q40680866,Gaston Musemena,Q112221034,"Primary and Secondary Education, and Professional Education",2016-12-19,2019-01-23
++++,Q48778043,Generose Lushiku Muya,Q112221052,Urban Development and Housing,2008-10-26,2010-02-19
++++,Q63349528,Geneviève Inagosi,Q112220999,"Gender, Family, and Children",2012-04-28,2014-12-09
++++,,George Buse Talai,Q112220996,Energy,2001-04-14,2003-07-30
++++,,Georges Kazadi Kabongo,Q54429353,Agriculture,2017-05-09,2019-01-23
++++,Q3103211,Georges Minsay Booka,Q112221015,Justice,2007-02-05,2007-11-26
++++,Q108809322,Georges Wembi Loambo,Q112221028,Planning and Implementation of the Modernisation Revolution,2015-09-25,2016-12-19
++++,Q3124059,Gerard Kamanda wa Kamanda,Q112221044,Scientific Research,2003-07-30,2007-02-05
++++,Q28086239,Germain Kambinga,Q112221009,Industry,2014-12-09,2016-12-19
++++,Q85853312,Gertrude Kitembo,Q112221031,Posts and Telecommunications,2003-07-30,2007-02-05
++++,Q78910576,Gilbert Kankonde Malamba,Q112221013,"Vice-Prime Minister and Minister of Interior, Security, and Customary Affairs",2019-08-26,
++++,Q105713042,Gilbert Tshiongo Tshibinkubula wa Tumba,Q112220996,Energy,2010-02-19,2012-04-28
++++,Q3109704,Godefroid Mayobo Mpwene Ngantien,Q112221058,Minister without Portfolio,2007-02-05,2008-10-26
++++,,Gregoire Bakandeja,Q112220992,"Economy, Commerce and Industry",2000-09-02,2001-01-16
++++,Q56779011,Gustave Boloko Nkeli,Q112221018,Lands,2015-09-25,2016-12-19
++++,Q106904741,Guy Mikulu Pombo,Q112220989,Customary Affairs,2017-05-09,2019-01-23
++++,Q106904741,Guy Mikulu Pombo,Q112221043,Rural Development,2019-08-26,
++++,Q106904741,Guy Mikulu Pombo,Q112221053,"Vocational training, Trades and Crafts",2016-12-19,2017-05-09
++++,,Gäestan Kakudji,Q112221013,Interior,1998-01-03,2001-01-16
++++,Q17275761,Gérard Tumba,Q112221028,Planning,2006-10-16,2007-02-05
++++,,Helen Mateibo,Q112221009,"Industry, Commerce and Small and Medium Enterprises",2001-04-14,2003-07-30
++++,Q3131683,Henri Mova Sakanyi,Q112220998,Environment and Tourism Development,2000-11-20,2001-01-16
++++,Q3131683,Henri Mova Sakanyi,Q112221010,Information and Press,2004-07-11,2007-02-05
++++,Q3131683,Henri Mova Sakanyi,Q112221051,Transport and Communications,2000-09-02,2000-11-20
++++,Q3131683,Henri Mova Sakanyi,Q112221013,Vice-Prime Minister and Minister of Interior and Security,2018-02-21,2019-01-23
+->,Q19631192,Henri Yav Mulang,Q97366094,Minister of Finance->Finance,2014-12-01->2014-12-09,2019-08-01->2019-01-23
++++,,Hubert Efole Wa Mbomba,Q112220992,Economy,2006-03-24,2006-10-16
++++,,Hubert Efole Wa Mbomba,Q112221017,Labour and Social Security,2006-10-16,2007-02-05
++++,Q3148164,Ignace Gata Mavinga,Q112221039,Regional Integration,2007-02-05,2007-11-26
++++,,Ingele Ifoto,Q112220996,Energy and Water Resources,2017-05-09,2019-01-23
++++,,Ingele Ifoto,Q112221020,Mines,2005-01-03,2006-10-16
++++,,Ingele Ifoto,Q108730998,Social Affairs,2003-07-30,2005-01-03
++++,,Irung Awan,Q17110451,Defence,2001-04-14,2003-07-30
++++,Q19631175,Isidore Kabwe Mwehu,Q54429353,"Agriculture, Fishing and Livestock",2014-12-09,2015-09-25
++++,Q107189605,Isumbisho Mwapu,Q112220980,Civil Service,2015-09-25,2016-12-19
++++,,Jacques Lungwana,Q112221057,Youth and Sports,2005-11-18,2006-10-16
++++,Q96471576,Jaqueline Penge Sanganyoi,Q112221058,Minister without Portfolio,2019-08-26,
++++,,Jean Amisi Kalondaya,Q97366094,Finance,2000-11-20,2001-01-16
++++,Q107126837,Jean Chrisostome Vahamwiti Mukesyayira,Q54429353,Agriculture and Rural Development,2012-04-28,2014-12-09
++++,Q3172112,Jean François Ekofo Panzoko,Q112221045,Small and Medium Enterprises,2007-02-05,2007-11-26
++++,Q106904800,Jean Joseph Kasonga Mukuta,Q54429353,Agriculture,2019-08-26,
++++,,Jean Marie Lukundji Kikuni,Q54100574,Culture and Arts,2019-08-26,
++++,,Jean Mbuyu Lunyongola,Q112221009,Industry and Small and Medium Enterprises,2003-10-05,2005-11-18
++++,,Jean Nengbangba Tshibanga,Q112221050,Technical and Professional Education,2014-12-09,2016-12-19
++++,Q3164322,Jean-Baptiste Ntahwa Kuderwa Batumike,Q112220973,Budget,2010-02-19,2012-04-28
++++,,Jean-Baudoin Mayo Mambeke,Q112220973,Vice-Prime Minister and Minister of Budget,2019-08-26,
++++,Q19631195,Jean-Claude Kibala,Q112220980,Civil Service,2012-04-28,2015-09-25
++++,Q106904846,Jean-Claude Molipe,Q112220973,Budget,2006-10-16,2007-02-05
++++,Q3165135,Jean-Claude Muyambo Kyassa,Q112221006,Humanitarian Affairs,2007-02-05,2007-11-26
++++,Q3165135,Jean-Claude Muyambo Kyassa,Q108730998,"Social Affairs, Humanitarian Affairs, and National Solidarity",2007-11-26,2008-10-26
+---,Q56515694,Jean-Lucien Bussa,Q56515760,Minister of Foreign Trade,2017-05-09,
++++,Q99852100,Jean-Lucien Bussa Tongba,Q56515760,Foreign Trade,2017-05-09,2019-01-23
++++,Q99852100,Jean-Lucien Bussa Tongba,Q56515760,Foreign Trade,2019-08-26,
++++,Q99852100,Jean-Lucien Bussa Tongba,Q112221028,Planning,2016-12-19,2017-05-09
++++,Q3167591,Jean-Marie Bulambo Kilosho,Q112220992,Economy,2010-02-19,2011-09-11
++++,Q3167591,Jean-Marie Bulambo Kilosho,Q112221000,Fishing and Livestock,2016-12-19,2017-05-09
++++,Q3167591,Jean-Marie Bulambo Kilosho,Q112221045,Small and Medium Enterprises,2011-09-11,2012-04-28
++++,,Jean-Marie Ntantu Mey,Q112221051,Transport and Communications,2000-11-20,2001-01-16
++++,Q3168626,Jean-Paul Nemoyato Begepole,Q112220992,Economy and Commerce,2012-04-28,2014-12-09
++++,Q379148,Jean-Pierre Bemba,Q3556877,Vice-President,2003-07-30,2007-02-05
++++,Q105946534,Jean-Pierre Bokole Ompoka,Q112221044,Scientific Research,2010-02-19,2012-04-28
++++,Q106913695,Jean-Pierre Daruwezi Mokombe,Q112220992,Economy,2011-09-11,2012-04-28
++++,Q105546420,Jean-Pierre Lisanga Bonganga,Q112221041,Relations with the Parliament,2017-05-09,2019-01-23
++++,Q3169519,Jean-Pierre Lola Kisanga,Q112221017,Labour and Social Security,2004-07-11,2005-01-03
++++,Q4334835,Jean-Pierre Ondekane,Q17110451,"Defence, Demobilisation and Veterans",2003-07-30,2005-01-03
++++,Q96244251,Jeanne Ebamba Boboto,Q108730998,Social Affairs,2001-04-14,2003-07-30
++++,Q96244251,Jeanne Ebamba Boboto,Q108730998,Social Affairs,2000-09-02,2001-01-16
++++,Q16195146,Jeannette Kavira Mapera,Q54100574,Culture and Arts,2010-02-19,2012-04-28
++++,Q63382184,Jeannine Mabunda Lioko Mudiayi,Q112221026,Parastatals,2007-02-05,2012-04-28
++++,,Jeannot Matadi Nenga Ngamanda,Q112220996,Energy and Water Resources,2014-12-09,2016-12-19
++++,,John Kwet Mwan Kwet,Q112220988,Cooperation and Development,2017-05-09,2019-01-23
++++,Q97368316,John Ntumba Panumpakole,Q112221053,"Vocational Training, Arts, and Crafts",2019-08-26,
++++,,John Tibasima,Q112221052,Urban Development,2003-07-30,2007-02-05
++++,Q106904755,Jonathan Bialosuka Wata,Q112221000,Fishing and Livestock,2019-08-26,
++++,,Jose Endundu Bonongo,Q112220998,Environment,2008-10-26,2010-02-19
++++,,Jose Endundu Bonongo,Q112220998,Environment and Tourism,2010-02-19,2012-04-28
++++,,Jose Endundu Bonongo,Q112220998,Environment and Tourism,2007-11-26,2008-10-26
++++,,Jose Endundu Bonongo,Q112221035,Public Works and Infrastructure,2003-07-30,2005-01-03
++++,Q108692448,Jose Engbanda,Q54437053,Tourism,2004-01-22,2007-02-05
++++,Q105798778,Jose Mpanda Kabangu,Q112221044,Scientific Research and Technical Innovation,2019-08-26,
++++,Q47171524,Joseph Kapika,Q112220992,Economy,2017-05-09,2019-01-23
++++,,Joseph Kokonyangi,Q112221052,Urban Planning and Housing,2016-12-19,2019-01-23
++++,Q107475186,Joseph Martin Kitumba Gagedi Gasagisa Mwanza,Q112221051,Transport,2011-09-11,2012-04-28
++++,,Joseph Mudumbi,Q112221003,Higher Education and University,2004-07-11,2005-01-03
++++,,Joseph Mudumbi,Q112221026,Parastatals,2003-07-30,2004-07-11
++++,Q28497506,Joseph Olenghankoy,Q112221051,Transport,2003-07-30,2005-01-03
++++,,Joseph Utitiyo Apata,Q112221044,Scientific Research,2008-10-26,2010-02-19
++++,Q3186402,José Makila Sumanda,Q112221035,Public Works and Infrastructure,2005-02-17,2006-10-16
++++,Q3186402,José Makila Sumanda,Q112221051,Vice-Prime Minister and Minister of Transport,2016-12-19,2019-01-23
+->,Q90354281,José Sele Yalaghuli->Jose Sele Yalaghuli,Q97366094,Minister of Finance->Finance,2019-08-01->2019-08-26,2021-04-01
++++,,Julien Paluku Kahongy,Q112221009,Industry,2019-08-26,
++++,,Julienne Lumumba,Q54100574,Culture and Arts,1998-06-01,2001-01-16
++++,Q20740642,Justin Bitakwira,Q112221005,Human Rights,2017-05-09,2019-01-23
++++,Q20740642,Justin Bitakwira,Q112221041,Relations with the Parliament,2016-12-19,2017-05-09
++++,Q3190458,Justin Kalumba Mwana Ngongo,Q112221045,Small and Medium Enterprises,2019-08-26,
++++,Q3190458,Justin Kalumba Mwana Ngongo,Q54430447,Trade,2011-09-11,2012-04-28
++++,Q3190458,Justin Kalumba Mwana Ngongo,Q112221051,Transport,2012-04-28,2016-12-19
++++,,Justin Kangundu,Q54429353,Agriculture,2003-07-30,2004-01-22
++++,,Kakez Ekir Kaz'Azama,Q112221005,Human Rights,2000-11-20,2001-01-16
++++,,Kalema Lusona,Q112220996,Energy,2003-07-30,2005-01-03
++++,,Kamara wa Kahikara,Q112220993,Education,1997-05-23,2000-11-20
++++,Q1735013,Kasongo Ilunga,Q56515760,Foreign Trade,2007-02-05,2007-05-28
++++,Q3196526,Kikaya bin Karubi,Q112220985,Communications and Press,2001-04-14,2003-07-30
++++,Q3280404,Kisimba Ngoy,Q112221015,Justice,2003-07-30,2006-10-16
++++,Q3280404,Kisimba Ngoy,Q112221018,Lands,2008-10-26,2012-04-28
++++,Q19631177,Kudianga Bayokisa,Q112220984,Commerce,2014-12-09,2016-12-19
++++,,Kutumisa Tshioka,Q112220993,Education,2001-04-14,2003-07-30
++++,Q3008880,Kyamusoke Bamusulanga Nta-Bote,Q112221031,Posts and Telecommunications,2007-02-05,2007-11-26
++++,,Lambert Matuku,Q112220994,"Employment, Work and Social Security",2016-12-19,2019-01-23
++++,Q178793,Lambert Mende Omalanga,Q112220985,Communications and Media,2008-10-26,2012-04-28
++++,Q178793,Lambert Mende Omalanga,Q112220985,Communications and Media,2014-12-09,2019-01-23
++++,Q178793,Lambert Mende Omalanga,Q112221007,Hydrocarbons,2007-02-05,2008-10-26
++++,Q178793,Lambert Mende Omalanga,Q112221019,"Media, in charge of Relations with Parliament and Initiation to the new citizenship",2012-04-28,2014-12-09
++++,Q3218739,Laure-Marie Kawanda Kayena,Q112221051,Transport,2010-02-19,2011-05-03
++++,Q48775364,Laurent Muzangisa,Q112220996,Energy,2008-10-26,2010-02-19
++++,Q3218981,Laurent-Simon Ikenge Lisambola,Q112220980,Civil Service,2007-11-26,2008-10-26
++++,Q3218981,Laurent-Simon Ikenge Lisambola,Q112221052,Urban Development and Housing,2007-02-05,2007-11-26
++++,Q3240837,Liliane Mpande Mwaba,Q112221018,Lands,2007-02-05,2007-11-26
+---,Q3078546,Louis Alphonse Koyagialo,Q3401753,Prime Minister of the Democratic Republic of the Congo,2012-03-06,2012-04-18
++++,,Louis Alphonse Koyagialo Ngbasete Gerengbo,Q112221031,Vice-Prime Minister and Minister of Posts and Telecommunications,2011-09-11,2012-04-28
++++,Q3263804,Louise Munga Mesozi,Q112221026,Parastatals,2012-04-28,2016-12-19
++++,Q3263804,Louise Munga Mesozi,Q112221031,Posts and Telecommunications,2007-11-26,2010-02-19
++++,Q96436683,Lucie Kipele Aki Azwa,Q112220999,"Gender, Family, and Children",2015-09-25,2016-12-19
++++,,Lumeya Dhu-Maleghi,Q112221018,Lands,2017-05-09,2019-01-23
++++,,Luzolo Mbambi Ntesa,Q112221015,Justice,2008-10-26,2010-02-19
++++,,Luzolo Mbambi Ntesa,Q112221015,Justice and Human Rights,2010-02-19,2012-04-28
++++,Q3271542,Lèonard She Okitundu,Q6866142,Foreign Affairs and International Cooperation,2000-11-20,2001-01-16
++++,Q3271542,Lèonard She Okitundu,Q6866142,Foreign Affairs and International Cooperation,2001-04-14,2003-07-30
++++,Q3271542,Lèonard She Okitundu,Q112221005,Human Rights,1998-06-01,2000-11-20
++++,Q3271542,Lèonard She Okitundu,Q6866142,Vice-Prime Minister and Minister of Foreign Affairs and Regional Integration,2016-12-19,2019-01-23
+---,Q3271517,Léonard Luongwe,Q97366094,Minister of Finance,2003-02-01,2003-06-01
++++,Q3271518,Léonard Mashako Mamba,Q112221001,Health,2001-04-14,2003-07-30
++++,Q3271518,Léonard Mashako Mamba,Q112221001,Health,1999-03-14,2001-01-16
++++,Q3271518,Léonard Mashako Mamba,Q112221003,Higher Education and University,2008-10-26,2012-04-28
++++,,Léonard Masuga Rugamika,Q112221003,"Higher Education, University, and Scientific Research",2007-11-26,2008-10-26
+---,Q3271542,Léonard She Okitundu,Q6866142,Minister of Foreign Affairs,2016-12-01,2019-03-01
+---,Q3271542,Léonard She Okitundu,Q6866142,Minister of Foreign Affairs,2000-01-01,2003-01-01
++++,Q110770469,Maguy Kiala Bolenga,Q112221057,Youth and and Initiation to Citizenship,2016-12-19,2019-01-23
++++,Q3280754,Maker Mwangu Famba,Q112221034,Primary and Secondary Education and Initiation to Citizenship,2014-12-09,2016-12-19
++++,Q3280754,Maker Mwangu Famba,Q112221034,Primary and Secondary Education and Professional Training,2007-02-05,2014-12-09
++++,Q106904673,Marcel Amos Mbayo Kitenge,Q112221049,Sports and Leisure,2019-08-26,
++++,Q60958438,Marcel Ilunga Leu,Q112221009,Industry,2016-12-19,2019-01-23
++++,Q3289189,Marcel Malenso Ndodila,Q54100574,Culture and Arts,2007-02-05,2007-11-26
+---,Q3290052,Marco Banguli,Q97366094,Minister of Finance,2005-11-01,2007-02-01
++++,,Marco Banguli N’sambwe Mbali,Q97366094,Finance,2005-11-18,2007-02-05
+->,Q81852221,Marie Tumba Nzeza,Q6866142,Minister of Foreign Affairs->Foreign Affairs,2019-09-09->2019-08-26,2021-04-12
++++,Q3291479,Marie-Ange Lukiana Mufwankol,Q112221017,Labour and Social Security,2001-04-14,2003-07-30
++++,Q3291479,Marie-Ange Lukiana Mufwankol,Q112221017,Labour and Social Security,2007-02-05,2008-10-26
++++,Q3291479,Marie-Ange Lukiana Mufwankol,Q112221055,Women Affairs,2008-10-26,2012-04-28
++++,Q28811859,Marie-Ange Mushobekwa,Q112221005,Human Rights,2016-12-19,2019-01-23
++++,Q56618763,Marie-Louise Mwange,Q112220999,"Gender, Family, and Children",2016-12-19,2017-05-09
++++,Q96244491,Marie-Madeleine Kalala,Q112221005,Human Rights,2003-07-30,2007-02-05
++++,,Marthe Ngalula Wakuana,Q54100574,Culture and Arts,2001-04-14,2003-07-30
++++,Q3295341,Martin Bitijula Mahimba,Q108730998,Social Affairs and National Solidarity,2007-02-05,2007-11-26
++++,Q3295482,Martin Kabwelulu Labilo,Q112221020,Mines,2007-02-05,2019-01-23
++++,Q109044479,Martine Ntumba Bukasa,Q112221043,Rural Development,2016-12-19,2017-05-09
+->,Q57883,Matata Ponyo Mapon->Augustin Matata Ponyo Mapon,Q97366094,Minister of Finance->Finance,2010-02-01->2010-02-19,2012-04-01->2012-04-28
+->,Q57883,Matata Ponyo Mapon->Augustin Matata Ponyo Mapon,Q3401753,Prime Minister of the Democratic Republic of the Congo->Prime Minister,2012-04-18->2012-04-28,2016-11-17->2016-12-19
++++,,Mathieu Kalele Kabila,Q112221020,Mines,2006-10-16,2007-02-05
++++,Q48778037,Matthieu Mpika,Q112221051,Transport,2008-10-26,2010-02-19
++++,,Matungulu Nguyamu,Q112220992,"Economy, Finance and Budget",2001-04-14,2002-11-17
++++,,Matungulu Nguyamu,Q97366094,Finance and Budget,2002-11-17,2003-07-30
+---,Q3301954,Mawampanga Mwana Nanga,Q97366094,Minister of Finance,1999-03-01,2000-11-01
++++,Q2853312,Mbusa Nyamwisi,Q112220990,Decentralization and Regional Planning,2008-10-26,2011-09-11
++++,Q2853312,Mbusa Nyamwisi,Q112221038,Regional Cooperation,2003-07-30,2007-02-05
++++,,Michel Bongongo Ikoli Ndombo,Q112220973,Budget,2014-12-09,2016-12-19
++++,,Michel Bongongo Ikoli Ndombo,Q112220980,Civil Service,2016-12-19,2019-01-23
++++,Q47524829,Michel Botoro,Q112220980,Civil Service,2008-10-26,2010-02-19
++++,Q3310203,Michel Lokola Elemba,Q112220973,Budget,2008-10-26,2010-02-19
++++,,Mira Ndjoko,Q112221013,Interior,2001-04-14,2002-11-17
++++,Q19543886,Modeste Bahati Lukwebo,Q112220992,Economy,2014-12-09,2017-05-09
++++,Q19543886,Modeste Bahati Lukwebo,Q112220994,"Employment, Work and Social Security",2012-04-28,2014-12-09
++++,Q19543886,Modeste Bahati Lukwebo,Q112221028,Planning,2017-05-09,2019-01-23
+->,Q3317906,Modeste Mutombo Kyamakosa,Q97366094,Minister of Finance->Finance,2003-06-01->2003-07-30,2003-09-01->2003-10-05
++++,Q96244405,Moleko Moliwa,Q108730998,Social Affairs,1999-03-14,2000-09-02
++++,Q56302679,Moïse Nyarugabo Muhizi Mugeyo,Q112220992,Economy,2006-10-10,2007-02-05
++++,,Mukendi Tshambula,Q112221009,Industry and Small and Medium Enterprises,2005-11-18,2006-10-16
++++,Q25694801,Mwenze Kongolo,Q112221015,Justice,1998-01-03,2001-01-16
++++,Q25694801,Mwenze Kongolo,Q112221022,National Security and Public Order,2001-04-14,2002-11-17
++++,Q97277162,Nene Nkulu Ilunga,Q112221017,"Labour, Employment and Social Security",2019-08-26,
++++,,Ngele Masudi,Q112221015,Justice,2001-04-14,2003-07-30
++++,,Nionyi Bwana Kawa,Q112221034,Primary and Secondary Education and Professional Training,2006-10-16,2007-02-05
++++,,Nkodi Mbaki,Q112221035,"Public Works, Territorial Administration, Housing and Urban Development",2001-04-14,2003-07-30
++++,Q3342365,Nkulu Mitumba Kilombo,Q112221058,Minister without Portfolio,2007-02-05,2008-10-26
++++,,Norbert Basengezi Katitima,Q54429353,Agriculture,2008-10-26,2012-04-28
++++,Q1532002,Norbert Likulia Bolongo,Q112220997,Enterprises,2000-09-02,2001-01-16
++++,Q2839928,Ntumba Luaba,Q112221005,Human Rights,2001-04-14,2003-07-30
++++,,Odelive Meta Mutombo Mudiay,Q112221038,Regional Cooperation,2000-09-02,2001-01-16
++++,,Odette Babandoya Etowa,Q112221051,Transport and Communications,1999-03-14,2000-09-02
++++,Q3351121,Olivier Kamitatu Etsu,Q112221028,Planning,2007-02-05,2012-04-28
++++,Q3351121,Olivier Kamitatu Etsu,Q112221028,Planning and Implementation of the Modernisation Revolution,2014-12-09,2015-09-25
++++,Q54010330,Oly Ilunga Kalenga,Q112221001,Health,2016-12-19,2019-01-23
++++,,Omer Engwake,Q112221048,"Spatial planning, Town planning and Housing",2014-12-09,2016-12-19
++++,,Omer Engwake,Q112221057,Youth and Sports,2003-07-30,2005-02-17
++++,,Paluku Kisaka Yereyere,Q112221000,Fishing and Livestock,2017-05-09,2019-01-23
++++,,Paluku Kisaka Yereyere,Q108730998,"Social Affairs, Humanitarian Action and National Solidarity",2016-12-19,2017-05-09
++++,Q30728171,Papy Niango,Q112221049,Sports,2017-05-09,2019-01-23
++++,,Pardone Kaliba Mulanga,Q112221043,Rural Development,2003-07-30,2006-10-16
++++,,Pardone Kaliba Mulanga,Q112221057,Youth and Sports,2007-02-05,2007-11-26
+->,Q107141721,Patrice Kitebi Kibol Mvul,Q97366094,Minister of Finance->Finance,2012-04-01->2012-04-28,2014-12-01->2014-12-09
++++,,Patrick Mayombe Mumbioko,Q54429353,Agriculture,2016-12-19,2017-05-09
++++,Q48775368,Patrick Sulubika,Q112221057,Youth and Sports,2008-10-26,2010-02-19
++++,Q3371887,Paul Musafiri,Q54429353,Agriculture,2005-02-17,2005-11-18
++++,Q3371887,Paul Musafiri,Q112221034,Primary and Secondary Education and Professional Training,2005-11-18,2006-10-16
++++,,Paul-Gabriel Kapita Shabangi,Q112220980,"Civil Service, Labour and Social Security",1999-03-14,2000-09-02
++++,Q96999221,Pepin Guillaume Manjolo Buakila,Q112221014,"International Cooperation, Regional Integration and Francophonie",2019-08-26,
++++,,Philippe Kohotama Mawuoko,Q112221031,Posts and Telecommunications,2001-04-14,2003-07-30
++++,,Philippe Undji Yangya,Q112221043,Rural Development,2010-02-19,2011-09-11
++++,Q3381176,Philomène Omatuku,Q112221009,Industry and Small and Medium Enterprises,2006-10-16,2007-02-05
++++,Q3381176,Philomène Omatuku Atshakawo Akatshi,Q112221055,Women Affairs,2007-02-05,2008-10-26
+->,Q3381294,Philémon Mukendi->Philemon Mukendi,Q54100574,Minister of Culture of the Democratic Republic of the Congo->Culture and Arts,2005-11-18,NULL->2007-02-05
++++,,Pierre Anatole Matusila,Q112220996,Energy and Water Resources,2016-12-19,2017-05-09
++++,,Pierre Ilunga Bindu wa Biluba,Q112221015,Justice,2006-10-16,2007-02-05
++++,Q107528370,Pierre Kangudia Mbayi,Q112220973,Budget,2016-12-19,2019-01-23
++++,Q3386032,Pierre Lumbi Okongo,Q112221011,"Infrastructure, Public Works, and Reconstruction",2007-02-05,2010-02-19
++++,Q3386090,Pierre Manoka,Q112220992,Economy,2005-11-18,2006-03-24
++++,,Pierre Muzumba Mwana Ombe,Q112220996,Energy,2005-01-03,2005-11-18
++++,Q3383536,Pierre-Victor Mpoyo,Q112221058,Minister without Portfolio,2000-11-20,2001-01-16
++++,Q3383536,Pierre-Victor Mpoyo,Q112221023,Oil,1999-03-14,2000-11-20
++++,,Pierrette Gene Vungbo Yatalo,Q54100574,Culture,2003-09-06,2004-07-11
++++,,Pierrot Uweka Ukaba,Q112221053,"Vocational training, Trades and Crafts",2017-05-09,2019-01-23
++++,,Pius Mwabilu Mabyu,Q112221052,Urban Affairs and Housing,2019-08-26,
++++,,Prosper Kibue Molambo,Q112221031,Posts and Telecommunications,1999-03-14,2000-11-20
++++,,Prosper Kibue Molambo,Q112221035,Public Works,2000-11-20,2001-01-16
+->,Q3421106,Raymond Ramazani Baya,Q6866142,Minister of Foreign Affairs->Foreign Affairs and International Cooperation,2004-07-22,2007-02-06->2007-02-05
+---,Q3421171,Raymond Tshibanda,Q6866142,Minister of Foreign Affairs,2012-04-01,2016-12-01
++++,,Raymond Tshibanda N’tunga Mulongo,Q6866142,"Foreign Affairs, International Cooperation and Francophonie",2012-04-28,2016-12-19
++++,,Raymond Tshibanda N’tunga Mulongo,Q112221014,International and Regional Cooperation,2008-10-26,2012-04-28
++++,Q3424667,Remy Henri Kuseyo Gatanga,Q112221051,Transport and Communications,2007-02-05,2007-10-05
++++,Q3424672,Remy Musungayi Bampale,Q112221009,"Industry, Small and Medium Enterprises",2012-04-28,2014-12-09
++++,Q3426386,René Isekemanga Nkeka,Q112221007,Hydrocarbons,2008-10-26,2010-02-19
++++,,Richard Muyej Mangenz,Q112221013,"Interior, Security, Decentralization and Customary Affairs",2012-04-28,2014-12-09
++++,,Richard Muyej Mangenz,Q112221041,Relations with the Parliament,2010-02-19,2012-04-28
++++,Q106904372,Robert Bopolo Bogeza,Q112220998,Environment and Sustainable Development,2015-09-25,2016-12-19
++++,Q107128113,Robert Mbwinga Bila,Q112221018,Lands,2012-04-28,2014-12-09
++++,Q3439223,Roger Lumbala,Q56515760,Foreign Trade,2003-07-30,2005-01-03
++++,,Roger Nimy,Q54437053,Tourism,2003-07-30,2004-01-22
++++,,Roger Nimy,Q112221057,Youth and Sports,2005-02-17,2005-11-18
++++,,Romain Nimy Tembo,Q54429353,Agriculture,2006-10-16,2007-02-05
++++,Q96210162,Rose Boyata Monkaju,Q108730998,Social Affairs,2019-08-26,
++++,Q85854584,Rubens Mikindo Muhima,Q112221007,Hydrocarbons,2019-08-26,
++++,,Safi Adili,Q112221043,Rural Development,2008-10-26,2010-02-19
++++,Q2424586,Salomon Banamuhere Baliene,Q112220990,Decentralization and Customary Affairs,2014-12-09,2016-12-19
++++,Q2424586,Salomon Banamuhere Baliene,Q112220996,Energy,2005-11-18,2006-10-16
++++,Q2424586,Salomon Banamuhere Baliene,Q112220996,Energy,2007-02-05,2008-10-26
++++,Q2424586,Salomon Banamuhere Baliene,Q112221018,"Land Affairs, Environment and Tourism",2001-04-14,2003-07-30
++++,Q105523479,Sama Lukonde Kyenge,Q112221057,Youth and Sports,2014-12-09,2015-09-25
+->,Q17639110,Samy Badibanga,Q3401753,Prime Minister of the Democratic Republic of the Congo->Prime Minister,2016-11-17->2016-12-19,2017-05-18->2017-04-06
++++,,Sessanga Hipung Dja Kaseng,Q112221028,Planning,2006-03-24,2006-10-16
++++,,Simon Bawangamio Tumawako,Q112221020,Mines and Hydrocarbons,2001-04-14,2003-07-30
++++,Q3484223,Simon Bulupiy Galati,Q112221017,Labour,2011-09-11,2012-04-28
++++,Q3484223,Simon Bulupiy Galati,Q112221031,Vice-Prime Minister and Minister of Posts and Telecommunications,2010-02-19,2011-09-11
++++,Q3484373,Simon Mboso Kiamputu,Q112221009,Industry,2007-02-05,2007-11-26
++++,Q3484373,Simon Mboso Kiamputu,Q112221009,Industry,2008-10-26,2010-02-19
++++,Q3484373,Simon Mboso Kiamputu,Q112221009,Industry and Small and Medium Enterprises,2007-11-26,2008-10-26
++++,Q97446584,Steve Mbikayi Mabuluki,Q112221003,Higher Education and University,2016-12-19,2019-01-23
++++,Q97446584,Steve Mbikayi Mabuluki,Q112221006,Humanitarian Action and National Solidarity,2019-08-26,
++++,Q2372748,Sylvain Joël Bifuila Tshamuala,Q112220992,Economy,2007-02-05,2007-11-26
++++,,Sylvain Maurice Masheke,Q54100574,Culture and Arts,2016-12-19,2017-05-09
++++,Q3507094,Sylvain Ngabu Chumbu,Q112221003,Higher Education and University,2007-02-05,2007-11-26
++++,Q3507094,Sylvain Ngabu Chumbu,Q112221052,Urban Development and Housing,2007-11-26,2008-10-26
++++,Q3507165,Sylvanus Mushi Bonane,Q112221044,Scientific Research,2007-02-05,2007-07-13
+->,Q63967715,Sylvestre Ilunga->Sylvestre Ilunga Ilunkamba,Q3401753,Prime Minister of the Democratic Republic of the Congo->Prime Minister,2019-05-20->2019-08-26,2021-01-28
++++,Q107099631,Symphorien Mutombo Bakafwa Nsenda,Q112221015,Justice and Human Rights,2007-11-26,2008-10-26
++++,Q107099631,Symphorien Mutombo Bakafwa Nsenda,Q54099408,Vice-Prime Minister,2008-10-26,2010-02-19
++++,,Tharcisse Habarugira,Q17110451,"Defence, Demobilisation and Veterans",2006-10-16,2007-02-05
++++,Q3526308,Theo Baruti,Q112221003,Higher Education and University,2005-11-18,2007-02-05
++++,Q3526308,Theo Baruti,Q112221017,Labour and Social Security,2003-07-30,2004-07-11
++++,Q18649355,Thomas Luhaka Losenjola,Q112221003,Higher Education and University,2019-08-26,
++++,Q18649355,Thomas Luhaka Losenjola,Q112221011,"Infrastructure, Public Works, and Reconstruction",2016-12-19,2019-01-23
++++,Q18649355,Thomas Luhaka Losenjola,Q112221031,"Vice-Prime Minister and Minister of Posts, Telecommunications and New Information and Communication Technologies",2014-12-09,2016-12-19
++++,Q3526676,Théophile Mbemba Fundu,Q112221003,Higher Education and University,2014-12-09,2016-12-19
++++,Q3526676,Théophile Mbemba Fundu,Q112221013,Interior,2002-11-17,2003-07-30
++++,Q3526676,Théophile Mbemba Fundu,Q112221013,"Interior, Decentralization and Security",2003-07-30,2006-10-10
++++,Q107041760,Timothèe Moleka Nzulama,Q112221057,Youth and Sports,2001-04-14,2003-07-30
++++,,Timothée Mukeba,Q112221057,Youth and Sports,2006-10-16,2007-02-05
++++,Q3535662,Toussaint Tshilombo Send,Q112221010,"Information, Press, and National Communications",2007-02-05,2007-11-26
++++,Q19629172,Tryphon Kin-Kiey Mulumba,Q112221031,"Posts, Telecommunications and New Information and Communication Technologies",2012-04-28,2014-12-09
++++,Q19629172,Tryphon Kin-Kiey Mulumba,Q112221041,Relations with the Parliament,2014-12-09,2016-12-19
++++,,Tshibangu Kalala,Q112221058,Minister without Portfolio,2017-05-09,2019-01-23
++++,,Tshubaka Bisikuabo,Q112221004,"Housing, Environment and Tourism",2000-09-02,2000-11-20
++++,,Tshubaka Bisikuabo,Q112221018,"Lands, Environment, Fishing and Forest Resources",1999-03-14,2000-09-02
++++,,Tshubaka Bisikuabo,Q112221023,Oil,2000-11-20,2001-01-16
++++,Q48775328,Upio Kakura Wapol,Q112221005,Human Rights,2008-10-26,2010-02-19
++++,Q98269668,Valentin Senga,Q54429353,Agriculture,2004-01-22,2005-02-17
++++,,Venant Tshipasa,Q112220989,Customary Affairs,2016-12-19,2017-05-09
++++,,Venant Tshipasa,Q112221018,Lands,2003-07-30,2007-02-05
++++,Q3557436,Victor Makwenge Kaput,Q112221001,Health,2007-02-05,2008-10-26
++++,Q3557436,Victor Makwenge Kaput,Q112221001,Health,2010-02-19,2012-04-28
++++,Q981106,Vital Kamerhe,Q112221010,Information and Press,2003-07-30,2004-07-11
++++,Q97464651,Willy Bakonga,Q112221034,"Primary, Secondary, and Technical Education",2019-08-26,
++++,Q97464651,Willy Bakonga,Q112221049,Sports,2016-12-19,2017-05-09
++++,Q97464651,Willy Bakonga,Q112221057,Youth and Sports,2007-11-26,2008-10-26
++++,Q98923080,Willy Kitobo Samsoni,Q112221020,Mines,2019-08-26,
++++,Q19545075,Willy Makiashi,Q112220994,"Vice-Prime Minister and Minister of Employment, Work and Social Security",2014-12-09,2016-12-19
++++,Q97478738,Willy Ngoopos Sunzhel,Q112221011,Vice-Prime Minister and Minister of Infrastructure and Public Works,2019-08-26,
++++,Q104889315,Wivine Mumba Matipa,Q112221015,Justice and Human Rights,2012-04-28,2014-12-09
++++,Q104889315,Wivine Mumba Matipa,Q112221026,Parastatals,2016-12-19,2019-01-23
++++,,Xavier Idi Muanuke,Q112221043,Rural Development,2006-10-16,2007-02-05
++++,,Yagi Sitolo,Q112221001,Health,2003-07-30,2004-07-11
++++,,Yagi Sitolo,Q112221031,Posts and Telecommunications,2000-11-20,2001-01-16
++++,,Yagi Sitolo,Q112221035,Public Works,1999-03-14,2000-11-20
++++,Q96210151,Yollande Ebongo Bosongo,Q112220980,Civil Service,2019-08-26,
++++,Q96468125,Yves Bonkulu Zola,Q54437053,Tourism,2019-08-26,
++++,,Zacharie Kashongwe,Q112221001,Health,2006-10-10,2007-02-05
++++,Q3576517,Zéphyrin Mutu Diambu-di-Lusala Nieva,Q112220980,Civil Service,2007-02-05,2007-11-26
++++,,Évariste Boshab Mabudj-ma-Bilenge,Q112221013,Vice-Prime Minister and Minister of Interior and Security,2014-12-09,2016-12-19
