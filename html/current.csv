@@ -1,10 +1,51 @@
 position,person,personID,start,gender,DOB,DOD,image,enwiki
 President,Félix Tshisekedi,Q29032770,2019-01-25,male,1963-06-13,,Félix Tshisekedi - 2019 (cropped).jpg,Félix Tshisekedi
 Prime Minister,Jean-Michel Sama Lukonde,Q105523479,2021-02-15,male,1977-08-04,,"Jean-Michel Sama Lukonde, premier ministre de la RDC (cropped).png",Jean-Michel Sama Lukonde
-Minister of Culture,Philémon Mukendi,Q3381294,2005-11-18,male,1956,,,
+Minister of Agriculture,Jean Joseph Kasonga Mukuta,Q106904800,2019-08-26,male,,,,
+Minister of Budget,Jean-Baudoin Mayo Mambeke,Q112221973,2019-08-26,,,,,
+Minister of Civil Service,Yollande Ebongo Bosongo,Q96210151,2019-08-26,female,,,,
+Minister of Communications,David Jolino Diwanpovesa Makelele ma-Muzingi,Q107189252,2019-08-26,male,,,,
+Minister of Culture,Jean Marie Lukundji Kikuni,Q112221970,2019-08-26,,,,,
+Minister of Decentralization,Azarias Ruberwa,Q2875098,2019-08-26,male,1964-08-20,,,Azarias Ruberwa
 Minister of Defence,Crispin Atama Tabe,Q3002789,2015-09,male,1956-08-18,,Crispin Atama Tabe - May 2016.jpg,
+Minister of Economy,Acacia Bandubola Mbongo,Q87990699,2019-08-26,female,,,,Acacia Bandubola Mbongo
+Minister of Environment,Claude Nyamugabo Bazibuye,Q48775372,2019-08-26,male,1972-02-02,,Claude Nyamugabo Bazibuhe.jpg,
+Minister of Family,Béatrice Lomeya Atilite,Q96210138,2019-08-26,female,,,,Béatrice Lomeya
 Minister of Finance,Nicolas Kazadi,Q62066858,2021-04,male,1966-01,,Nicolas Kazadi at home.jpg,Nicolas Kazadi
+Minister of Fishing,Jonathan Bialosuka Wata,Q106904755,2019-08-26,male,,,,
 Minister of Foreign Affairs,Christophe Lutundula,Q5111780,2021-04-12,male,,,Christophe Lutundula (profile).jpg,Christophe Lutundula
+Minister of Foreign Trade,Jean-Lucien Bussa,Q56515694,2019-08-26,male,1962-03-26,,JLB Final.png,
+Minister of Health,Eteni Longondo,Q88222785,2019-08-26,male,1965,,Eteni Longondo (cropped).jpg,Eteni Longondo
+Minister of Higher Education,Thomas Luhaka,Q18649355,2019-08-26,male,1964-11-18,,Thomas Luhaka - 2016 (cropped).jpg,
+Minister of Human Rights,André Lite,Q67218417,2019-08-26,male,1979-05,,André Lite Asebea - 2019 (cropped).jpg,
+Minister of Humanitarian Affairs,Steve Mbikayi Mabuluki,Q97446584,2019-08-26,male,1964-01-23,,,Steve Mbikayi Mabuluki
+Minister of Hydrocarbons,Rubens Mikindo Muhima,Q85854584,2019-08-26,male,,,,
+Minister of Industry,Julien Paluku Kahongy,Q112221982,2019-08-26,,,,,
+Minister of Infrastructure,Willy Ngoopos Sunzhel,Q97478738,2019-08-26,male,1961,,,
+Minister of Interior,Gilbert Kankonde Malamba,Q78910576,2019-08-26,male,,,,
+Minister of International Cooperation,Pépin Guillaume Manjolo,Q96999221,2019-08-26,male,,,Pépin Guillaume Manjolo (cropped).jpg,
+Minister of Justice,Célestin Tunda ya Kasende,Q78469448,2019-08-26,male,1954-07-21,,,
+Minister of Labour,Néné Nkulu Ilunga,Q97277162,2019-08-26,female,,,,
+Minister of Lands,Aimé Sakombi Molendo,Q96210398,2019-08-26,female,,,,
+Minister of Mines,Willy Kitobo Samsoni,Q98923080,2019-08-26,,,,,
+Minister of Parastatals,Clément Kuete Nymi Bemuna,Q99851996,2019-08-26,female,,,,
+Minister of Physical Planning,Aggée Aje Matembo Toto,Q106904729,2019-08-26,male,1971,,,
+Minister of Planning,Élysée Munembwe,Q79423044,2019-08-26,female,1960-04-16,,,
+Minister of Posts and Telecommunications,Augustin Kibassa Maliba,Q107189280,2019-08-26,male,,,,
+Minister of Primary and Secondary Education,Willy Bakonga Wilima,Q97464651,2019-08-26,male,,,,
+Minister of Relations with the Parliament,Déogratias Nkusu Kunzi Bikawa,Q99852154,2019-08-26,male,1958,,,
+Minister of Rural Development,Guy Mikulu Pombo,Q106904741,2019-08-26,male,,,,
+Minister of Scientific Research,José Mpanda Kabangu,Q105798778,2019-08-26,male,1971-08-31,,José Mpanda Kabangu - 2020 (cropped).jpg,
+Minister of Small and Medium Enterprises,Justin Kalumba Mwana Ngongo,Q3190458,2019-08-26,male,,,,
 Minister of Social Affairs,Modeste Mutinga,Q3317910,2021-04-12,male,,,,Modeste Mutinga
+Minister of Sports,Marcel Amos Mbayo Kitenge,Q106904673,2019-08-26,male,,,,
+Minister of Tourism,Yves Bonkulu Zola,Q96468125,2019-08-26,,1984-09,,,
+Minister of Transport,Didier Mazengu Mukanzu,Q97163169,2019-08-26,,,,,
+Minister of Urban Development,Pius Mwabilu Mabyu,Q112222018,2019-08-26,,,,,
+Minister of Vocational Training,John Ntumba Panumankole,Q97368316,2019-08-26,male,,,,
+Minister of Water Resources and Electricity,Eustache Muhanzi Mubembe,Q96464551,2019-08-26,male,,,Eustache Muhanzi Mubembe - 2020 (cropped).jpg,
+Minister of Youth,Eraston Kambale Tsongo,Q106904634,2019-08-26,male,,,,
+Minister without Portfolio,André Kabanda Kana,Q106904653,2019-08-26,male,,,,
+Minister without Portfolio,Jaqueline Penge Sanganyoi,Q96471576,2019-08-26,female,,,,
 President of the National Assembly,Christophe Mboso N'Kodia Pwanga,Q2966383,2020-12-11,male,,,,Christophe Mboso N'Kodia Pwanga
 President of the Senate,Modeste Bahati Lukwebo,Q19543886,2021-03-02,male,1956-01-13,,Bahati1.jpg,Modeste Bahati Lukwebo

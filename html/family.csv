@@ -2,11 +2,12 @@ id,name,relationship,relative,relativename
 Q104600997,Guy Loando Mboyo,father,Q104601569,Mboyo Loando Pierre
 Q104600997,Guy Loando Mboyo,mother,Q104601534,Bompongo Mpetshi Marie
 Q104600997,Guy Loando Mboyo,spouse,Q104601341,Déborah Linda Loando
+Q104889315,Wivine Mumba Matipa,spouse,Q106936395,Simon Tuma-Waku Bawanganiwo
 Q106914680,Juliette Mbambu Mughole,father,Q110994233,Paluku Malambo
 Q106914680,Juliette Mbambu Mughole,mother,Q110994244,Kavira Kyabusiku
 Q106914680,Juliette Mbambu Mughole,relative,Q110994233,Paluku Malambo
 Q106914680,Juliette Mbambu Mughole,relative,Q110994244,Kavira Kyabusiku
-Q107368856,Gael Bussa,father,Q106647261,Jean-Lucien Bussa Tongba
+Q107368856,Gael Bussa,father,Q106647261,
 Q107368856,Gael Bussa,mother,Q107369212,Petronelle Mambetuku Kimpioka
 Q107368856,Gael Bussa,spouse,Q107369189,Alicia Salawa
 Q135547,Laurent-Désiré Kabila,child,Q19629165,Zoé Kabila
@@ -16,8 +17,16 @@ Q135547,Laurent-Désiré Kabila,child,Q57416,Joseph Kabila
 Q18611995,Franck Mwe di Malila,father,Q18746076,Édouard Mwe di Malila Apenela
 Q29032770,Félix Tshisekedi,father,Q168629,Étienne Tshisekedi
 Q29032770,Félix Tshisekedi,spouse,Q61855144,Denise Nyakeru Tshisekedi
+Q3091442,Nzanga Mobutu,father,Q164535,Mobutu Sese Seko
+Q3091442,Nzanga Mobutu,mother,Q27865687,Bobi Ladawa Mobutu
+Q3091442,Nzanga Mobutu,sibling,Q6429274,Kongulu Mobutu
 Q316942,Antoine Gizenga,child,Q25387204,Lugi Gizenga
+Q3176296,Jeannot Bemba Saolona,child,Q379148,Jean-Pierre Bemba
+Q3196526,Kikaya Bin Karubi,child,Q374967,Gary Kikaya
 Q379148,Jean-Pierre Bemba,father,Q3176296,Jeannot Bemba Saolona
+Q56515694,Jean-Lucien Bussa,child,Q107368856,Gael Bussa
+Q56515694,Jean-Lucien Bussa,relative,Q107369189,Alicia Salawa
+Q56515694,Jean-Lucien Bussa,spouse,Q107369212,Petronelle Mambetuku Kimpioka
 Q57416,Joseph Kabila,father,Q135547,Laurent-Désiré Kabila
 Q57416,Joseph Kabila,relative,Q109651236,Francis Selemani
 Q57416,Joseph Kabila,sibling,Q109673209,Gloria Mteyu
