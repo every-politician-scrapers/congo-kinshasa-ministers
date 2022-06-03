@@ -6,7 +6,7 @@ module.exports = (label) => {
       fr: label,
     },
     descriptions: {
-      en: 'politician in ${meta.jurisdiction.name}',
+      en: `politician in DRC`,
     },
     claims: {
       P31: { value: 'Q5' }, // human
