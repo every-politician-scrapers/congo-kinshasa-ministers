@@ -1,0 +1,14 @@
+{
+    "jurisdiction": {
+      "name": "Democratic Republic of the Congo",
+      "id": "Q974"
+    },
+    "cabinet": {
+      "id":     "Q86666693",
+      "start":  "2019-09-06",
+      "end":    "2021-04-26",
+      "parent": "Q3112604"
+    },
+    "source": "https://fr.wikipedia.org/wiki/Gouvernement_Ilunga",
+    "lang": "fr"
+}
