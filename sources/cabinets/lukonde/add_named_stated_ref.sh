@@ -1,7 +1,7 @@
 #!/bin/zsh
 
-SCRAPED_NAME=name
-SCRAPED_POSN=position
+SCRAPED_NAME=itemLabel
+SCRAPED_POSN=positionLabel
 
 WIKIDATA_ITEM=item
 WIKIDATA_PSID=psid
