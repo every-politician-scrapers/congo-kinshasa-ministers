@@ -4,7 +4,8 @@ let meta = JSON.parse(rawmeta);
 
 module.exports = (id, position, startdate, enddate) => {
   qualifier = {
-    P580: meta.cabinet.start,
+    P580: startdate || meta.cabinet.start,
+    P582: enddate   || meta.cabinet.end,
   }
 
   refs = { }
