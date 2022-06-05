@@ -5,7 +5,11 @@ require 'every_politician_scraper/comparison'
 
 class Comparison < EveryPoliticianScraper::NulllessComparison
   def columns
-    super + %i[psid] - %i[startdate enddate]
+    super + %i[psid]
+  end
+
+  def external
+    @external ||= super.delete_if { |row| row[:positionlabel].include? 'Intérim' }
   end
 end
 

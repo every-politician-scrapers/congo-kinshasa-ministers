@@ -28,7 +28,7 @@ class MemberList
     end
 
     field :position do
-      tds[1].text.gsub('Intérim', '').split(':').map(&:tidy)
+      tds[1].text.gsub(/Intérim[[:space:]]*:/, ': Intérim ').split(':').map(&:tidy)
     end
 
     field :startDate do
