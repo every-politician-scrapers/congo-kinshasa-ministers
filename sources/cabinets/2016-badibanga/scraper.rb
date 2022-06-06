@@ -28,7 +28,7 @@ class MemberList
     end
 
     field :position do
-      tds[1].text.tidy
+      raw_position.prepend(section == 'Vice-ministres' ? 'Vice-ministre, ' : '')
     end
 
     field :startDate do
@@ -45,6 +45,14 @@ class MemberList
 
     def name_node
       tds[2].css('a').first
+    end
+
+    def section
+      noko.xpath('preceding::h3[1]/span[@class="mw-headline"]').text.tidy
+    end
+
+    def raw_position
+      tds[1].text.tidy
     end
   end
 end
