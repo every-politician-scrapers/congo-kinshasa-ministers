@@ -28,7 +28,7 @@ class MemberList
     end
 
     field :position do
-      raw_position.prepend(section == 'Vice-ministres' ? 'Vice-ministre, ' : '')
+      raw_position.prepend(section == 'Vice-Ministres' ? 'Vice-ministre, ' : '')
     end
 
     field :startDate do
