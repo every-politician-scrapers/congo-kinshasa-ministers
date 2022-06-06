@@ -1,0 +1,14 @@
+{
+    "jurisdiction": {
+      "name": "Democratic Republic of the Congo",
+      "id": "Q974"
+    },
+    "cabinet": {
+      "id":     "Q23816929",
+      "start":  "2014-12-07",
+      "end":    "2016-11-14",
+      "parent": "Q3112604"
+    },
+    "source": "https://fr.wikipedia.org/wiki/Gouvernement_Matata_II",
+    "lang": "fr"
+}
