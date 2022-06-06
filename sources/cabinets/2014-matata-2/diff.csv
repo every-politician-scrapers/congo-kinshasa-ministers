@@ -1,67 +1,25 @@
 @@,item,itemlabel,position,positionlabel,startdate,enddate,psid
-->,Q96436683,Lucie Kipele Aki Azwa,Q112220999,"Minister of Family->Genre, Famille et Enfants",2015-09-25,2016-12-19,Q96436683-7FDA89CE-103D-487F-96D2-767D5DD99723
-->,Q57883,Matata Ponyo Mapon->Augustin Matata Ponyo,Q3401753,Prime Minister of the Democratic Republic of the Congo->Premier ministre,2012-04-18,2016-11-17,Q57883-74E2893D-8A57-410C-9C3E-C7A95742AFD1
-->,Q56779011,Gustave Boloko Nkeli,Q112221018,Minister of Lands->Affaires Foncières,2015-09-25,2016-12-19,Q56779011-9F317B2E-B26E-4402-A992-9EB74DE6969D
-->,Q3526676,Théophile Mbemba Fundu,Q112221003,Minister of Higher Education->Enseignement supérieur et universitaire,2014-12-09,2016-12-19,Q3526676-7914EBFF-E0FB-4E23-98C0-CF4AE8831853
-->,Q3421171,Raymond Tshibanda,Q6866142,"Minister of Foreign Affairs->Affaires étrangères, Coopération internationale",2012-04,2016-12,Q3421171-6E1D3A96-EFC6-4632-A1C0-42F9448278E3
-->,Q3351121,Olivier Kamitatu Etsu->Olivier Kamitatu,Q112221028,Minister of Planning->Plan et Révolution de la modernité,2014-12-09,2015-09-25,Q3351121-660E4DE3-F1A5-4A4B-A69C-6F33CCAC7D51
-->,Q3295482,Martin Kabwelulu,Q112221020,Minister of Mines->Mines,2007-02-05,2019-01-23,Q3295482-C0C83F7D-4542-4C64-8092-791D480A8FEA
-->,Q3263804,Louise Munga Mesozi->Louise Munga,Q112221026,Minister of Parastatals->Portefeuille,2012-04-28,2016-12-19,Q3263804-2873277C-554A-4AA5-8EA4-2A7E260ECF7B
-->,Q3190458,Justin Kalumba Mwana Ngongo,Q112221051,Minister of Transport->Transport et Voies de communications,2012-04-28,2016-12-19,Q3190458-72E675FB-3BE2-4E56-A8A8-4FFBB8BD2E15
-->,Q2834659,Alexis Thambwe Mwamba,Q112221015,"Minister of Justice->Justice, Garde des sceaux et Droits humains",2014-12-09,2016-12-19,Q2834659-7B393B20-1C48-4A09-91EC-19D662242AE4
-->,Q28086239,Germain Kambinga,Q112221009,Minister of Industry->Industrie,2014-12-09,2016-12-19,Q28086239-6DF05341-23DA-43BD-9F77-C4B8559E1CF9
-->,Q2424586,Salomon Banamuhere Baliene,Q112220990,Minister of Decentralization->Décentralisation et Affaires coutumières,2014-12-09,2016-12-19,Q2424586-B021FE1C-CD6C-4EBD-93FC-48AE68E5A9BA
-->,Q19631195,Jean-Claude Kibala,Q112220980,Minister of Civil Service->Fonction publique,2012-04-28,2015-09-25,Q19631195-E211A1C8-FAA2-446B-967E-5C1BBD1BF47E
-->,Q19631192,Henri Yav Mulang,Q97366094,Minister of Finance->Finances,2014-12,2019-08,Q19631192-EA1ABD0A-3818-4D08-B203-2403CABD7178
-->,Q19631188,Bienvenu Liyota Ndjoli,Q112220998,Minister of Environment->Environnement et Développement durable,2014-12-09,2015-09-25,Q19631188-209D8EA4-7FDE-44FB-8A5E-89CEF6C61EAD
-->,Q19631177,Kudianga Bayokisa,Q112220984,Minister of Commerce->Commerce,2014-12-09,2016-12-19,Q19631177-77D29837-DCB5-415A-BF0B-9BF3ABAE8578
-->,Q19631175,Isidore Kabwe Mwehu,Q54429353,"Minister of Agriculture of Democratic Republic of the Congo->Agriculture, Pêche et Élevage",2014-12-09,2015-09-25,Q19631175-C6B7F2AC-3E3A-43E9-BEF2-9D036EB5D1E3
-->,Q19545075,Willy Makiashi,Q112220994,"Minister of Employment->Emploi, Travail et Prévoyance sociale",2014-12-09,2016-12-19,Q19545075-DDA4EC1E-3D74-422D-84AA-D413068E5104
-->,Q18649355,Thomas Luhaka,Q112221031,Minister of Posts and Telecommunications->Postes et télécommunications (PT) et Nouvelles technologies de l’information et de la communication (NTIC),2014-12-09,2016-12-19,Q18649355-7E9CA6C1-5FB6-40DC-A0E3-477D1E404723
 ->,Q18642480,Michel Bongongo,Q112220973,Minister of Budget->Décentralisation et Affaires coutumières,2014-12-09,2016-12-19,Q18642480-07222E6B-E1A2-4CA3-BCA7-E345F6CB6DF3
-->,Q18642479,Bolengetenge Balela,Q112221018,Minister of Lands->Affaires Foncières,2014-12-09,2015-09-25,Q18642479-D4EC4FF2-9C81-4CFD-95F8-DE522E2170D0
-->,Q112221942,Daniel Madimba Kalonji,Q112221044,Minister of Scientific Research->Recherche scientifique et Technologie,2014-12-09,2016-12-19,Q112221942-69745B59-1961-4D84-B6F5-38560CE6DE48
-->,Q112221933,Bohongo Nkoyi,Q112221045,Minister of Small and Medium Enterprises->Petites et moyennes entreprises (PME) et Classes moyennes,2014-12-09,2016-12-19,Q112221933-3ACF7997-CDB3-44E3-95A4-02AEB57A0654
-->,Q108809322,Georges Wembi Loambo,Q112221028,Minister of Planning->Plan et Révolution de la modernité,2015-09-25,2016-12-19,Q108809322-0051F8C8-E8E4-4579-9DF1-2A5CE00DAC4C
-->,Q108385607,Denis Kambayi Tshimbumbu,Q112221057,"Minister of Youth->Jeunesse, Sports et Loisirs",2015-09-25,2016-12-19,Q108385607-230459FD-0A21-43CA-B9F0-8EC192406A1A
-->,Q107189605,Pascal Isumbisho Mwapu,Q112220980,Minister of Civil Service->Fonction publique,2015-09-25,2016-12-19,Q107189605-4D2E34DD-73E9-4A16-8BA5-A964E2D203D8
-->,Q106904386,Émile Mota Ndongo Kang,Q54429353,"Minister of Agriculture of Democratic Republic of the Congo->Agriculture, Pêche et Élevage",2015-09-25,2016-12-19,Q106904386-3ADA14E3-AE70-433D-A6A0-BBACD1D577FF
-->,Q106904372,Robert Bopolo Bogeza,Q112220998,Minister of Environment->Environnement et Développement durable,2015-09-25,2016-12-19,Q106904372-2147A8F7-5A5E-452D-B71D-F222BD0E2303
-->,Q105523479,Jean-Michel Sama Lukonde->Sama Lukonde Kyenge,Q112221057,"Minister of Youth->Jeunesse, Sports et Loisirs",2014-12-09,2015-09-25,Q105523479-55D8FA93-8125-4AC0-A58A-CB7F8BCCBB95
-->,Q101412106,NULL->Adèle Degbalase Kanda,Q108730998,Minister of Social Affairs->Affaires sociales et action humanitaire,2015-09-25,2016-12-19,Q101412106-1C911FB6-990F-4F7F-B921-96101D64324E
 ---,Q63349528,Geneviève Inagosi,Q112220999,Minister of Family,2012-04-28,2014-12-09,Q63349528-40992391-82F4-4E27-8C42-7E7891F26BEE
 ---,Q3424672,Remy Musungayi Bampale,Q112221009,Minister of Industry,2012-04-28,2014-12-09,Q3424672-9F91A09D-7402-466E-B12B-B8D30B1DC705
----,Q3280754,Maker Mwangu Famba,Q112221034,Minister of Primary and Secondary Education,2014-12-09,2016-12-19,Q3280754-82FCACAE-8943-4C1D-B4EE-6139A4313E3F
 ---,Q3280754,Maker Mwangu Famba,Q112221034,Minister of Primary and Secondary Education,2007-02-05,2014-12-09,Q3280754-F5CF4339-6EFE-48BD-8B18-ADFA6B158D25
+---,Q3280754,Maker Mwangu Famba,Q112221034,Minister of Primary and Secondary Education,2014-12-09,2016-12-19,Q3280754-82FCACAE-8943-4C1D-B4EE-6139A4313E3F
 ---,Q3168626,Jean-Paul Nemoyato Begepole,Q112220992,Minister of Economy,2012-04-28,2014-12-09,Q3168626-8DFAC678-583D-40AC-97FB-5349B6D1A4BD
 ---,Q3087663,Fridolin Kasweshi,Q112221048,Minister of Spatial Planning,2012-04-28,2014-12-09,Q3087663-8141A32D-D918-4439-92F0-85D2DEC26678
----,Q3087663,Fridolin Kasweshi,Q112221011,Minister of Infrastructure,2014-12-09,2016-12-19,Q3087663-37CFDBB5-6523-4D78-AAAB-AED6778F65CF
----,Q3060173,Eugène Serufuli Ngayabaseka,Q112221043,Minister of Rural Development,2014-12-09,2016-12-19,Q3060173-A2C19D5E-8289-4568-B111-E348403AA58F
----,Q3002789,Crispin Atama Tabe,Q17110451,Minister of Defence,2015-09-25,2019-01-23,Q3002789-9403340D-663F-4588-99E4-E48132AEBFE1
 ---,Q3002789,Crispin Atama Tabe,Q112221007,Minister of Hydrocarbons,2012-04-28,2015-09-25,Q3002789-DCD27514-ADE7-40E1-8380-72254DC816F4
+---,Q3002789,Crispin Atama Tabe,Q17110451,Minister of Defence,2015-09-25,2019-01-23,Q3002789-9403340D-663F-4588-99E4-E48132AEBFE1
 ---,Q2883576,Banza Mukalay,Q112221057,Minister of Youth,2012-04-28,2014-12-09,Q2883576-5EFD3C32-6FBE-42C5-B16A-B37DDC90C883
----,Q2883576,Banza Mukalay,Q54100574,Minister of Culture of the Democratic Republic of the Congo,2014-12-09,2016-05-14,Q2883576-9004EEE4-5746-44C0-84F3-81C13D4AE60B
----,Q19631190,Bijou Mushitu Kat,Q112220999,Minister of Family,2015-01-29,2015-09-25,Q19631190-20B6D036-7281-4C2A-8C5C-3E12014A7A5D
 ---,Q19631190,Bijou Mushitu Kat,Q112220999,Minister of Family,2014-12-09,2015-01-29,Q19631190-BF86892A-1934-41CA-9765-9E9707EDD8B0
+---,Q19631190,Bijou Mushitu Kat,Q112220999,Minister of Family,2015-01-29,2015-09-25,Q19631190-20B6D036-7281-4C2A-8C5C-3E12014A7A5D
 ---,Q19629172,Tryphon Kin-Kiey Mulumba,Q112221031,Minister of Posts and Telecommunications,2012-04-28,2014-12-09,Q19629172-1D28EDE7-DFB8-4FDE-BEB5-14B02DA2BFDA
----,Q19629172,Tryphon Kin-Kiey Mulumba,Q112221041,Minister of Relations with the Parliament,2014-12-09,2016-12-19,Q19629172-C25D3A9C-A854-4B72-96B2-CEE16CC9D089
----,Q19544597,Félix Kabange,Q112039008,Minister of Health of the Democratic Republic of the Congo,2012-04-28,2016-12-19,Q19544597-7B36C585-8B59-4933-B69D-785117049E6C
----,Q19544597,Félix Kabange,Q112039008,Minister of Health of the Democratic Republic of the Congo,2012-04-28,2016-12-19,Q19544597-e1dbf38f-4c08-9a46-816d-58611d1a9b34
 ---,Q19543886,Modeste Bahati Lukwebo,Q112220994,Minister of Employment,2012-04-28,2014-12-09,Q19543886-D5CB0E10-0CDD-4AAB-809C-DCDC467BE339
----,Q19543886,Modeste Bahati Lukwebo,Q112220992,Minister of Economy,2014-12-09,2017-05-09,Q19543886-33DA0E05-1F84-4D59-85BA-85365DFC249E
----,Q18681696,Aimé Ngoy Mukena,Q112221007,Minister of Hydrocarbons,2015-09-25,2019-01-23,Q18681696-12E44C95-F55C-4C52-8B8F-E5743DF25E94
----,Q18681696,Aimé Ngoy Mukena,Q17110451,Minister of Defence,2014-12-09,2015-09-25,Q18681696-6003BC09-0975-40F6-BAD1-F58F21C2ABF3
 ---,Q178793,Lambert Mende Omalanga,Q112220985,Minister of Communications,2014-12-09,2019-01-23,Q178793-5CFE3461-94FD-4DF8-BC32-F5161984AD40
 ---,Q178793,Lambert Mende Omalanga,Q112221019,Minister of Media,2012-04-28,2014-12-09,Q178793-46BEF82F-7D47-4A88-B2F4-29206AFED570
 ---,Q16545541,Célestin Vunabandi,Q112221028,Minister of Planning,2012-04-28,2014-12-09,Q16545541-267FFB2F-4DCA-495C-93BC-D7EDCDF4A0BF
 ---,Q130512,Daniel Mukoko Samba,Q112220973,Minister of Budget,2012-04-28,2014-12-09,Q130512-CCA6A5D5-BE6E-4629-A40E-BA36588D3257
 ---,Q129404,Alexandre Luba Ntambo,Q17110451,Minister of Defence,2012-04-28,2014-12-09,Q129404-710416FB-3253-41ED-ADF2-B5FED6FAF3C8
----,Q112222037,Évariste Boshab Mabudj-ma-Bilenge,Q112221013,Minister of Interior,2014-12-09,2016-12-19,Q112222037-B008AA67-0CF6-487C-94EB-403E7A10B0F3
 ---,Q112222022,Richard Muyej Mangenz,Q112221013,Minister of Interior,2012-04-28,2014-12-09,Q112222022-05B941C5-2AF5-451B-8AAB-04B27215BC40
 ---,Q112222006,Omer Engwake,Q112221048,Minister of Spatial Planning,2014-12-09,2016-12-19,Q112222006-C3C84F8A-939A-4D95-B6AF-222CBC4CB969
----,Q112221975,Jeannot Matadi Nenga Ngamanda,Q112220996,Minister of Energy,2014-12-09,2016-12-19,Q112221975-0D9AC1BC-0A5E-463D-B298-C27372D8256B
----,Q112221972,Jean Nengbangba Tshibanga,Q112221050,Minister of Technical and Professional Education,2014-12-09,2016-12-19,Q112221972-BD4CFE2E-656B-4474-8FE3-8C4ECD6AABC6
----,Q112221945,Elvis Mutiri wa Bashala,Q54437053,Minister of Tourism of the Democratic Republic of the Congo,2014-12-09,2016-12-19,Q112221945-07E95837-EEF4-4271-9380-5A4A71777E27
 ---,Q112221938,Chelo Lotsima,Q112221003,Minister of Higher Education,2012-04-28,2014-12-09,Q112221938-3102D34F-E440-459E-83B7-5B31B190C302
 ---,Q112221937,Charles Nawej Mundele,Q108730998,Minister of Social Affairs,2012-04-28,2014-12-09,Q112221937-114B3ED5-8AFB-4830-9889-7FBC3BF92A15
 ---,Q112221930,Bavon N'sa Mputu Elima,Q112220998,Minister of Environment,2012-04-28,2014-12-09,Q112221930-18585E70-D452-46AA-911A-3E5A2A4AE7BF
@@ -69,22 +27,21 @@
 ---,Q107126837,Jean Chrisostome Vahamwiti Mukesyayira,Q54429353,Minister of Agriculture of Democratic Republic of the Congo,2012-04-28,2014-12-09,Q107126837-FBB43F67-DA60-43B4-85E1-55A9883CBE14
 ---,Q107126535,Bruno Kapanji Kalala,Q112221054,Minister of Water Resources and Electricity,2012-04-28,2014-12-09,Q107126535-4659270C-90E5-4F5F-8AFF-FE52CCDB1B81
 ---,Q104889315,Wivine Mumba Matipa,Q112221015,Minister of Justice,2012-04-28,2014-12-09,Q104889315-F1E7F18F-590A-415D-B5A4-3161A97D8094
-+++,Q3592729,Évariste Boshab,,Intérieur et Sécurité,,,
 +++,Q3280754,Maker Mwangu,,"Enseignement primaire, secondaire et initiation à la nouvelle citoyenneté",,,
-+++,Q3087663,Fridolin Kasweshi,,"Infrastructures, Travaux publics et de la Reconstruction (ITPR)",,,
 +++,Q3002789,Crispin Atama Tabe,,Défense nationale et Anciens combattants,,,
 +++,Q3002789,Crispin Atama Tabe,,Hydrocarbures,,,
-+++,Q2883576,Banza Mukalay,,Culture et Arts,,,
-+++,Q19631190,Bijou Mushitu Kat,,"Affaires sociales et action humanitaire :aussi ministre ad interim du Genre, de la Famille et des Enfants",,,
++++,Q2966383,Mboso Nkodia Pwanga,,"Vice-ministre, Justice et Droits humains",,,
++++,Q24951320,Enoch Sebineza,,"Vice-ministre, Postes et Télécommunications",,,
++++,Q24054701,Ernestine Nyoka,,"Vice-ministre, Budget",,,
++++,Q20995497,Lisette Bisangana Ngalamulume,,"Vice-ministre, Plan",,,
 +++,Q19631190,Bijou Mushitu Kat,,"Genre, Famille et Enfants",,,
-+++,Q19631184,Jean Nengbaga Tshibanga,,Enseignement technique et professionnel,,,
-+++,Q19631182,Jeannot Matadi Nenga,,Énergie et Ressources hydrauliques,,,
-+++,Q19631179,Eugène Serufuli,,Développement rural,,,
-+++,Q19629172,Tryphon Kin-Kiey Mulumba,,Relations avec le Parlement,,,
-+++,Q19544597,Félix Kabange,,Santé publique,,,
-+++,Q19543886,Modeste Bahati Lukwebo,,Économie nationale,,,
-+++,Q18681696,Aimé Ngoy Mukena,,Défense nationale et Anciens combattants,,,
-+++,Q18681696,Aimé Ngoy Mukena,,Hydrocarbures,,,
++++,Q19631190,Bijou Mushitu Kat,,"Affaires sociales et action humanitaire :aussi ministre ad interim du Genre, de la Famille et des Enfants",,,
 +++,Q18642583,Omer Egwake,,"Aménagement du territoire, Urbanisme et Habitat",,,
++++,Q18611995,Franck Mwe di Malila,,"Vice-ministre, Coopération internationale et intégration régionale",,,
 +++,Q178793,Lambert Mende Omalanga,,Communication et Médias,,,
-+++,,Elvis Mutiri wa Bashara,,Tourisme,,,
++++,Q109044479,Martine Ntumba Bukasa,,"Vice-ministre, Intérieur",,,
++++,Q109037971,Franklin Tshiamala Manyiku,,"Vice-ministre, Plan",,,
++++,Q107189786,Albert Mpeti Biyombo,,"Vice-ministre, Finances",,,
++++,Q107176634,René Sibu,,"Vice-ministre, Défense nationale",,,
++++,Q106904399,Antoine Boyamba Okombo,,"Vice-ministre, Congolais de l’étranger",,,
++++,Q104416504,Maguy Rwakabuba,,"Vice-ministre, Énergie",,,
