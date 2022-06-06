@@ -1,0 +1,14 @@
+{
+    "jurisdiction": {
+      "name": "Democratic Republic of the Congo",
+      "id": "Q974"
+    },
+    "cabinet": {
+      "id":     "Q56301148",
+      "start":  "2016-12-19",
+      "end":    "2017-05-09",
+      "parent": "Q3112604"
+    },
+    "source": "https://fr.wikipedia.org/wiki/Gouvernement_Badibanga",
+    "lang": "fr"
+}
