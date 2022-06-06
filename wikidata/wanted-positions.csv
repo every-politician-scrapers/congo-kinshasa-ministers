@@ -26,7 +26,7 @@ Q97366094,Minister of Finance
 Q112221000,Minister of Fishing
 Q6866142,Minister of Foreign Affairs
 Q56515760,Minister of Foreign Trade
-Q112221001,Minister of Health
+Q112039008,Minister of Health
 Q112221003,Minister of Higher Education
 Q112221004,Minister of Housing
 Q112221005,Minister of Human Rights
@@ -80,20 +80,30 @@ Q112225244,Minister delegate to the Minister of Interior
 Q112224162,Minister-delegate to the Minister of Social Affairs
 Q112251828,Deputy Minister of Agriculture
 Q112223987,Deputy Minister of Budget
+Q112252403,Deputy Minister of Congolese Abroad
+Q112252547,Deputy Minister of Decentralization
 Q112223954,Deputy Minister of Defence
+Q112225259,Deputy Minister of Economy
+Q112225261,Deputy Minister of Environment
 Q112223978,Deputy Minister of Finance
 Q112223974,Deputy Minister of Foreign Affairs
+Q112252284,Deputy Minister of Foreign Trade
 Q112223961,Deputy Minister of Health
+Q112225271,Deputy Minister of Higher Education
+Q112225274,Deputy Minister of Hydrocarbons
 Q112251917,Deputy Minister of Infrastructure
 Q112223972,Deputy Minister of Interior
 Q112225267,Deputy Minister of International Cooperation
 Q112223956,Deputy Minister of Justice
 Q112251767,Deputy Minister of Labour
 Q112223982,Deputy Minister of Mines
+Q112252506,Deputy Minister of Parastatals
 Q112223992,Deputy Minister of Planning
 Q112251841,Deputy Minister of Posts and Telecommunications
 Q112223970,Deputy Minister of Primary and Secondary Education
 Q112223985,Deputy Minister of Transport
 Q112251925,Deputy Minister of Urban Development
+Q112225265,Deputy Minister of Vocational Training
+Q112225286,Deputy Minister of Water Resources and Electricity
 Q112207560,President of the National Assembly
 Q112207613,President of the Senate
