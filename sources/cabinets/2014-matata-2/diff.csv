@@ -1,20 +1,21 @@
 @@,item,itemlabel,position,positionlabel,startdate,enddate,psid
 ->,Q18642480,Michel Bongongo,Q112220973,Minister of Budget->Décentralisation et Affaires coutumières,2014-12-09,2016-12-19,Q18642480-07222E6B-E1A2-4CA3-BCA7-E345F6CB6DF3
+->,Q104416504,Maguy Rwakabuba,Q112252879,"Deputy Minister of Energy->Vice-ministre, Énergie",2014-12-07,2016-11-14,Q104416504-5FB38221-A3DF-4ACD-986D-733112928A0C
 ---,Q63349528,Geneviève Inagosi,Q112220999,Minister of Family,2012-04-28,2014-12-09,Q63349528-40992391-82F4-4E27-8C42-7E7891F26BEE
 ---,Q3424672,Remy Musungayi Bampale,Q112221009,Minister of Industry,2012-04-28,2014-12-09,Q3424672-9F91A09D-7402-466E-B12B-B8D30B1DC705
----,Q3280754,Maker Mwangu Famba,Q112221034,Minister of Primary and Secondary Education,2007-02-05,2014-12-09,Q3280754-F5CF4339-6EFE-48BD-8B18-ADFA6B158D25
 ---,Q3280754,Maker Mwangu Famba,Q112221034,Minister of Primary and Secondary Education,2014-12-09,2016-12-19,Q3280754-82FCACAE-8943-4C1D-B4EE-6139A4313E3F
+---,Q3280754,Maker Mwangu Famba,Q112221034,Minister of Primary and Secondary Education,2007-02-05,2014-12-09,Q3280754-F5CF4339-6EFE-48BD-8B18-ADFA6B158D25
 ---,Q3168626,Jean-Paul Nemoyato Begepole,Q112220992,Minister of Economy,2012-04-28,2014-12-09,Q3168626-8DFAC678-583D-40AC-97FB-5349B6D1A4BD
 ---,Q3087663,Fridolin Kasweshi,Q112221048,Minister of Spatial Planning,2012-04-28,2014-12-09,Q3087663-8141A32D-D918-4439-92F0-85D2DEC26678
----,Q3002789,Crispin Atama Tabe,Q112221007,Minister of Hydrocarbons,2012-04-28,2015-09-25,Q3002789-DCD27514-ADE7-40E1-8380-72254DC816F4
 ---,Q3002789,Crispin Atama Tabe,Q17110451,Minister of Defence,2015-09-25,2019-01-23,Q3002789-9403340D-663F-4588-99E4-E48132AEBFE1
+---,Q3002789,Crispin Atama Tabe,Q112221007,Minister of Hydrocarbons,2012-04-28,2015-09-25,Q3002789-DCD27514-ADE7-40E1-8380-72254DC816F4
 ---,Q2883576,Banza Mukalay,Q112221057,Minister of Youth,2012-04-28,2014-12-09,Q2883576-5EFD3C32-6FBE-42C5-B16A-B37DDC90C883
 ---,Q19631190,Bijou Mushitu Kat,Q112220999,Minister of Family,2014-12-09,2015-01-29,Q19631190-BF86892A-1934-41CA-9765-9E9707EDD8B0
 ---,Q19631190,Bijou Mushitu Kat,Q112220999,Minister of Family,2015-01-29,2015-09-25,Q19631190-20B6D036-7281-4C2A-8C5C-3E12014A7A5D
 ---,Q19629172,Tryphon Kin-Kiey Mulumba,Q112221031,Minister of Posts and Telecommunications,2012-04-28,2014-12-09,Q19629172-1D28EDE7-DFB8-4FDE-BEB5-14B02DA2BFDA
 ---,Q19543886,Modeste Bahati Lukwebo,Q112220994,Minister of Employment,2012-04-28,2014-12-09,Q19543886-D5CB0E10-0CDD-4AAB-809C-DCDC467BE339
----,Q178793,Lambert Mende Omalanga,Q112220985,Minister of Communications,2014-12-09,2019-01-23,Q178793-5CFE3461-94FD-4DF8-BC32-F5161984AD40
 ---,Q178793,Lambert Mende Omalanga,Q112221019,Minister of Media,2012-04-28,2014-12-09,Q178793-46BEF82F-7D47-4A88-B2F4-29206AFED570
+---,Q178793,Lambert Mende Omalanga,Q112220985,Minister of Communications,2014-12-09,2019-01-23,Q178793-5CFE3461-94FD-4DF8-BC32-F5161984AD40
 ---,Q16545541,Célestin Vunabandi,Q112221028,Minister of Planning,2012-04-28,2014-12-09,Q16545541-267FFB2F-4DCA-495C-93BC-D7EDCDF4A0BF
 ---,Q130512,Daniel Mukoko Samba,Q112220973,Minister of Budget,2012-04-28,2014-12-09,Q130512-CCA6A5D5-BE6E-4629-A40E-BA36588D3257
 ---,Q129404,Alexandre Luba Ntambo,Q17110451,Minister of Defence,2012-04-28,2014-12-09,Q129404-710416FB-3253-41ED-ADF2-B5FED6FAF3C8
@@ -30,18 +31,7 @@
 +++,Q3280754,Maker Mwangu,,"Enseignement primaire, secondaire et initiation à la nouvelle citoyenneté",,,
 +++,Q3002789,Crispin Atama Tabe,,Défense nationale et Anciens combattants,,,
 +++,Q3002789,Crispin Atama Tabe,,Hydrocarbures,,,
-+++,Q2966383,Mboso Nkodia Pwanga,,"Vice-ministre, Justice et Droits humains",,,
-+++,Q24951320,Enoch Sebineza,,"Vice-ministre, Postes et Télécommunications",,,
-+++,Q24054701,Ernestine Nyoka,,"Vice-ministre, Budget",,,
-+++,Q20995497,Lisette Bisangana Ngalamulume,,"Vice-ministre, Plan",,,
 +++,Q19631190,Bijou Mushitu Kat,,"Genre, Famille et Enfants",,,
 +++,Q19631190,Bijou Mushitu Kat,,"Affaires sociales et action humanitaire :aussi ministre ad interim du Genre, de la Famille et des Enfants",,,
 +++,Q18642583,Omer Egwake,,"Aménagement du territoire, Urbanisme et Habitat",,,
-+++,Q18611995,Franck Mwe di Malila,,"Vice-ministre, Coopération internationale et intégration régionale",,,
 +++,Q178793,Lambert Mende Omalanga,,Communication et Médias,,,
-+++,Q109044479,Martine Ntumba Bukasa,,"Vice-ministre, Intérieur",,,
-+++,Q109037971,Franklin Tshiamala Manyiku,,"Vice-ministre, Plan",,,
-+++,Q107189786,Albert Mpeti Biyombo,,"Vice-ministre, Finances",,,
-+++,Q107176634,René Sibu,,"Vice-ministre, Défense nationale",,,
-+++,Q106904399,Antoine Boyamba Okombo,,"Vice-ministre, Congolais de l’étranger",,,
-+++,Q104416504,Maguy Rwakabuba,,"Vice-ministre, Énergie",,,
