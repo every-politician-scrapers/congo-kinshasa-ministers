@@ -11,10 +11,12 @@ Q106914680,Juliette Mbambu Mughole,relative,Q110994244,Kavira Kyabusiku
 Q107368856,Gael Bussa,father,Q56515694,Jean-Lucien Bussa
 Q107368856,Gael Bussa,mother,Q107369212,Petronelle Mambetuku Kimpioka
 Q107368856,Gael Bussa,spouse,Q107369189,Alicia Salawa
+Q112258069,Sifa Mahanya,spouse,Q135547,Laurent-Désiré Kabila
 Q135547,Laurent-Désiré Kabila,child,Q19629165,Zoé Kabila
 Q135547,Laurent-Désiré Kabila,child,Q2828106,Aimée Kabila Mulengela
 Q135547,Laurent-Désiré Kabila,child,Q3163304,Jaynet Kabila
 Q135547,Laurent-Désiré Kabila,child,Q57416,Joseph Kabila
+Q135547,Laurent-Désiré Kabila,spouse,Q112258069,Sifa Mahanya
 Q18611995,Franck Mwe di Malila,father,Q18746076,Édouard Mwe di Malila Apenela
 Q29032770,Félix Tshisekedi,father,Q168629,Étienne Tshisekedi
 Q29032770,Félix Tshisekedi,spouse,Q61855144,Denise Nyakeru Tshisekedi
@@ -25,6 +27,7 @@ Q316942,Antoine Gizenga,child,Q25387204,Lugi Gizenga
 Q3176296,Jeannot Bemba Saolona,child,Q379148,Jean-Pierre Bemba
 Q3196526,Kikaya Bin Karubi,child,Q374967,Gary Kikaya
 Q379148,Jean-Pierre Bemba,father,Q3176296,Jeannot Bemba Saolona
+Q509657,Olive Lembe di Sita,spouse,Q57416,Joseph Kabila
 Q56515694,Jean-Lucien Bussa,child,Q107368856,Gael Bussa
 Q56515694,Jean-Lucien Bussa,relative,Q107369189,Alicia Salawa
 Q56515694,Jean-Lucien Bussa,spouse,Q107369212,Petronelle Mambetuku Kimpioka
