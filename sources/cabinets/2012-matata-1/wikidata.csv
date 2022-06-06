@@ -1,66 +1,38 @@
 item,itemLabel,position,positionLabel,startDate,endDate,source,sourceDate,psid
-Q104889315,Wivine Mumba Matipa,Q112221015,Minister of Justice,2012-04-28,2014-12-09,,,Q104889315-F1E7F18F-590A-415D-B5A4-3161A97D8094
-Q105713042,Gilbert Tshiongo Tshibinkubuka wa Tumba,Q112220996,Minister of Energy,2010-02-19,2012-04-28,,,Q105713042-E2B339A4-2755-450B-A1C0-B8A78DE496FC
-Q105946534,Jean-Pierre Bokole Ompoka,Q112221044,Minister of Scientific Research,2010-02-19,2012-04-28,,,Q105946534-E5C6B957-5E01-44FD-96F6-3135E17F1197
-Q106913695,Jean-Pierre Daruwezi Mokombe,Q112220992,Minister of Economy,2011-09-11,2012-04-28,,,Q106913695-3100CA58-7FA9-4702-BAF9-514CB7A78825
-Q107126535,Bruno Kapanji Kalala,Q112221054,Minister of Water Resources and Electricity,2012-04-28,2014-12-09,,,Q107126535-4659270C-90E5-4F5F-8AFF-FE52CCDB1B81
-Q107126837,Jean Chrisostome Vahamwiti Mukesyayira,Q54429353,Minister of Agriculture of Democratic Republic of the Congo,2012-04-28,2014-12-09,,,Q107126837-FBB43F67-DA60-43B4-85E1-55A9883CBE14
-Q107128113,Robert Mabwinga Bila,Q112221018,Minister of Lands,2012-04-28,2014-12-09,,,Q107128113-D9AC3BEF-BDF7-482C-B61C-6204DCE6F720
-Q107141721,Patrice Kitebi Kibol Mvul,Q97366094,Minister of Finance,2012-04,2014-12,,,Q107141721-33CC5E69-1BA0-42E9-894E-D18466D31CD6
-Q107475161,César Lubamba Ngimbi,Q112221052,Minister of Urban Development,2010-02-19,2012-04-28,,,Q107475161-C0E59872-AD79-4D08-8BE0-8539E6C7975C
-Q107475186,Joseph Martin Kitumba Gagedi Gasagisa Mwanza,Q112221051,Minister of Transport,2011-09-11,2012-04-28,,,Q107475186-07C2F48D-8BD8-47AF-AB7C-40F1A27B253A
-Q107694205,Dieudonné Upira Sunguma Kagimbi,Q112220980,Minister of Civil Service,2010-02-19,2012-04-28,,,Q107694205-FB9561C2-5AD3-48E9-A613-AA841D388876
-Q107694336,Anicet Kuzunda Mutangiji,Q112221009,Minister of Industry,2010-02-19,2012-04-28,,,Q107694336-89904C64-B6B6-49E5-B988-13A94F81D345
-Q108146627,Charles Alulea Mengulwa,Q112221043,Minister of Rural Development,2011-09-11,2012-04-28,,,Q108146627-5F505D4A-B309-454C-94FD-1599D9BB61D2
-Q112221914,Adolphe Lumanu Mulenda Bwana Nsefu,Q112221013,Minister of Interior,2011-09-11,2012-04-28,,,Q112221914-8814B254-F319-4D93-ADBF-CCB1395CD564
-Q112221930,Bavon N'sa Mputu Elima,Q112220998,Minister of Environment,2012-04-28,2014-12-09,,,Q112221930-18585E70-D452-46AA-911A-3E5A2A4AE7BF
-Q112221937,Charles Nawej Mundele,Q108730998,Minister of Social Affairs,2012-04-28,2014-12-09,,,Q112221937-114B3ED5-8AFB-4830-9889-7FBC3BF92A15
-Q112221938,Chelo Lotsima,Q112221003,Minister of Higher Education,2012-04-28,2014-12-09,,,Q112221938-3102D34F-E440-459E-83B7-5B31B190C302
-Q112221956,Ferdinand Kambere Kalumbi,Q108730998,Minister of Social Affairs,2010-02-19,2012-04-28,,,Q112221956-CED81646-73BB-4A06-8567-C94BBCC1B07B
-Q112221978,Jose Endundu Bonongo,Q112220998,Minister of Environment,2010-02-19,2012-04-28,,,Q112221978-AAB4C12D-E835-4939-AA91-16ED2AC212E4
-Q112221991,Louis Alphonse Koyagialo Ngbasete Gerengbo,Q112221031,Minister of Posts and Telecommunications,2011-09-11,2012-04-28,,,Q112221991-6D03FBB1-111A-4199-B884-A6ADB246F34D
-Q112221993,Luzolo Mbambi Ntesa,Q112221015,Minister of Justice,2010-02-19,2012-04-28,,,Q112221993-AFFDC3C1-3C51-4779-8F82-712395CEDA42
-Q112222003,Norbert Basengezi Katitima,Q54429353,Minister of Agriculture of Democratic Republic of the Congo,2008-10-26,2012-04-28,,,Q112222003-75CC8235-1ECC-444F-A604-AFA9F0307C04
-Q112222021,Raymond Tshibanda N’tunga Mulongo,Q112221014,Minister of International Cooperation,2008-10-26,2012-04-28,,,Q112222021-7ABDBECA-DFE5-41C2-9A9E-D83012EC6C27
-Q112222022,Richard Muyej Mangenz,Q112221013,Minister of Interior,2012-04-28,2014-12-09,,,Q112222022-05B941C5-2AF5-451B-8AAB-04B27215BC40
-Q112222022,Richard Muyej Mangenz,Q112221041,Minister of Relations with the Parliament,2010-02-19,2012-04-28,,,Q112222022-88971EBC-8B90-44ED-9351-C836D99A1C08
-Q129404,Alexandre Luba Ntambo,Q17110451,Minister of Defence,2012-04-28,2014-12-09,,,Q129404-710416FB-3253-41ED-ADF2-B5FED6FAF3C8
-Q130512,Daniel Mukoko Samba,Q112220973,Minister of Budget,2012-04-28,2014-12-09,,,Q130512-CCA6A5D5-BE6E-4629-A40E-BA36588D3257
-Q16195146,Jeannette Kavira Mapera,Q54100574,Minister of Culture of the Democratic Republic of the Congo,2010-02-19,2012-04-28,,,Q16195146-019BD74E-CEC3-4062-801F-B73AB71F2C05
-Q16545541,Célestin Vunabandi,Q112221028,Minister of Planning,2012-04-28,2014-12-09,,,Q16545541-267FFB2F-4DCA-495C-93BC-D7EDCDF4A0BF
-Q178793,Lambert Mende Omalanga,Q112221019,Minister of Media,2012-04-28,2014-12-09,,,Q178793-46BEF82F-7D47-4A88-B2F4-29206AFED570
-Q178793,Lambert Mende Omalanga,Q112220985,Minister of Communications,2008-10-26,2012-04-28,,,Q178793-DC2DDC49-D59B-4B0C-AC7B-037BDF69485C
-Q19543886,Modeste Bahati Lukwebo,Q112220994,Minister of Employment,2012-04-28,2014-12-09,,,Q19543886-D5CB0E10-0CDD-4AAB-809C-DCDC467BE339
-Q19544597,Félix Kabange,Q112039008,Santé publique,2012-04-28,2016-12-19,https://fr.wikipedia.org/wiki/Gouvernement_Matata_II,2022-06-06,Q19544597-e1dbf38f-4c08-9a46-816d-58611d1a9b34
-Q19629172,Tryphon Kin-Kiey Mulumba,Q112221031,Minister of Posts and Telecommunications,2012-04-28,2014-12-09,,,Q19629172-1D28EDE7-DFB8-4FDE-BEB5-14B02DA2BFDA
-Q19631192,Henri Yav Mulang,Q97366094,Finances,2014-12,2019-08,https://fr.wikipedia.org/wiki/Gouvernement_Matata_II,2022-06-06,Q19631192-EA1ABD0A-3818-4D08-B203-2403CABD7178
-Q19631195,Jean-Claude Kibala,Q112220980,Fonction publique,2012-04-28,2015-09-25,https://fr.wikipedia.org/wiki/Gouvernement_Matata_II,2022-06-06,Q19631195-E211A1C8-FAA2-446B-967E-5C1BBD1BF47E
-Q2834659,Alexis Thambwe Mwamba,Q6866142,Minister of Foreign Affairs,2008-10,2012-04,,,Q2834659-ef98b58c-44d8-a432-acc3-e265a8068061
-Q2883576,Banza Mukalay,Q112221057,Minister of Youth,2012-04-28,2014-12-09,,,Q2883576-5EFD3C32-6FBE-42C5-B16A-B37DDC90C883
-Q2959880,Charles Mwando Simba,Q17110451,Minister of Defence,2008-10-26,2012-04-28,,,Q2959880-EEA1875B-9FD9-451B-861D-679974D3D163
-Q3002789,Crispin Atama Tabe,Q112221007,Minister of Hydrocarbons,2012-04-28,2015-09-25,,,Q3002789-DCD27514-ADE7-40E1-8380-72254DC816F4
-Q3010091,Célestin Mbuyu Kabango,Q112221007,Minister of Hydrocarbons,2010-02-19,2012-04-28,,,Q3010091-DC88CA95-FFEB-41C0-927B-470B7AC653E6
-Q3078546,Louis Alphonse Koyagialo,Q3401753,Prime Minister of the Democratic Republic of the Congo,2012-03-06,2012-04-18,,,Q3078546-1FC24BFF-C0C0-4052-B264-45BFCA8D20F7
-Q3087663,Fridolin Kasweshi,Q112221048,Minister of Spatial Planning,2012-04-28,2014-12-09,,,Q3087663-8141A32D-D918-4439-92F0-85D2DEC26678
-Q3087663,Fridolin Kasweshi,Q112221011,Minister of Infrastructure,2010-02-19,2012-04-28,,,Q3087663-96DA7FA6-BC0A-4BC9-B313-5AA3A33AF988
-Q3164322,Jean-Baptiste Ntahwa Kuderwa,Q112220973,Minister of Budget,2010-02-19,2012-04-28,,,Q3164322-B5D3B213-4A30-41A5-8DAA-62F5ED35C6E9
-Q3167591,Jean-Marie Bulambo Kilosho,Q112221045,Minister of Small and Medium Enterprises,2011-09-11,2012-04-28,,,Q3167591-B48B9E57-59B8-4FFC-A3DA-B2208E2DBE41
-Q3168626,Jean-Paul Nemoyato Begepole,Q112220992,Minister of Economy,2012-04-28,2014-12-09,,,Q3168626-8DFAC678-583D-40AC-97FB-5349B6D1A4BD
-Q3190458,Justin Kalumba Mwana Ngongo,Q54430447,Minister of Trade & Industry of the Democratic Republic of the Congo,2011-09-11,2012-04-28,,,Q3190458-32D28F5C-191A-4B08-A9B2-EF3517358615
-Q3190458,Justin Kalumba Mwana Ngongo,Q112221051,Transport et Voies de communications,2012-04-28,2016-12-19,https://fr.wikipedia.org/wiki/Gouvernement_Matata_II,2022-06-06,Q3190458-72E675FB-3BE2-4E56-A8A8-4FFBB8BD2E15
-Q3263804,Louise Munga,Q112221026,Portefeuille,2012-04-28,2016-12-19,https://fr.wikipedia.org/wiki/Gouvernement_Matata_II,2022-06-06,Q3263804-2873277C-554A-4AA5-8EA4-2A7E260ECF7B
-Q3271518,Leonard Mashako Mamba,Q112221003,Minister of Higher Education,2008-10-26,2012-04-28,,,Q3271518-3854B2F1-3684-4206-8ABB-77C1D77E1C1D
-Q3280404,Maj Kisimba Ngoy,Q112221018,Minister of Lands,2008-10-26,2012-04-28,,,Q3280404-DFA5D453-DC60-4AFF-A509-AF3B306C1A09
-Q3280754,Maker Mwangu Famba,Q112221034,Minister of Primary and Secondary Education,2007-02-05,2014-12-09,,,Q3280754-F5CF4339-6EFE-48BD-8B18-ADFA6B158D25
-Q3291479,Marie-Ange Lukiana Mufwankolo,Q112221055,Minister of Women Affairs,2008-10-26,2012-04-28,,,Q3291479-B0F6510D-9872-4F21-9588-1420AE0E8648
+Q104416504,Maguy Rwakabuba,Q112253713,"Vice-ministre, Enseignement primaire, secondaire et professionnel",2012-03-06,2014-12-07,https://fr.wikipedia.org/wiki/Gouvernement_Matata_I,2022-06-06,Q104416504-8DEFBDBF-8AB8-427F-B48C-FBC2956A7BE7
+Q104889315,Wivine Mumba Matipa,Q112221015,Justice et Droits humains,2012-04-28,2014-12-09,https://fr.wikipedia.org/wiki/Gouvernement_Matata_I,2022-06-06,Q104889315-F1E7F18F-590A-415D-B5A4-3161A97D8094
+Q105412562,Sakina Binti,Q112253723,"Vice-ministre, Droits humains",2012-03-06,2014-12-07,https://fr.wikipedia.org/wiki/Gouvernement_Matata_I,2022-06-06,Q105412562-6AB196F0-1BA8-4CE7-9168-9D7DAEAC1D16
+Q107126535,Bruno Kapanji Kalala,Q112221054,Ressources hydrauliques et Électricité,2012-04-28,2014-12-09,https://fr.wikipedia.org/wiki/Gouvernement_Matata_I,2022-06-06,Q107126535-4659270C-90E5-4F5F-8AFF-FE52CCDB1B81
+Q107126837,Jean Chrisostome Vahamwiti Mukesyayira,Q54429353,Agriculture et Développement Rural,2012-04-28,2014-12-09,https://fr.wikipedia.org/wiki/Gouvernement_Matata_I,2022-06-06,Q107126837-FBB43F67-DA60-43B4-85E1-55A9883CBE14
+Q107128113,Robert Mbwinga Bila,Q112221018,Affaires Foncières,2012-04-28,2014-12-09,https://fr.wikipedia.org/wiki/Gouvernement_Matata_I,2022-06-06,Q107128113-D9AC3BEF-BDF7-482C-B61C-6204DCE6F720
+Q107141721,Patrice Kitebi Kibol Mvul,Q97366094,"Délégué auprès du Premier Ministre, chargé des Finances",2012-04,2014-12,https://fr.wikipedia.org/wiki/Gouvernement_Matata_I,2022-06-06,Q107141721-33CC5E69-1BA0-42E9-894E-D18466D31CD6
+Q112221930,Bavon N’sa Mputu Elima,Q112220998,"Environnement, Conservation de la nature et tourisme",2012-04-28,2014-12-09,https://fr.wikipedia.org/wiki/Gouvernement_Matata_I,2022-06-06,Q112221930-18585E70-D452-46AA-911A-3E5A2A4AE7BF
+Q112221937,Charles Nawej Mundele,Q108730998,"Affaires Sociales, Action Humanitaire et Solidarité Nationale",2012-04-28,2014-12-09,https://fr.wikipedia.org/wiki/Gouvernement_Matata_I,2022-06-06,Q112221937-114B3ED5-8AFB-4830-9889-7FBC3BF92A15
+Q112221938,Chelo Lotsima,Q112221003,"Enseignement Supérieur, Universitaire et Recherche Scientifique",2012-04-28,2014-12-09,https://fr.wikipedia.org/wiki/Gouvernement_Matata_I,2022-06-06,Q112221938-3102D34F-E440-459E-83B7-5B31B190C302
+Q112253644,Abayuwe Liska,Q112223987,"Vice-ministre, Budget",2012-03-06,2014-12-07,https://fr.wikipedia.org/wiki/Gouvernement_Matata_I,2022-06-06,Q112253644-097C1879-35C4-4FFD-A763-794FB58EA11D
+Q112253706,Dismas Magbengu Swana Emin,Q112225267,"Vice-ministre, Coopération internationale et régionale",2012-03-06,2014-12-07,https://fr.wikipedia.org/wiki/Gouvernement_Matata_I,2022-06-06,Q112253706-C6C133B6-2379-4617-82A1-6C4233E5B79E
+Q112253716,Roger Shulungu Runika,Q112223978,"Vice-ministre, Finances",2012-03-06,2014-12-07,https://fr.wikipedia.org/wiki/Gouvernement_Matata_I,2022-06-06,Q112253716-F6CA12B2-E1C9-4225-8F21-7191943C5B98
+Q112253718,Sadock Biganza,Q112223992,"Vice-ministre, Plan",2012-03-06,2014-12-07,https://fr.wikipedia.org/wiki/Gouvernement_Matata_I,2022-06-06,Q112253718-2030B177-A091-4EF5-8E09-5A214F241213
+Q112253731,Égide Ngokoso,Q112252547,"Vice-ministre, Décentralisation et des Affaires coutumières",2012-03-06,2014-12-07,https://fr.wikipedia.org/wiki/Gouvernement_Matata_I,2022-06-06,Q112253731-9C99C388-B7D2-464D-9243-FDE8F8314E02
+Q129404,Alexandre Luba Ntambo,Q17110451,Défense Nationale et Anciens Combattants,2012-04-28,2014-12-09,https://fr.wikipedia.org/wiki/Gouvernement_Matata_I,2022-06-06,Q129404-710416FB-3253-41ED-ADF2-B5FED6FAF3C8
+Q130512,Daniel Mukoko Samba,Q112220973,Budget,2012-04-28,2014-12-09,https://fr.wikipedia.org/wiki/Gouvernement_Matata_I,2022-06-06,Q130512-CCA6A5D5-BE6E-4629-A40E-BA36588D3257
+Q16545541,Célestin Vunabandi Kanyamihigo,Q112221028,Plan et Suivi de la Mise en œuvre de la révolution de la modernité,2012-04-28,2014-12-09,https://fr.wikipedia.org/wiki/Gouvernement_Matata_I,2022-06-06,Q16545541-267FFB2F-4DCA-495C-93BC-D7EDCDF4A0BF
+Q178793,Lambert Mende Omalanga,Q112221019,"Médias, chargé des Relations avec le Parlement et de l’Initiation à la nouvelle citoyenneté",2012-04-28,2014-12-09,https://fr.wikipedia.org/wiki/Gouvernement_Matata_I,2022-06-06,Q178793-46BEF82F-7D47-4A88-B2F4-29206AFED570
+Q19543886,Modeste Bahati Lukwebo,Q112220994,"Emploi, Travail et Prévoyance Sociale",2012-04-28,2014-12-09,https://fr.wikipedia.org/wiki/Gouvernement_Matata_I,2022-06-06,Q19543886-D5CB0E10-0CDD-4AAB-809C-DCDC467BE339
+Q19544597,Félix Kabange Numbi Mukwampa,Q112039008,Santé Publique,2012-04-28,2016-12-19,https://fr.wikipedia.org/wiki/Gouvernement_Matata_I,2022-06-06,Q19544597-e1dbf38f-4c08-9a46-816d-58611d1a9b34
+Q19629172,Tryphon Kin-Kiey Mulumba,Q112221031,"Postes, Télécommunications et Nouvelles Technologies de l’Information et de la Communication",2012-04-28,2014-12-09,https://fr.wikipedia.org/wiki/Gouvernement_Matata_I,2022-06-06,Q19629172-1D28EDE7-DFB8-4FDE-BEB5-14B02DA2BFDA
+Q19631195,Jean-Claude Kibala,Q112220980,Fonction Publique,2012-04-28,2015-09-25,https://fr.wikipedia.org/wiki/Gouvernement_Matata_I,2022-06-06,Q19631195-E211A1C8-FAA2-446B-967E-5C1BBD1BF47E
+Q2883576,Banza Mukalay Nsungu,Q112221057,"Jeunesse, Sports, Culture et Arts",2012-04-28,2014-12-09,https://fr.wikipedia.org/wiki/Gouvernement_Matata_I,2022-06-06,Q2883576-5EFD3C32-6FBE-42C5-B16A-B37DDC90C883
+Q3002789,Crispin Atama Tabe,Q112221007,Hydrocarbures,2012-04-28,2015-09-25,https://fr.wikipedia.org/wiki/Gouvernement_Matata_I,2022-06-06,Q3002789-DCD27514-ADE7-40E1-8380-72254DC816F4
+Q3087663,Fridolin Kasweshi,Q112221048,"Aménagement du Territoire, Urbanisme, Habitat, Infrastructures, Travaux Publics et Reconstruction",2012-04-28,2014-12-09,https://fr.wikipedia.org/wiki/Gouvernement_Matata_I,2022-06-06,Q3087663-8141A32D-D918-4439-92F0-85D2DEC26678
+Q3168626,Jean-Paul Nemoyato Begepole,Q112220992,Économie et Commerce,2012-04-28,2014-12-09,https://fr.wikipedia.org/wiki/Gouvernement_Matata_I,2022-06-06,Q3168626-8DFAC678-583D-40AC-97FB-5349B6D1A4BD
+Q3190458,Justin Kalumba Mwana Ngongo,Q112221051,Transports et Voies de communication,2012-04-28,2016-12-19,https://fr.wikipedia.org/wiki/Gouvernement_Matata_I,2022-06-06,Q3190458-72E675FB-3BE2-4E56-A8A8-4FFBB8BD2E15
+Q3263804,Louise Munga Mesozi,Q112221026,Portefeuille,2012-04-28,2016-12-19,https://fr.wikipedia.org/wiki/Gouvernement_Matata_I,2022-06-06,Q3263804-2873277C-554A-4AA5-8EA4-2A7E260ECF7B
+Q3280754,Maker Mwangu Famba,Q112221034,"Enseignement Primaire, Secondaire et Professionnel",2007-02-05,2014-12-09,https://fr.wikipedia.org/wiki/Gouvernement_Matata_I,2022-06-06,Q3280754-F5CF4339-6EFE-48BD-8B18-ADFA6B158D25
 Q3295482,Martin Kabwelulu,Q112221020,Mines,2007-02-05,2019-01-23,https://fr.wikipedia.org/wiki/Gouvernement_Matata_II,2022-06-06,Q3295482-C0C83F7D-4542-4C64-8092-791D480A8FEA
-Q3351121,Olivier Kamitatu Etsu,Q112221028,Minister of Planning,2007-02-05,2012-04-28,,,Q3351121-148644DE-FB32-4184-81BE-5EDE206CE661
 Q3421171,Raymond Tshibanda,Q6866142,"Affaires étrangères, Coopération internationale",2012-04,2016-12,https://fr.wikipedia.org/wiki/Gouvernement_Matata_II,2022-06-06,Q3421171-6E1D3A96-EFC6-4632-A1C0-42F9448278E3
-Q3424672,Remy Musungayi Bampale,Q112221009,Minister of Industry,2012-04-28,2014-12-09,,,Q3424672-9F91A09D-7402-466E-B12B-B8D30B1DC705
-Q3484223,Simon Bulupiy Galati,Q112221017,Minister of Labour,2011-09-11,2012-04-28,,,Q3484223-59E6ABFC-79ED-457B-93FA-4BB27A7F2A58
-Q3557436,Victor Makwenge Kaput,Q112039008,Minister of Health of the Democratic Republic of the Congo,2010-02-19,2012-04-28,,,Q3557436-4309F0F2-4FF1-4047-971C-FF03D8EB5F24
-Q48775372,Claude Nyamugabo Bazibuye,Q112221057,Minister of Youth,2010-02-19,2012-04-28,,,Q48775372-FA892865-B59E-470E-A0CC-D1514F111D19
+Q3424672,Remy Musungayi Bampale,Q112221009,"Industrie, Petites et Moyennes Entreprises",2012-04-28,2014-12-09,https://fr.wikipedia.org/wiki/Gouvernement_Matata_I,2022-06-06,Q3424672-9F91A09D-7402-466E-B12B-B8D30B1DC705
 Q57883,Augustin Matata Ponyo,Q3401753,Premier ministre,2012-04-18,2016-11-17,https://fr.wikipedia.org/wiki/Gouvernement_Matata_II,2022-06-06,Q57883-74E2893D-8A57-410C-9C3E-C7A95742AFD1
-Q57883,Matata Ponyo Mapon,Q97366094,Minister of Finance,2010-02,2012-04,,,Q57883-E277B99E-6896-4182-8FBE-C12601E9664B
-Q63349528,Geneviève Inagosi,Q112220999,Minister of Family,2012-04-28,2014-12-09,,,Q63349528-40992391-82F4-4E27-8C42-7E7891F26BEE
-Q63382184,Jeannine Mabunda,Q112221026,Minister of Parastatals,2007-02-05,2012-04-28,,,Q63382184-31315137-6698-42F6-9A97-C7F7EE1E7F3F
+Q63349528,Geneviève Inagosi,Q112220999,"Genre, Famille et Enfant",2012-04-28,2014-12-09,https://fr.wikipedia.org/wiki/Gouvernement_Matata_I,2022-06-06,Q63349528-40992391-82F4-4E27-8C42-7E7891F26BEE
+Q7327967,Richard Muyej Mangeze,Q112221013,"Intérieur, Sécurité, Décentralisation et Affaires coutumières",2012-04-28,2014-12-09,https://fr.wikipedia.org/wiki/Gouvernement_Matata_I,2022-06-06,Q7327967-D604DBCC-6EDB-47D1-AB46-B5A6718B1395
+Q78469448,Tunda ya Kasende,Q112223974,"Vice-ministre, Affaires étrangères",2012-03-06,2014-12-07,https://fr.wikipedia.org/wiki/Gouvernement_Matata_I,2022-06-06,Q78469448-CAC6BB3A-9BCD-478F-9E67-D59BB89CE256
