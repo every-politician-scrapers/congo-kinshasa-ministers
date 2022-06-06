@@ -1,0 +1,14 @@
+{
+    "jurisdiction": {
+      "name": "Democratic Republic of the Congo",
+      "id": "Q974"
+    },
+    "cabinet": {
+      "id":     "Q3112308",
+      "start":  "2011-09-11",
+      "end":    "2012-03-06",
+      "parent": "Q3112604"
+    },
+    "source": "https://fr.wikipedia.org/wiki/Gouvernement_Muzito_III",
+    "lang": "fr"
+}
