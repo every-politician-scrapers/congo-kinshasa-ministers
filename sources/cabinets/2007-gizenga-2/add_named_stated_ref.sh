@@ -38,5 +38,5 @@ existing=$(wd label $item -l $lang)
 if [[ $existing != $name ]]
 then
   echo "Add alias: $item -> $name ($existing)"
-  wd add-alias $item $lang $name > /dev/null
+  wd add-alias --maxlag 20 $item $lang $name > /dev/null
 fi

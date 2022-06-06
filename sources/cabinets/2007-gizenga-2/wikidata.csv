@@ -1,56 +1,72 @@
 item,itemLabel,position,positionLabel,startDate,endDate,source,sourceDate,psid
+Q106153035,Gervais Ntirumenyerwa Kimonyo,Q112254053,"Vice-ministre, Travaux publics",2007-11-26,2008-10-10,https://fr.wikipedia.org/wiki/Gouvernement_Gizenga_II,2022-06-06,Q106153035-F720E714-EB2A-4B63-B71B-34672898AE01
+Q106905313,Vincent Okoyo Nembe,Q112254860,"Vice-ministre, Fonction publique",2007-11-26,2008-10-10,https://fr.wikipedia.org/wiki/Gouvernement_Gizenga_II,2022-06-06,Q106905313-56D5A37E-0F41-4C3C-822D-8390E8852F2D
+Q106913695,Daruwezi Mokombe,Q112254877,"Vice-ministre, Sécurité",2007-11-26,2008-10-10,https://fr.wikipedia.org/wiki/Gouvernement_Gizenga_II,2022-06-06,Q106913695-730255B0-B372-494D-ABC9-2C39B3B4E81D
+Q106913743,Ferdinand Essambo Lukye,Q112223992,"Vice-ministre, Plan",2007-11-26,2008-10-10,https://fr.wikipedia.org/wiki/Gouvernement_Gizenga_II,2022-06-06,Q106913743-D9DE3BEE-7896-4D3A-AF08-0D04D18A4EE5
+Q106913787,Joseph-Davel Mpango Okundo,Q112223972,"Vice-ministre, Intérieur",2007-11-26,2008-10-10,https://fr.wikipedia.org/wiki/Gouvernement_Gizenga_II,2022-06-06,Q106913787-7A413635-BFFC-40CD-AD42-7C368EE483D2
+Q106913836,Nelson Paluku Syayipuma,Q112223954,"Vice-ministre, Défense nationale",2007-11-26,2008-10-10,https://fr.wikipedia.org/wiki/Gouvernement_Gizenga_II,2022-06-06,Q106913836-8506BC65-1530-4CD0-B520-CF360E1BDF20
+Q107187435,Arthur Sedea Ngamo Zabusu,Q112252879,"Vice-ministre, Énergie",2007-11-26,2008-10-10,https://fr.wikipedia.org/wiki/Gouvernement_Gizenga_II,2022-06-06,Q107187435-A3E9712C-94C4-4EFC-8C34-B25055B0931E
+Q109037737,Ferdinand Ntua Osiamba,Q112223961,"Vice-ministre, Santé publique",2007-11-26,2008-10-10,https://fr.wikipedia.org/wiki/Gouvernement_Gizenga_II,2022-06-06,Q109037737-C87751E7-7EF1-4534-A2CE-CFE16220736A
+Q109045268,Modeste Omba Sakatolo,Q112253713,"Vice-ministre, Enseignement primaire, secondaire et professionnel",2007-11-26,2008-10-10,https://fr.wikipedia.org/wiki/Gouvernement_Gizenga_II,2022-06-06,Q109045268-B9469E52-82E9-4252-B368-AE6D32C41392
 Q112221943,Edouard Kabukapwa Bitanga,Q112221018,Minister of Lands,2007-11-26,2008-10-26,,,Q112221943-C5B8FD37-22CF-48B6-ABFD-7D5ECDC7002C
 Q112221994,Léonard Masuga Rugamika,Q112221003,Minister of Higher Education,2007-11-26,2008-10-26,,,Q112221994-F4D6CCBA-35BE-4DE4-8554-8D6F46320206
-Q112222008,Pardone Kaliba Mulanga,Q112221057,Minister of Youth,2007-02-05,2007-11-26,,,Q112222008-425C57C2-C0CE-4825-BF69-9AA4E77AE9B5
-Q178793,Lambert Mende Omalanga,Q112221007,Minister of Hydrocarbons,2007-02-05,2008-10-26,,,Q178793-3D28C89D-EDAC-46E2-B7DE-E795C7F47435
-Q2372748,Sylvain Joël Bifuila Tshamuala,Q112220992,Minister of Economy,2007-02-05,2007-11-26,,,Q2372748-083DB5B3-9F29-4569-86DE-2329ECF2B1A3
-Q2424586,Salomon Banamuhere Baliene,Q112220996,Minister of Energy,2007-02-05,2008-10-26,,,Q2424586-ECF76809-3015-4612-8302-276EFC496FE7
+Q1735013,Kasongo Ilunga,Q56515760,Commerce extérieur,2007-11-26,2008-10-10,https://fr.wikipedia.org/wiki/Gouvernement_Gizenga_II,2022-06-06,Q1735013-16D7EC46-4A3A-4080-9601-F8F757B8BB9B
+Q178793,Lambert Mende Omalanga,Q112221007,Hydrocarbures,2007-02-05,2008-10-26,https://fr.wikipedia.org/wiki/Gouvernement_Gizenga_II,2022-06-06,Q178793-3D28C89D-EDAC-46E2-B7DE-E795C7F47435
+Q20666287,Alain Lubamba wa Lubamba,Q112223974,"Vice-ministre, Affaires étrangères",2007-11-26,2008-10-10,https://fr.wikipedia.org/wiki/Gouvernement_Gizenga_II,2022-06-06,Q20666287-14E807C3-CDBD-4C3A-8CB2-6F4E77E0185C
+Q2372748,Sylvain Joël Bifuila Tshamuala,Q112220992,Économie nationale,2007-11-26,2008-10-10,https://fr.wikipedia.org/wiki/Gouvernement_Gizenga_II,2022-06-06,Q2372748-00D8E8A3-0379-422C-AB54-DE5DEB2D0741
+Q2424586,Salomon Banamuhere Baliene,Q112220996,Énergie,2007-02-05,2008-10-26,https://fr.wikipedia.org/wiki/Gouvernement_Gizenga_II,2022-06-06,Q2424586-ECF76809-3015-4612-8302-276EFC496FE7
 Q2824869,Adolphe Lumanu,Q112221041,Minister of Relations with the Parliament,2007-11-26,2010-02-19,,,Q2824869-DEE48470-E1FD-47C8-8DF0-B320F0A5368A
-Q2834659,Alexis Thambwe Mwamba,Q6866142,Minister of Foreign Affairs,2008-10,2012-04,,,Q2834659-ef98b58c-44d8-a432-acc3-e265a8068061
-Q2853312,Antipas Mbusa,Q6866142,Minister of Foreign Affairs,2007-02,2008-10,,,Q2853312-29d2075a-0f89-49dd-bfa1-2bcb60645fa0
-Q2868988,Athanase Matenda Kyelu,Q97366094,Minister of Finance,2007-02,2010-02,,,Q2868988-87849BA7-ACDA-4407-A13D-64B43161135D
-Q2959880,Charles Mwando Simba,Q112221043,Minister of Rural Development,2007-02-05,2007-11-26,,,Q2959880-96B4EFCA-27DF-4708-A7B4-0CC7B33BEDFA
-Q2959880,Charles Mwando Simba,Q112221051,Minister of Transport,2007-11-26,2008-10-26,,,Q2959880-C0B94B25-0CE7-49F2-8D38-6014CBDC6919
-Q2963552,Chikez Diemu,Q17110451,Minister of Defence,2007-02-05,2008-10-26,,,Q2963552-50CD6874-6CAB-45F7-A5A6-295B968BD3D6
-Q3008880,Cyprien Kyamusoke Bamusulanga Nta-Bote,Q112221031,Minister of Posts and Telecommunications,2007-02-05,2007-11-26,,,Q3008880-D9B0F8D1-F38E-4FEF-B1D9-A2B1CFFE0D2F
-Q3022760,Denis Kalume Numbi,Q112221013,Minister of Interior,2006-10-10,2008-10-26,,,Q3022760-9FE706F6-AD8A-4357-9905-9043259D6395
-Q3026832,Didace Pembe Bokiaga,Q112220998,Minister of Environment,2007-02-05,2007-11-26,,,Q3026832-5CE85FAE-6DD9-4398-B9CF-A05FECBC8548
-Q3050926,Elias Kakule Mbahingana,Q54437053,Minister of Tourism of the Democratic Republic of the Congo,2007-02-05,2007-11-26,,,Q3050926-03CBFEEC-24E4-4AFA-B67B-FBAC42648A20
-Q3060002,Eugène Lokwa Ilwaloma,Q112221005,Minister of Human Rights,2007-02-05,2007-11-26,,,Q3060002-638F09C3-C00C-4DB6-AF54-F4E4CA419DA7
-Q3091442,Nzanga Mobutu,Q54429353,Minister of Agriculture of Democratic Republic of the Congo,2007-11-26,2008-10-26,,,Q3091442-274DC4E8-4A0F-4C98-A646-E8E960F8FC6B
-Q3091442,Nzanga Mobutu,Q54429353,Minister of Agriculture of Democratic Republic of the Congo,2007-02-05,2007-11-26,,,Q3091442-B08AA11E-D179-4BAD-863D-1AC77EC21A12
-Q3103211,Georges Minsay Booka,Q112221015,Minister of Justice,2007-02-05,2007-11-26,,,Q3103211-1BCD46FD-EFAE-4919-8C07-C3714CC5C6B0
-Q3109704,Godefroid Mayobo Mpwene Ngantien,Q112221058,Minister without Portfolio,2007-02-05,2008-10-26,,,Q3109704-76BAE57A-D5F2-4786-9C88-A6FB78E3E32D
-Q3148164,Ignace Gata Mavinga,Q112221039,Minister of Regional Integration,2007-02-05,2007-11-26,,,Q3148164-A99C6F8C-B5E9-4F9F-9289-504CE1A48C57
-Q3165135,Jean-Claude Muyambo Kyassa,Q108730998,Minister of Social Affairs,2007-11-26,2008-10-26,,,Q3165135-9205E8D4-8003-4B0A-B301-3E5CD61EB1F9
-Q3165135,Jean-Claude Muyambo Kyassa,Q112221006,Minister of Humanitarian Affairs,2007-02-05,2007-11-26,,,Q3165135-D2BCB42A-7528-412E-973B-7726CF87EBA6
+Q2853312,Antipas Mbusa Nyamwisi,Q6866142,Affaires étrangères et de la coopération internationale,2007-02,2008-10,https://fr.wikipedia.org/wiki/Gouvernement_Gizenga_II,2022-06-06,Q2853312-29d2075a-0f89-49dd-bfa1-2bcb60645fa0
+Q2868988,Athanase Matenda Kyelu,Q97366094,Finances,2007-02,2010-02,https://fr.wikipedia.org/wiki/Gouvernement_Gizenga_II,2022-06-06,Q2868988-87849BA7-ACDA-4407-A13D-64B43161135D
+Q2959880,Charles Mwando Nsimba,Q112221051,Développement rural,2007-11-26,2008-10-26,https://fr.wikipedia.org/wiki/Gouvernement_Gizenga_II,2022-06-06,Q2959880-C0B94B25-0CE7-49F2-8D38-6014CBDC6919
+Q2963552,Chikez Diemu,Q17110451,Défense nationale et des anciens combattants,2007-02-05,2008-10-26,https://fr.wikipedia.org/wiki/Gouvernement_Gizenga_II,2022-06-06,Q2963552-50CD6874-6CAB-45F7-A5A6-295B968BD3D6
+Q2982527,Colette Tshomba Ntundu,Q112252403,"Vice-ministre, Congolais de l’étranger",2007-11-26,2008-10-10,https://fr.wikipedia.org/wiki/Gouvernement_Gizenga_II,2022-06-06,Q2982527-D584BA42-8654-4A38-B36E-A9796CAF1339
+Q3008880,Kyamusoke Bamusulanga Nta-Bote,Q112221031,"Postes, téléphones et télécommunications",2007-11-26,2008-10-10,https://fr.wikipedia.org/wiki/Gouvernement_Gizenga_II,2022-06-06,Q3008880-FD7541A5-9834-464C-ABDD-C880CFA9FBE1
+Q3010091,Célestin Mbuyu Kabango,Q112223987,"Vice-ministre, Budget",2007-11-26,2008-10-10,https://fr.wikipedia.org/wiki/Gouvernement_Gizenga_II,2022-06-06,Q3010091-3881EC60-A208-47B8-988C-FA861100110D
+Q3022760,Denis Kalume Numbi,Q112221013,"Intérieur, décentralisation et sécurité",2006-10-10,2008-10-26,https://fr.wikipedia.org/wiki/Gouvernement_Gizenga_II,2022-06-06,Q3022760-9FE706F6-AD8A-4357-9905-9043259D6395
+Q3022820,Denis Mbuyu Manga,Q56515760,Commerce extérieur,2007-11-26,2008-10-10,https://fr.wikipedia.org/wiki/Gouvernement_Gizenga_II,2022-06-06,Q3022820-40ECD18A-AE6F-47E0-933B-FDC5DFE13BE9
+Q3026832,Didace Pembe Bokiaga,Q112220998,Environnement,2007-11-26,2008-10-10,https://fr.wikipedia.org/wiki/Gouvernement_Gizenga_II,2022-06-06,Q3026832-B10F41E8-0CAE-42B6-8981-68E79E78AF28
+Q3050926,Elias Kakule Mbahingana,Q54437053,Tourisme,2007-11-26,2008-10-10,https://fr.wikipedia.org/wiki/Gouvernement_Gizenga_II,2022-06-06,Q3050926-98FCAD10-A284-4B63-8507-14AF66F4A8FA
+Q3060002,Eugène Lokwa Ilwaloma,Q112221005,Droits humains,2007-11-26,2008-10-10,https://fr.wikipedia.org/wiki/Gouvernement_Gizenga_II,2022-06-06,Q3060002-165A09D5-A09C-4F54-A88F-BF3F607BD8ED
+Q3091442,François-Joseph Mobutu Nzanga Ngbangawe,Q54429353,Agriculture,2007-11-26,2008-10-26,https://fr.wikipedia.org/wiki/Gouvernement_Gizenga_II,2022-06-06,Q3091442-274DC4E8-4A0F-4C98-A646-E8E960F8FC6B
+Q3109704,Godefroid Mayobo Mpwene Ngantien,Q112221058,Ministre près le Premier ministre,2007-02-05,2008-10-26,https://fr.wikipedia.org/wiki/Gouvernement_Gizenga_II,2022-06-06,Q3109704-76BAE57A-D5F2-4786-9C88-A6FB78E3E32D
+Q3126761,Hangi Binini,Q112223978,"Vice-ministre, Finances",2007-11-26,2008-10-10,https://fr.wikipedia.org/wiki/Gouvernement_Gizenga_II,2022-06-06,Q3126761-25D2A763-B268-4626-ABAD-B6DDC857E1BC
+Q3148164,Ignace Gata Mavita,Q112221039,Intégration régionale,2007-11-26,2008-10-10,https://fr.wikipedia.org/wiki/Gouvernement_Gizenga_II,2022-06-06,Q3148164-713D2775-8931-45DF-8D4E-C5895DAC1B70
+Q3165135,Jean-Claude Muyambo Kyassa,Q108730998,Affaires humanitaires,2007-11-26,2008-10-26,https://fr.wikipedia.org/wiki/Gouvernement_Gizenga_II,2022-06-06,Q3165135-9205E8D4-8003-4B0A-B301-3E5CD61EB1F9
 Q316942,Antoine Gizenga,Q3401753,Prime Minister of the Democratic Republic of the Congo,2006-12-30,2008-10-10,,,Q316942-8D23033D-A443-46C7-BEBA-EA1EABA6FF95
-Q3172112,Jean François Ekofo Panzoko,Q112221045,Minister of Small and Medium Enterprises,2007-02-05,2007-11-26,,,Q3172112-518D94A5-B927-46A8-B468-B5BFF26CA83E
+Q3172112,Jean François Ekofo Panzoko,Q112221045,Petites et moyennes entreprises,2007-11-26,2008-10-10,https://fr.wikipedia.org/wiki/Gouvernement_Gizenga_II,2022-06-06,Q3172112-42CB0498-5CE9-44D0-BCEE-0689CE090B44
 Q3186269,José Endundo Bononge,Q112220998,Minister of Environment,2007-11-26,2008-10-26,,,Q3186269-49003566-E0AF-4471-950A-276A22358F8B
-Q3218981,Laurent-Simon Ikenge Lisambola,Q112221052,Minister of Urban Development,2007-02-05,2007-11-26,,,Q3218981-282DB198-F7CE-4001-AA16-C4441D1390DA
+Q3218739,Laure Marie Kawanda Kayena,Q112223985,"Vice-ministre, Transports",2007-11-26,2008-10-10,https://fr.wikipedia.org/wiki/Gouvernement_Gizenga_II,2022-06-06,Q3218739-F6E601CC-A712-4B29-B330-202788F4B241
 Q3218981,Laurent-Simon Ikenge Lisambola,Q112220980,Minister of Civil Service,2007-11-26,2008-10-26,,,Q3218981-40560E80-7BDD-4EBB-8A40-D871ABDCFFB8
-Q3240837,Liliane Pande Muaba,Q112221018,Minister of Lands,2007-02-05,2007-11-26,,,Q3240837-548B54DC-CE8E-44B3-9EAA-3F636C7FF098
+Q3240837,Liliane Mpande Mwaba,Q112221018,Affaires foncières,2007-11-26,2008-10-10,https://fr.wikipedia.org/wiki/Gouvernement_Gizenga_II,2022-06-06,Q3240837-D39C834F-7CAD-40FF-B72F-8BA5CCCB0BB5
 Q3263804,Louise Munga Mesozi,Q112221031,Minister of Posts and Telecommunications,2007-11-26,2010-02-19,,,Q3263804-315A72E8-86FA-4659-A279-E6C0B836D208
-Q3280754,Maker Mwangu Famba,Q112221034,Minister of Primary and Secondary Education,2007-02-05,2014-12-09,,,Q3280754-F5CF4339-6EFE-48BD-8B18-ADFA6B158D25
-Q3289189,Marcel Malenso Ndodila,Q54100574,Minister of Culture of the Democratic Republic of the Congo,2007-02-05,2007-11-26,,,Q3289189-E3F546DB-7B60-4032-AD3C-2C3D22528207
-Q3291479,Marie-Ange Lukiana Mufwankolo,Q112221017,Minister of Labour,2007-02-05,2008-10-26,,,Q3291479-AA2C5C63-DDC9-4343-A2A5-1C9C460BC20D
-Q3295341,Martin Bitijula Mahimba,Q108730998,Minister of Social Affairs,2007-02-05,2007-11-26,,,Q3295341-B00F4909-EAEF-4585-90B1-DA1B106DB807
-Q3295482,Martin Kabwelulu,Q112221020,Minister of Mines,2007-02-05,2019-01-23,,,Q3295482-C0C83F7D-4542-4C64-8092-791D480A8FEA
-Q3330981,Mutombo Bakafwa Nsenda,Q112221015,Minister of Justice,2007-11-26,2008-10-26,,,Q3330981-15873A16-635E-4EBE-BA72-1D5D4EC30FDC
-Q3342365,Nkulu Mitumba Kilombo,Q112221058,Minister without Portfolio,2007-02-05,2008-10-26,,,Q3342365-B15BD22D-2747-4482-9AF2-C1E8F809AC3C
-Q3351121,Olivier Kamitatu Etsu,Q112221028,Minister of Planning,2007-02-05,2012-04-28,,,Q3351121-148644DE-FB32-4184-81BE-5EDE206CE661
-Q3381176,Philomène Omatuku Atshakawo Akatshi,Q112221055,Minister of Women Affairs,2007-02-05,2008-10-26,,,Q3381176-A00D6B39-E01C-4098-B74C-41909C66F901
-Q3386032,Pierre Lumbi Okongo,Q112221011,Minister of Infrastructure,2007-02-05,2010-02-19,,,Q3386032-5326FB24-2384-4E53-93C5-C52399AA8046
-Q3484373,Simon Mboso Kiamputu,Q112221009,Minister of Industry,2007-11-26,2008-10-26,,,Q3484373-1C901C67-4FBB-4F7E-ACA7-72EFAC13E800
-Q3484373,Simon Mboso Kiamputu,Q112221009,Minister of Industry,2007-02-05,2007-11-26,,,Q3484373-9213E84E-CBA3-488B-A82B-7D3460A4FE28
-Q3507094,Sylvain Ngabu Chumbu,Q112221003,Minister of Higher Education,2007-02-05,2007-11-26,,,Q3507094-84875DBE-0E27-4413-B184-60942D4CC3B4
-Q3507094,Sylvain Ngabu Chumbu,Q112221052,Minister of Urban Development,2007-11-26,2008-10-26,,,Q3507094-851F2AD4-5E32-438C-9543-24DC234BFB48
-Q3535662,Toussaint Tshilombo Send,Q112221010,Minister of Information,2007-02-05,2007-11-26,,,Q3535662-699A3F8E-1847-42AF-8610-C0CCCCB24822
-Q3557436,Victor Makwenge Kaput,Q112039008,Minister of Health of the Democratic Republic of the Congo,2007-02-05,2008-10-26,,,Q3557436-6DDD9ECA-5BBE-432A-B98B-79CB7F6862A3
-Q3576517,Zéphyrin Mutu Diambu-di-Lusala Nieva,Q112220980,Minister of Civil Service,2007-02-05,2007-11-26,,,Q3576517-7070EE6D-311E-4581-A088-0BCFAED267E4
+Q3280754,Maker Mwangu Famba,Q112221034,"Enseignement primaire, secondaire et professionnel",2007-02-05,2014-12-09,https://fr.wikipedia.org/wiki/Gouvernement_Gizenga_II,2022-06-06,Q3280754-F5CF4339-6EFE-48BD-8B18-ADFA6B158D25
+Q3289189,Marcel Malenso Ndodila,Q54100574,Culture et des arts,2007-11-26,2008-10-10,https://fr.wikipedia.org/wiki/Gouvernement_Gizenga_II,2022-06-06,Q3289189-FF05163D-A4BC-4C77-A55A-4F04F409CFA4
+Q3291479,Marie-Ange Lukiana Mufwankol,Q112221017,Travail et de la prévoyance sociale,2007-02-05,2008-10-26,https://fr.wikipedia.org/wiki/Gouvernement_Gizenga_II,2022-06-06,Q3291479-AA2C5C63-DDC9-4343-A2A5-1C9C460BC20D
+Q3292119,Marie-Madeleine Mienze Kiaku,Q112225271,"Vice-ministre, Enseignement supérieur et universitaire",2007-11-26,2008-10-10,https://fr.wikipedia.org/wiki/Gouvernement_Gizenga_II,2022-06-06,Q3292119-B6526620-A84A-48FB-BDEF-5C4C56D0F5C9
+Q3295341,Martin Bitijula Mahimba,Q108730998,Affaires sociales et de la solidarité nationale,2007-11-26,2008-10-10,https://fr.wikipedia.org/wiki/Gouvernement_Gizenga_II,2022-06-06,Q3295341-3C0FDEA3-7FB3-4B65-852E-4A1A82E0B32C
+Q3295482,Martin Kabwelulu Labilo,Q112221020,Mines,2007-02-05,2019-01-23,https://fr.wikipedia.org/wiki/Gouvernement_Gizenga_II,2022-06-06,Q3295482-C0C83F7D-4542-4C64-8092-791D480A8FEA
+Q3330981,Mutombo Bakafwa Nsenda,Q112221015,Justice et Droits humains,2007-11-26,2008-10-26,https://fr.wikipedia.org/wiki/Gouvernement_Gizenga_II,2022-06-06,Q3330981-15873A16-635E-4EBE-BA72-1D5D4EC30FDC
+Q3342365,Nkulu Mitumba Kilombo,Q112221058,ministre d’État près le Président de la République,2007-02-05,2008-10-26,https://fr.wikipedia.org/wiki/Gouvernement_Gizenga_II,2022-06-06,Q3342365-B15BD22D-2747-4482-9AF2-C1E8F809AC3C
+Q3351121,Olivier Kamitatu Etsu,Q112221028,Plan,2007-02-05,2012-04-28,https://fr.wikipedia.org/wiki/Gouvernement_Gizenga_II,2022-06-06,Q3351121-148644DE-FB32-4184-81BE-5EDE206CE661
+Q3364959,Pardonne Kaliba Mulanga,Q112221057,Jeunesse et des sports,2007-11-26,2008-10-10,https://fr.wikipedia.org/wiki/Gouvernement_Gizenga_II,2022-06-06,Q3364959-F74A844D-A64A-45E9-84FD-9A0F03FBBEC3
+Q3381176,Philomène Omatuku Atshakawo Akatshi,Q112221055,Condition féminine,2007-02-05,2008-10-26,https://fr.wikipedia.org/wiki/Gouvernement_Gizenga_II,2022-06-06,Q3381176-A00D6B39-E01C-4098-B74C-41909C66F901
+Q3386032,Pierre Lumbi Okongo,Q112221011,"Infrastructures, travaux publics et reconstruction",2007-02-05,2010-02-19,https://fr.wikipedia.org/wiki/Gouvernement_Gizenga_II,2022-06-06,Q3386032-5326FB24-2384-4E53-93C5-C52399AA8046
+Q3424667,Remy Henri Kuseyo Gatanga,Q112221051,Transports et voies de communication,2007-11-26,2008-10-10,https://fr.wikipedia.org/wiki/Gouvernement_Gizenga_II,2022-06-06,Q3424667-D7127360-7051-4B65-89ED-555C0147C2C3
+Q3484373,Simon Mboso Kiamputu,Q112221009,Industrie,2007-11-26,2008-10-26,https://fr.wikipedia.org/wiki/Gouvernement_Gizenga_II,2022-06-06,Q3484373-1C901C67-4FBB-4F7E-ACA7-72EFAC13E800
+Q3507094,Sylvain Ngabu Chumbu,Q112221052,Enseignement supérieur et universitaire,2007-11-26,2008-10-26,https://fr.wikipedia.org/wiki/Gouvernement_Gizenga_II,2022-06-06,Q3507094-851F2AD4-5E32-438C-9543-24DC234BFB48
+Q3507165,Sylvanus Mushi Bonane,Q112221044,Recherche scientifique,2007-11-26,2008-10-10,https://fr.wikipedia.org/wiki/Gouvernement_Gizenga_II,2022-06-06,Q3507165-9290ED8D-F16C-4669-B70D-671FE2CF65EC
+Q3535662,Toussaint Tshilombo Send,Q112221010,"Information, Presse et communication nationale",2007-11-26,2008-10-10,https://fr.wikipedia.org/wiki/Gouvernement_Gizenga_II,2022-06-06,Q3535662-EF182975-43AB-4D46-9CFB-6E26DB9CAFC8
+Q3546691,Télésphore Tsakala Munikengi,Q112251767,"Vice-ministre, Travail et de la prévoyance sociale",2007-11-26,2008-10-10,https://fr.wikipedia.org/wiki/Gouvernement_Gizenga_II,2022-06-06,Q3546691-0CC6C4B3-E796-464D-9F99-70CA627F20A7
+Q3557389,Victor Kasongo Shomary,Q112223982,"Vice-ministre, Mines",2007-11-26,2008-10-10,https://fr.wikipedia.org/wiki/Gouvernement_Gizenga_II,2022-06-06,Q3557389-E58D2E45-4ACA-4679-935D-609D030BD72A
+Q3557436,Victor Makwenge Kaput,Q112039008,Santé publique,2007-02-05,2008-10-26,https://fr.wikipedia.org/wiki/Gouvernement_Gizenga_II,2022-06-06,Q3557436-6DDD9ECA-5BBE-432A-B98B-79CB7F6862A3
+Q3576517,Zéphyrin Mutu Diambu-di-Lusala Nieva,Q112220980,Fonction publique,2007-11-26,2008-10-10,https://fr.wikipedia.org/wiki/Gouvernement_Gizenga_II,2022-06-06,Q3576517-40E175D2-5A55-427D-936D-6442352933DD
 Q3588368,Emile Bongeli,Q112220985,Minister of Communications,2007-11-26,2008-10-26,,,Q3588368-CCD09D1F-FB47-4282-8799-96718F703F20
-Q365790,Adolphe Muzito,Q112220973,Minister of Budget,2007-02-05,2008-10-26,,,Q365790-75D4186F-329A-478D-9DE0-72301CB4474B
+Q365790,Adolphe Muzito,Q112220973,Budget,2007-02-05,2008-10-26,https://fr.wikipedia.org/wiki/Gouvernement_Gizenga_II,2022-06-06,Q365790-75D4186F-329A-478D-9DE0-72301CB4474B
 Q48775325,Esdras Kambale,Q54100574,Minister of Culture of the Democratic Republic of the Congo,2007-11-26,2010-02-19,,,Q48775325-69D14A81-6201-4A34-9657-E74EA69EC004
 Q516526,André-Philippe Futa,Q112220992,Minister of Economy,2007-11-26,2010-02-19,,,Q516526-B80BEE7E-E28F-45AA-85D0-DA17747A5D9F
-Q63382184,Jeannine Mabunda,Q112221026,Minister of Parastatals,2007-02-05,2012-04-28,,,Q63382184-31315137-6698-42F6-9A97-C7F7EE1E7F3F
+Q63382184,Jeannine Mabunda Lioko Mudiayi,Q112221026,Portefeuille,2007-02-05,2012-04-28,https://fr.wikipedia.org/wiki/Gouvernement_Gizenga_II,2022-06-06,Q63382184-31315137-6698-42F6-9A97-C7F7EE1E7F3F
+Q96210306,Yvonne Iyamulemye Kabano,Q112254866,"Vice-ministre, Anciens combattants",2007-11-26,2008-10-10,https://fr.wikipedia.org/wiki/Gouvernement_Gizenga_II,2022-06-06,Q96210306-C3FA2F0E-92FB-40B4-881A-DF9068C0EB19
+Q96210317,Odette Kalinda Mitumbala Odya,Q112223956,"Vice-ministre, Justice",2007-11-26,2008-10-10,https://fr.wikipedia.org/wiki/Gouvernement_Gizenga_II,2022-06-06,Q96210317-7735FD3D-E7CE-41FA-8706-B442F751A742
 Q97464651,Willy Bakonga Wilima,Q112221057,Minister of Youth,2007-11-26,2008-10-26,,,Q97464651-5783171E-CB35-4796-A6E0-F583A53B5E0F
+Q98843203,Gentiny Ngobila,Q112251828,"Vice-ministre, Agriculture",2007-11-26,2008-10-10,https://fr.wikipedia.org/wiki/Gouvernement_Gizenga_II,2022-06-06,Q98843203-16B82F8D-98B3-42B1-938E-A96BFF8AAB3E

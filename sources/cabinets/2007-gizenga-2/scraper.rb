@@ -21,7 +21,7 @@ class MemberList
     end
 
     field :name do
-      name_node.text.tidy
+      name_node.text.tidy.gsub(/\.$/, '')
     end
 
     field :positionID do
@@ -30,7 +30,7 @@ class MemberList
     field :position do
       return 'Commerce extérieur' if ['Kasongo Ilunga', 'Denis Mbuyu Manga'].include?(name)
 
-      noko.text.split(':').first.tidy
+      raw_position.prepend(section == 'Vice-ministres' ? 'Vice-ministre, ' : '')
     end
 
     field :startDate do
@@ -43,6 +43,14 @@ class MemberList
 
     def name_node
       noko.css('a').first
+    end
+
+    def section
+      noko.xpath('preceding::h2[1]/span[@class="mw-headline"]').text.tidy
+    end
+
+    def raw_position
+      noko.text.split(':').first.tidy
     end
   end
 end
