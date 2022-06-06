@@ -1,43 +1,57 @@
 item,itemLabel,position,positionLabel,startDate,endDate,source,sourceDate,psid
-Q107099631,Symphorien Mutombo Bakafwa Nsenda,Q54099408,Vice Prime Minister of the Democratic Republic of the Congo,2008-10-26,2010-02-19,,,Q107099631-EA83DA9B-1F1C-4E04-8B97-DA7C5445E340
-Q112221926,Auguste Mopipi Mukulumania,Q112039008,Minister of Health of the Democratic Republic of the Congo,2008-10-26,2010-02-19,,,Q112221926-3100E4BA-3AB4-48CD-BC85-CA7C0888B38E
-Q112221947,Emile Bongeli Yekolo,Q54099408,Vice Prime Minister of the Democratic Republic of the Congo,2008-10-26,2010-02-19,,,Q112221947-D69DDC9B-983D-4302-832F-4079109F4E76
-Q112221951,Esdras Kambale Baekwa,Q54100574,Minister of Culture of the Democratic Republic of the Congo,2007-11-26,2010-02-19,,,Q112221951-EA8E1795-D153-4B7C-8B45-588E785288BC
-Q112221981,Joseph Utitiyo Apata,Q112221044,Minister of Scientific Research,2008-10-26,2010-02-19,,,Q112221981-9B5FB573-B355-44DC-995A-7D3617D87569
+Q106777922,Bokele Djema,Q112225271,"Vice-ministre, ESU",2008-10-26,2010-02-19,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_I,2022-06-06,Q106777922-F385B1D9-4A8B-4B63-B03C-25C7DF48540E
+Q107187435,Arthur Sedea Ngamo Zabusu,Q112225265,"Vice-ministre, Enseignement professionnel",2008-10-26,2010-02-19,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_I,2022-06-06,Q107187435-07F7BB68-5ACE-45D6-9A16-6C086F554F6D
+Q107475161,César Lubamba Ngimbi,Q112223978,"Vice-ministre, Finances",2008-10-26,2010-02-19,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_I,2022-06-06,Q107475161-38E21F5E-B598-49A9-B107-CCF79DE9BB57
 Q112222025,Safi Adili,Q112221043,Minister of Rural Development,2008-10-26,2010-02-19,,,Q112222025-3D4244AE-84D0-451F-8F89-984B492F0C7D
-Q178793,Lambert Mende Omalanga,Q112220985,Communication et Médias,2008-10-26,2012-04-28,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_III,2022-06-06,Q178793-DC2DDC49-D59B-4B0C-AC7B-037BDF69485C
-Q2824869,Adolphe Lumanu,Q112221041,Minister of Relations with the Parliament,2007-11-26,2010-02-19,,,Q2824869-DEE48470-E1FD-47C8-8DF0-B320F0A5368A
-Q2834659,Alexis Thambwe Mwamba,Q6866142,Affaires étrangères,2008-10,2012-04,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_III,2022-06-06,Q2834659-ef98b58c-44d8-a432-acc3-e265a8068061
-Q2853312,Antipas Mbusa Nyamwisi,Q112220990,Décentralisation et Aménagement du Territoire,2008-10-26,2011-09-11,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_II,2022-06-06,Q2853312-909F25D9-8AE8-4270-9036-3E20AC49DDB0
-Q2868988,Athanase Matenda Kyelu,Q97366094,Minister of Finance,2007-02,2010-02,,,Q2868988-87849BA7-ACDA-4407-A13D-64B43161135D
-Q2885955,Barthélemy Botswali Lengomo,Q108730998,Minister of Social Affairs,2008-10-26,2010-01-09,,,Q2885955-9A449147-0E21-4981-9C1D-1C2FBC943D9B
-Q2959880,Charles Mwando Nsimba,Q17110451,Défense nationale et Anciens Combattants,2008-10-26,2012-04-28,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_II,2022-06-06,Q2959880-EEA1875B-9FD9-451B-861D-679974D3D163
-Q3010091,Célestin Mbuyu Kabango,Q112221013,Minister of Interior,2008-10-26,2010-02-19,,,Q3010091-77DC5DEB-6FA4-4259-BB7F-31466673B722
-Q3091442,Nzanga Mobutu,Q54099408,Vice Prime Minister of the Democratic Republic of the Congo,2008-10-26,2010-02-19,,,Q3091442-D42E56B3-07EC-4891-BD1A-BDD1E7B78DF5
-Q3186269,José Endundo Bononge,Q112220998,Minister of Environment,2008-10-26,2010-02-19,,,Q3186269-860C4028-7E25-4BEB-AA92-6CFC205B1234
-Q3263804,Louise Munga Mesozi,Q112221031,Minister of Posts and Telecommunications,2007-11-26,2010-02-19,,,Q3263804-315A72E8-86FA-4659-A279-E6C0B836D208
-Q3268148,Luzolo Bambi Lessa,Q112221015,Minister of Justice,2008-10-26,2010-02-19,,,Q3268148-28A24E2F-63D8-49D4-9174-1FC890F5B269
-Q3271518,Leonard Mashako Mamba,Q112221003,Enseignement supérieur et universitaire,2008-10-26,2012-04-28,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_III,2022-06-06,Q3271518-3854B2F1-3684-4206-8ABB-77C1D77E1C1D
-Q3280404,Maj Kisimba Ngoy,Q112221018,Affaires foncières,2008-10-26,2012-04-28,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_III,2022-06-06,Q3280404-DFA5D453-DC60-4AFF-A509-AF3B306C1A09
-Q3280754,Maker Mwangu Famba,Q112221034,"Enseignement primaire, secondaire et professionnel",2007-02-05,2014-12-09,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_III,2022-06-06,Q3280754-F5CF4339-6EFE-48BD-8B18-ADFA6B158D25
-Q3291479,Marie-Ange Lukiana Mufwankolo,Q112221055,"Genre, Femme et Enfant",2008-10-26,2012-04-28,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_III,2022-06-06,Q3291479-B0F6510D-9872-4F21-9588-1420AE0E8648
-Q3295482,Martin Kabwelulu Labilo,Q112221020,Mines,2007-02-05,2019-01-23,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_III,2022-06-06,Q3295482-C0C83F7D-4542-4C64-8092-791D480A8FEA
-Q3310203,Michel Lokola Elemba,Q112220973,Minister of Budget,2008-10-26,2010-02-19,,,Q3310203-9A645D60-9A5D-4F4C-99C3-96EAC2903215
-Q3343479,Norbert Basengezi Katintima,Q54429353,Agriculture,2008-10-26,2012-04-28,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_III,2022-06-06,Q3343479-C5549F3E-867E-426F-A7D5-B7C86726FA2A
-Q3351121,Olivier Kamitatu Etsu,Q112221028,Plan,2007-02-05,2012-04-28,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_III,2022-06-06,Q3351121-148644DE-FB32-4184-81BE-5EDE206CE661
-Q3386032,Pierre Lumbi Okongo,Q112221011,Minister of Infrastructure,2007-02-05,2010-02-19,,,Q3386032-5326FB24-2384-4E53-93C5-C52399AA8046
-Q3421171,Raymond Tshibanda,Q112221014,Coopération internationale et régionale,2008-10-26,2012-04-28,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_II,2022-06-06,Q3421171-0E6E786D-C2CF-4568-AEED-9E8B1373D763
-Q3426386,René Isekemanga Nkeka,Q112221007,Minister of Hydrocarbons,2008-10-26,2010-02-19,,,Q3426386-4EA9D139-9177-4F8A-857A-E12B96BB78B3
-Q3484373,Simon Mboso Kiamputu,Q112221009,Minister of Industry,2008-10-26,2010-02-19,,,Q3484373-124294D7-850F-4EA1-A0B3-3F19A83F32E2
-Q365790,Adolphe Muzito,Q3401753,Premier ministre,2008-10-10,2012-03-06,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_III,2022-06-06,Q365790-B5E3D1C3-112A-480E-8AD1-5231711528AB
-Q47524829,Michel Botoro,Q112220980,Minister of Civil Service,2008-10-26,2010-02-19,,,Q47524829-8887D5C4-0623-48AF-A6EE-5062EED82842
-Q48775328,Upio Kakura Wapol,Q112221005,Minister of Human Rights,2008-10-26,2010-02-19,,,Q48775328-87BA07CD-920A-4B4D-8E5F-73D730F58874
-Q48775361,Ferdinand Kambere,Q112221017,Minister of Labour,2008-10-26,2010-02-19,,,Q48775361-B469EB52-1F29-430B-BA63-DAB5EB5297CA
-Q48775364,Laurent Muzangisa,Q112220996,Minister of Energy,2008-10-26,2010-02-19,,,Q48775364-755A83F7-BCE0-4B96-9CBC-BCBC47920CF1
-Q48775368,Patrick Sulubika,Q112221057,Minister of Youth,2008-10-26,2010-02-19,,,Q48775368-BD531CC9-9E21-4E62-8833-BF53C4787099
-Q48775372,Claude Nyamugabo Bazibuye,Q112221045,Minister of Small and Medium Enterprises,2008-10-26,2010-02-19,,,Q48775372-41DDB62D-E879-4543-8B3F-500C4E6FBA0B
-Q48778037,Matthieu Mpika,Q112221051,Minister of Transport,2008-10-26,2010-02-19,,,Q48778037-655EA120-1AE1-488E-85F0-6FA351BB07D7
-Q48778043,Generose Lushiku Muya,Q112221052,Minister of Urban Development,2008-10-26,2010-02-19,,,Q48778043-7D4A69C7-8A28-42ED-99BD-6996B2F9B8CF
-Q516526,André-Philippe Futa,Q112220992,Minister of Economy,2007-11-26,2010-02-19,,,Q516526-B80BEE7E-E28F-45AA-85D0-DA17747A5D9F
-Q57883,Matata Ponyo Mapon,Q97366094,Finances,2010-02,2012-04,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_III,2022-06-06,Q57883-E277B99E-6896-4182-8FBE-C12601E9664B
-Q63382184,Jeannine Mabunda Lioko,Q112221026,Portefeuille,2007-02-05,2012-04-28,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_III,2022-06-06,Q63382184-31315137-6698-42F6-9A97-C7F7EE1E7F3F
+Q112254321,Gervais Ntiriminerwa,Q112254053,"Vice-ministre, Travaux publics",2008-10-26,2010-02-19,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_I,2022-06-06,Q112254321-3DAC28FC-B30A-4FA0-B780-B7ADDE91FBED
+Q112254323,Gustave Beya,Q112225274,"Vice-ministre, Hydrocarbures",2008-10-26,2010-02-19,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_I,2022-06-06,Q112254323-48219417-D0E4-4569-8C99-70437CB21088
+Q112254330,Oscar Massamba,Q112223954,"Vice-ministre, Défense et Anciens Combattants",2008-10-26,2010-02-19,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_I,2022-06-06,Q112254330-935FC3A0-3B18-4994-A18D-0FC9C39AAC7E
+Q112254335,Willy Mubobo Nzamba,Q112254338,"Vice-ministre, Développement rural",2008-10-26,2010-02-19,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_I,2022-06-06,Q112254335-9C898820-1ECF-4CD5-801E-1B50C1D6C398
+Q112254404,Zéphyrin Mungongo,Q112223972,"Vice-ministre, Intérieur",2008-10-26,2010-02-19,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_I,2022-06-06,Q112254404-DEDCE9E3-358C-4D63-A2BE-58DD5AEE8CC2
+Q178793,Lambert Mende Omalanga,Q112220985,Communication et Médias,2008-10-26,2012-04-28,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_I,2022-06-06,Q178793-DC2DDC49-D59B-4B0C-AC7B-037BDF69485C
+Q20666287,Alain Lubamba wa Lubamba,Q112223987,"Vice-ministre, Budget",2008-10-26,2010-02-19,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_I,2022-06-06,Q20666287-0BBA71F8-9516-4D8E-B113-03F90E8D8846
+Q2824869,Adolphe Lumanu,Q112221041,Relations avec le Parlement,2007-11-26,2010-02-19,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_I,2022-06-06,Q2824869-DEE48470-E1FD-47C8-8DF0-B320F0A5368A
+Q2834659,Alexis Thambwe Mwamba,Q6866142,Affaires étrangères,2008-10,2012-04,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_I,2022-06-06,Q2834659-ef98b58c-44d8-a432-acc3-e265a8068061
+Q2853312,Antipas Mbusa,Q112220990,Décentralisation et Aménagement du territoire,2008-10-26,2011-09-11,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_I,2022-06-06,Q2853312-909F25D9-8AE8-4270-9036-3E20AC49DDB0
+Q2868988,Athanase Matenda Kyelu,Q97366094,Finances,2007-02,2010-02,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_I,2022-06-06,Q2868988-87849BA7-ACDA-4407-A13D-64B43161135D
+Q2885955,Barthélemy Botswali Lengomo,Q108730998,Affaires sociales,2008-10-26,2010-01-09,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_I,2022-06-06,Q2885955-9A449147-0E21-4981-9C1D-1C2FBC943D9B
+Q2959880,Charles Mwando Nsimba,Q17110451,Défense nationale et Anciens Combattants,2008-10-26,2012-04-28,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_I,2022-06-06,Q2959880-EEA1875B-9FD9-451B-861D-679974D3D163
+Q2982527,Colette Tshomba Ntundu,Q112252403,"Vice-ministre, Congolais de l’étranger",2008-10-26,2010-02-19,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_I,2022-06-06,Q2982527-8C87ADEA-7D19-415D-BBD8-158323B819B4
+Q3010091,Célestin Mbuyu Kabango,Q112221013,Intérieur et Sécurité,2008-10-26,2010-02-19,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_I,2022-06-06,Q3010091-77DC5DEB-6FA4-4259-BB7F-31466673B722
+Q3091442,Mobutu Nzanga,Q54099408,Besoins sociaux de base,2008-10-26,2010-02-19,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_I,2022-06-06,Q3091442-D42E56B3-07EC-4891-BD1A-BDD1E7B78DF5
+Q3148164,Ignace Gata Mavinga,Q112223974,"Vice-ministre, Affaires étrangères",2008-10-26,2010-02-19,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_I,2022-06-06,Q3148164-B70AB90A-A073-4942-A3F1-DDC4F39E6936
+Q3186269,José Endundo Bononge,Q112220998,Environnement et Tourisme,2008-10-26,2010-02-19,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_I,2022-06-06,Q3186269-860C4028-7E25-4BEB-AA92-6CFC205B1234
+Q3263804,Louise Munga Mesozi,Q112221031,"PTT (Postes, Téléphones et Télécommunications)",2007-11-26,2010-02-19,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_I,2022-06-06,Q3263804-315A72E8-86FA-4659-A279-E6C0B836D208
+Q3268148,Luzolo Bambi,Q112221015,Justice,2008-10-26,2010-02-19,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_I,2022-06-06,Q3268148-28A24E2F-63D8-49D4-9174-1FC890F5B269
+Q3271518,Léonard Mashako Mamba,Q112221003,"ESU (Enseignement supérieur, universitaire)",2008-10-26,2012-04-28,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_I,2022-06-06,Q3271518-3854B2F1-3684-4206-8ABB-77C1D77E1C1D
+Q3280404,Maj Kisimba Ngoy,Q112221018,Affaires foncières,2008-10-26,2012-04-28,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_I,2022-06-06,Q3280404-DFA5D453-DC60-4AFF-A509-AF3B306C1A09
+Q3280754,Maker Mwangu,Q112221034,"EPSP (Enseignement primaire, secondaire et professionnel)",2007-02-05,2014-12-09,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_I,2022-06-06,Q3280754-F5CF4339-6EFE-48BD-8B18-ADFA6B158D25
+Q3291479,Marie-Ange Lukiana Mufwankolo,Q112221055,Genre et Famille,2008-10-26,2012-04-28,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_I,2022-06-06,Q3291479-B0F6510D-9872-4F21-9588-1420AE0E8648
+Q3295482,Martin Kabwelulu,Q112221020,Mines,2007-02-05,2019-01-23,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_I,2022-06-06,Q3295482-C0C83F7D-4542-4C64-8092-791D480A8FEA
+Q3310203,Michel Lokola,Q112220973,Budget,2008-10-26,2010-02-19,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_I,2022-06-06,Q3310203-9A645D60-9A5D-4F4C-99C3-96EAC2903215
+Q3330981,Symphorien Mutombo Bakafwa Nsenda,Q54099408,Vice-Premiers ministres : Sécurité et Défense,2008-10-26,2010-02-19,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_I,2022-06-06,Q3330981-6E3136BA-43CD-4B40-A440-45EE7C866869
+Q3343479,Norbert Basengezi,Q54429353,Agriculture,2008-10-26,2012-04-28,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_I,2022-06-06,Q3343479-C5549F3E-867E-426F-A7D5-B7C86726FA2A
+Q3351121,Olivier Kamitatu,Q112221028,Plan,2007-02-05,2012-04-28,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_I,2022-06-06,Q3351121-148644DE-FB32-4184-81BE-5EDE206CE661
+Q3386032,Pierre Lumbi,Q112221011,Infrastructures et Travaux publics,2007-02-05,2010-02-19,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_I,2022-06-06,Q3386032-5326FB24-2384-4E53-93C5-C52399AA8046
+Q3421171,Raymond Tshibanda,Q112221014,Coopération internationale et régionale,2008-10-26,2012-04-28,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_I,2022-06-06,Q3421171-0E6E786D-C2CF-4568-AEED-9E8B1373D763
+Q3426386,René Isekemanga Nkeka,Q112221007,Hydrocarbures,2008-10-26,2010-02-19,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_I,2022-06-06,Q3426386-4EA9D139-9177-4F8A-857A-E12B96BB78B3
+Q3484373,Simon Mboso Kiamputu,Q112221009,Industrie,2008-10-26,2010-02-19,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_I,2022-06-06,Q3484373-124294D7-850F-4EA1-A0B3-3F19A83F32E2
+Q3557389,Kasongo Shomary,Q112223982,"Vice-ministre, Mines",2008-10-26,2010-02-19,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_I,2022-06-06,Q3557389-3340ED1B-194B-4E5B-A4BA-2DF2282BAAF5
+Q3588368,Émile Bongeli Yeikeo Ya Ato,Q54099408,Reconstruction,2008-10-26,2010-02-19,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_I,2022-06-06,Q3588368-F51D9F88-C973-411E-9EC8-FB43CA0C4D2A
+Q365790,Adolphe Muzito,Q3401753,Premier ministre,2008-10-10,2012-03-06,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_I,2022-06-06,Q365790-B5E3D1C3-112A-480E-8AD1-5231711528AB
+Q47524829,Michel Botoro,Q112220980,Fonction publique,2008-10-26,2010-02-19,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_I,2022-06-06,Q47524829-8887D5C4-0623-48AF-A6EE-5062EED82842
+Q47532730,Kpaki Adiri,Q47532850,Développement rural,2008-10-26,2010-02-19,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_I,2022-06-06,Q47532730-8ED7290E-3601-4149-86D3-76B51C4FC6EC
+Q48775325,Esdras Kambale,Q54100574,Culture et Arts,2007-11-26,2010-02-19,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_I,2022-06-06,Q48775325-69D14A81-6201-4A34-9657-E74EA69EC004
+Q48775328,Upio Kakura Wapol,Q112221005,Droits humains,2008-10-26,2010-02-19,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_I,2022-06-06,Q48775328-87BA07CD-920A-4B4D-8E5F-73D730F58874
+Q48775361,Ferdinand Kambere,Q112221017,"Emploi, Travail et Prévoyance sociale",2008-10-26,2010-02-19,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_I,2022-06-06,Q48775361-B469EB52-1F29-430B-BA63-DAB5EB5297CA
+Q48775364,Laurent Muzangisa,Q112220996,Énergie,2008-10-26,2010-02-19,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_I,2022-06-06,Q48775364-755A83F7-BCE0-4B96-9CBC-BCBC47920CF1
+Q48775368,Patrick Sulubika,Q112221057,Jeunesse et Sports,2008-10-26,2010-02-19,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_I,2022-06-06,Q48775368-BD531CC9-9E21-4E62-8833-BF53C4787099
+Q48775372,Claude Nyamugabo Bazibuhe,Q112221045,PME (Petites et Moyennes Entreprises),2008-10-26,2010-02-19,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_I,2022-06-06,Q48775372-41DDB62D-E879-4543-8B3F-500C4E6FBA0B
+Q48775428,Mititiho Apata,Q112221044,Recherche scientifique,2008-10-26,2010-02-19,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_I,2022-06-06,Q48775428-B25E4DFC-6D28-4255-9D83-62F189B29ED9
+Q48778035,Mopipi Mukulumanya,Q112039008,Santé publique,2008-10-26,2010-02-19,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_I,2022-06-06,Q48778035-35BE4DFF-B9C8-406E-8EDD-30D34652A8EE
+Q48778037,Matthieu Mpika,Q112221051,Transports et Voies de communication,2008-10-26,2010-02-19,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_I,2022-06-06,Q48778037-655EA120-1AE1-488E-85F0-6FA351BB07D7
+Q48778043,Generose Lushiku Muya,Q112221052,Urbanisme et Habitat,2008-10-26,2010-02-19,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_I,2022-06-06,Q48778043-7D4A69C7-8A28-42ED-99BD-6996B2F9B8CF
+Q516526,André-Philippe Futa,Q112220992,Économie et Commerce,2007-11-26,2010-02-19,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_I,2022-06-06,Q516526-B80BEE7E-E28F-45AA-85D0-DA17747A5D9F
+Q57883,Matata Ponyo Mapon,Q97366094,Minister of Finance,2010-02,2012-04,,,Q57883-E277B99E-6896-4182-8FBE-C12601E9664B
+Q6170454,Jean Collins Musonda Kalusambo,Q112223956,"Vice-ministre, Justice",2008-10-26,2010-02-19,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_I,2022-06-06,Q6170454-72B40407-2616-47D8-B3AF-249F985DD3E1
+Q63382184,Jeannine Mabunda Lioko,Q112221026,Portefeuille,2007-02-05,2012-04-28,https://fr.wikipedia.org/wiki/Gouvernement_Muzito_I,2022-06-06,Q63382184-31315137-6698-42F6-9A97-C7F7EE1E7F3F
