@@ -1,6 +1,6 @@
 item,itemLabel,position,positionLabel,startDate,endDate,source,sourceDate,psid
 Q101412106,Adèle Degbalase Kanda,Q108730998,Affaires sociales et action humanitaire,2015-09-25,2016-12-19,https://fr.wikipedia.org/wiki/Gouvernement_Matata_II,2022-06-06,Q101412106-1C911FB6-990F-4F7F-B921-96101D64324E
-Q104416504,Maguy Rwakabuba,Q112252879,Deputy Minister of Energy,2014-12-07,2016-11-14,,,Q104416504-5FB38221-A3DF-4ACD-986D-733112928A0C
+Q104416504,Maguy Rwakabuba,Q112252879,"Vice-ministre, Énergie",2014-12-07,2016-11-14,https://fr.wikipedia.org/wiki/Gouvernement_Matata_II,2022-06-06,Q104416504-5FB38221-A3DF-4ACD-986D-733112928A0C
 Q104889315,Wivine Mumba Matipa,Q112221015,Minister of Justice,2012-04-28,2014-12-09,,,Q104889315-F1E7F18F-590A-415D-B5A4-3161A97D8094
 Q105523479,Sama Lukonde Kyenge,Q112221057,"Jeunesse, Sports et Loisirs",2014-12-09,2015-09-25,https://fr.wikipedia.org/wiki/Gouvernement_Matata_II,2022-06-06,Q105523479-55D8FA93-8125-4AC0-A58A-CB7F8BCCBB95
 Q106904372,Robert Bopolo Bogeza,Q112220998,Environnement et Développement durable,2015-09-25,2016-12-19,https://fr.wikipedia.org/wiki/Gouvernement_Matata_II,2022-06-06,Q106904372-2147A8F7-5A5E-452D-B71D-F222BD0E2303
@@ -23,7 +23,6 @@ Q112221938,Chelo Lotsima,Q112221003,Minister of Higher Education,2012-04-28,2014
 Q112221942,Daniel Madimba Kalonji,Q112221044,Recherche scientifique et Technologie,2014-12-09,2016-12-19,https://fr.wikipedia.org/wiki/Gouvernement_Matata_II,2022-06-06,Q112221942-69745B59-1961-4D84-B6F5-38560CE6DE48
 Q112221945,Elvis Mutiri wa Bashara,Q54437053,Tourisme,2014-12-09,2016-12-19,https://fr.wikipedia.org/wiki/Gouvernement_Matata_II,2022-06-06,Q112221945-07E95837-EEF4-4271-9380-5A4A71777E27
 Q112222006,Omer Engwake,Q112221048,Minister of Spatial Planning,2014-12-09,2016-12-19,,,Q112222006-C3C84F8A-939A-4D95-B6AF-222CBC4CB969
-Q112222022,Richard Muyej Mangenz,Q112221013,Minister of Interior,2012-04-28,2014-12-09,,,Q112222022-05B941C5-2AF5-451B-8AAB-04B27215BC40
 Q129404,Alexandre Luba Ntambo,Q17110451,Minister of Defence,2012-04-28,2014-12-09,,,Q129404-710416FB-3253-41ED-ADF2-B5FED6FAF3C8
 Q130512,Daniel Mukoko Samba,Q112220973,Minister of Budget,2012-04-28,2014-12-09,,,Q130512-CCA6A5D5-BE6E-4629-A40E-BA36588D3257
 Q16545541,Célestin Vunabandi,Q112221028,Minister of Planning,2012-04-28,2014-12-09,,,Q16545541-267FFB2F-4DCA-495C-93BC-D7EDCDF4A0BF
@@ -48,7 +47,7 @@ Q19631184,Jean Nengbaga Tshibanga,Q112221050,Enseignement technique et professio
 Q19631188,Bienvenu Liyota Ndjoli,Q112220998,Environnement et Développement durable,2014-12-09,2015-09-25,https://fr.wikipedia.org/wiki/Gouvernement_Matata_II,2022-06-06,Q19631188-209D8EA4-7FDE-44FB-8A5E-89CEF6C61EAD
 Q19631190,Bijou Mushitu Kat,Q112220999,Minister of Family,2015-01-29,2015-09-25,,,Q19631190-20B6D036-7281-4C2A-8C5C-3E12014A7A5D
 Q19631190,Bijou Mushitu Kat,Q112220999,Minister of Family,2014-12-09,2015-01-29,,,Q19631190-BF86892A-1934-41CA-9765-9E9707EDD8B0
-Q19631192,Henri Yav Mulang,Q97366094,Finances,2014-12,2019-08,https://fr.wikipedia.org/wiki/Gouvernement_Matata_II,2022-06-06,Q19631192-EA1ABD0A-3818-4D08-B203-2403CABD7178
+Q19631192,Henri Yav Mulang,Q97366094,Finances,2014-12-07,2019-08,https://fr.wikipedia.org/wiki/Gouvernement_Matata_II,2022-06-06,Q19631192-EA1ABD0A-3818-4D08-B203-2403CABD7178
 Q19631195,Jean-Claude Kibala,Q112220980,Fonction publique,2012-04-28,2015-09-25,https://fr.wikipedia.org/wiki/Gouvernement_Matata_II,2022-06-06,Q19631195-E211A1C8-FAA2-446B-967E-5C1BBD1BF47E
 Q20995497,Lisette Bisangana Ngalamulume,Q112223992,"Vice-ministre, Plan",2014-12-07,2016-11-14,https://fr.wikipedia.org/wiki/Gouvernement_Matata_II,2022-06-06,Q20995497-755350AC-26DC-426E-B2BF-654307FAAF8F
 Q24054701,Ernestine Nyoka,Q112223987,"Vice-ministre, Budget",2014-12-07,2016-11-14,https://fr.wikipedia.org/wiki/Gouvernement_Matata_II,2022-06-06,Q24054701-8A5CF6F5-8FD1-479C-8C81-26891DDD719F
@@ -61,7 +60,7 @@ Q2883576,Banza Mukalay,Q54100574,Culture et Arts,2014-12-09,2016-05-14,https://f
 Q2966383,Mboso Nkodia Pwanga,Q112223956,"Vice-ministre, Justice et Droits humains",2014-12-07,2016-11-14,https://fr.wikipedia.org/wiki/Gouvernement_Matata_II,2022-06-06,Q2966383-76C9A487-9131-40B6-8D10-6B4E14768C96
 Q3002789,Crispin Atama Tabe,Q17110451,Minister of Defence,2015-09-25,2019-01-23,,,Q3002789-9403340D-663F-4588-99E4-E48132AEBFE1
 Q3002789,Crispin Atama Tabe,Q112221007,Minister of Hydrocarbons,2012-04-28,2015-09-25,,,Q3002789-DCD27514-ADE7-40E1-8380-72254DC816F4
-Q3060173,Eugène Serufuli,Q112221043,Développement rural,2014-12-09,2016-12-19,https://fr.wikipedia.org/wiki/Gouvernement_Matata_II,2022-06-06,Q3060173-A2C19D5E-8289-4568-B111-E348403AA58F
+Q3060173,Eugène Serufuli,Q47532850,Développement rural,2014-12-09,2016-12-19,https://fr.wikipedia.org/wiki/Gouvernement_Matata_II,2022-06-06,Q3060173-A2C19D5E-8289-4568-B111-E348403AA58F
 Q3087663,Fridolin Kasweshi,Q112221011,"Infrastructures, Travaux publics et de la Reconstruction (ITPR)",2014-12-09,2016-12-19,https://fr.wikipedia.org/wiki/Gouvernement_Matata_II,2022-06-06,Q3087663-37CFDBB5-6523-4D78-AAAB-AED6778F65CF
 Q3087663,Fridolin Kasweshi,Q112221048,Minister of Spatial Planning,2012-04-28,2014-12-09,,,Q3087663-8141A32D-D918-4439-92F0-85D2DEC26678
 Q3168626,Jean-Paul Nemoyato Begepole,Q112220992,Minister of Economy,2012-04-28,2014-12-09,,,Q3168626-8DFAC678-583D-40AC-97FB-5349B6D1A4BD
@@ -78,4 +77,5 @@ Q3592729,Évariste Boshab,Q112221013,Intérieur et Sécurité,2014-12-09,2016-12
 Q56779011,Gustave Boloko Nkeli,Q112221018,Affaires Foncières,2015-09-25,2016-12-19,https://fr.wikipedia.org/wiki/Gouvernement_Matata_II,2022-06-06,Q56779011-9F317B2E-B26E-4402-A992-9EB74DE6969D
 Q57883,Augustin Matata Ponyo,Q3401753,Premier ministre,2012-04-18,2016-11-17,https://fr.wikipedia.org/wiki/Gouvernement_Matata_II,2022-06-06,Q57883-74E2893D-8A57-410C-9C3E-C7A95742AFD1
 Q63349528,Geneviève Inagosi,Q112220999,Minister of Family,2012-04-28,2014-12-09,,,Q63349528-40992391-82F4-4E27-8C42-7E7891F26BEE
+Q7327967,Richard Muyej,Q112221013,Minister of Interior,2012-04-28,2014-12-09,,,Q7327967-D604DBCC-6EDB-47D1-AB46-B5A6718B1395
 Q96436683,Lucie Kipele Aki Azwa,Q112220999,"Genre, Famille et Enfants",2015-09-25,2016-12-19,https://fr.wikipedia.org/wiki/Gouvernement_Matata_II,2022-06-06,Q96436683-7FDA89CE-103D-487F-96D2-767D5DD99723
