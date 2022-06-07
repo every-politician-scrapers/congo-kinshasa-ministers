@@ -66,11 +66,14 @@ module.exports = function () {
       OPTIONAL {
         ?ps pq:P4100 ?party .
         OPTIONAL { ?party wdt:P1813 ?partyShortName FILTER (LANG(?partyShortName)="${meta.lang}")}
-        OPTIONAL { ?party rdfs:label ?partyName FILTER (LANG(?partyLabel)="${meta.lang}") }
+        OPTIONAL { ?party rdfs:label ?partyName FILTER (LANG(?partyName)="${meta.lang}") }
       }
       BIND(COALESCE(?partyShortName, ?partyName) AS ?partyLabel)
 
-      OPTIONAL { ?ps pq:P768 ?area  }
+      OPTIONAL {
+        ?ps pq:P768 ?area .
+        OPTIONAL { ?area rdfs:label ?areaLabel FILTER (LANG(?areaLabel)="${meta.lang}") }
+      }
 
       OPTIONAL {
         ?ps prov:wasDerivedFrom ?ref .
@@ -80,7 +83,6 @@ module.exports = function () {
       OPTIONAL { ?item rdfs:label ?labelName FILTER(LANG(?labelName) = "${meta.lang}") }
       BIND(COALESCE(?sourceName, ?labelName) AS ?itemLabel)
 
-      SERVICE wikibase:label { bd:serviceParam wikibase:language "${meta.lang}". }
     }
     # ${new Date().toISOString()}
     ORDER BY ?start ?end ?item ?psid`

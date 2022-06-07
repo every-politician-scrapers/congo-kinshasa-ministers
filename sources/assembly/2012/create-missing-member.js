@@ -3,12 +3,14 @@ let rawmeta = fs.readFileSync('meta.json');
 let meta = JSON.parse(rawmeta);
 
 module.exports = (label,gender,party) => {
+  qualifier = {
+    P2937: meta.term.id,
+  }
+  if(party)  qualifier['P4100'] = party
+
   mem = {
     value: meta.position,
-    qualifiers: {
-      P2937: meta.term.id,
-      P4100: party,
-    },
+    qualifiers: qualifier,
     references: {
       P854: meta.source,
       P813: new Date().toISOString().split('T')[0],
@@ -26,8 +28,8 @@ module.exports = (label,gender,party) => {
 
   return {
     type: 'item',
-    labels: { en: label, pt: label },
-    descriptions: { en: 'politician in DRC' },
+    labels: { en: label, fr: label },
+    descriptions: { en: 'politician in DRC', fr: 'personnalité politique congolais' },
     claims: claims,
   }
 }
