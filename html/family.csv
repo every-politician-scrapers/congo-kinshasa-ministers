@@ -18,11 +18,15 @@ Q135547,Laurent-Désiré Kabila,child,Q3163304,Jaynet Kabila
 Q135547,Laurent-Désiré Kabila,child,Q57416,Joseph Kabila
 Q135547,Laurent-Désiré Kabila,spouse,Q112258069,Sifa Mahanya
 Q18611995,Franck Mwe di Malila,father,Q18746076,Édouard Mwe di Malila Apenela
+Q19629165,Zoé Kabila,father,Q135547,Laurent-Désiré Kabila
+Q19629165,Zoé Kabila,sibling,Q57416,Joseph Kabila
 Q29032770,Félix Tshisekedi,father,Q168629,Étienne Tshisekedi
 Q29032770,Félix Tshisekedi,spouse,Q61855144,Denise Nyakeru Tshisekedi
 Q3091442,Nzanga Mobutu,father,Q164535,Mobutu Sese Seko
 Q3091442,Nzanga Mobutu,mother,Q27865687,Bobi Ladawa Mobutu
 Q3091442,Nzanga Mobutu,sibling,Q6429274,Kongulu Mobutu
+Q3163304,Jaynet Kabila,father,Q135547,Laurent-Désiré Kabila
+Q3163304,Jaynet Kabila,sibling,Q57416,Joseph Kabila
 Q316942,Antoine Gizenga,child,Q25387204,Lugi Gizenga
 Q3176296,Jeannot Bemba Saolona,child,Q379148,Jean-Pierre Bemba
 Q3196526,Kikaya Bin Karubi,child,Q374967,Gary Kikaya
