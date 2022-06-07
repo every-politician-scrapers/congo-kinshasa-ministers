@@ -1,0 +1,4 @@
+ordinal,item,itemLabel,start,end,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+1,Q112260929,1st Legislature of the Third Congolese Republic,2006-01-01,2012-01-01,2006-01-01,9,,,2012-01-01,9,,,,,Q18642415,2nd Legislature of the Third Congolese Republic,,,,
+2,Q18642415,2nd Legislature of the Third Congolese Republic,2012-02-16,2019-01-28,2012-02-16,11,,,2019-01-28,11,,,Q112260929,1st Legislature of the Third Congolese Republic,,,,,,
+3,Q111340003,3rd Legislature of the Third Congolese Republic,2019-01-28,,2019-01-28,11,,,,,,,Q18642415,2nd Legislature of the Third Congolese Republic,,,,,,
