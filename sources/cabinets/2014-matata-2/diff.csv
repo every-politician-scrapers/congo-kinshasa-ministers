@@ -1,4 +1,5 @@
 @@,item,itemlabel,position,positionlabel,startdate,enddate,psid
+->,Q18642583,Omer Egwake,Q112221048,"Minister of Spatial Planning->Aménagement du territoire, Urbanisme et Habitat",2014-12-09,2016-12-19,Q18642583-F22ABDB7-7E13-4301-BA93-488A4E02D8D0
 ->,Q18642480,Michel Bongongo,Q112220973,Minister of Budget->Décentralisation et Affaires coutumières,2014-12-09,2016-12-19,Q18642480-07222E6B-E1A2-4CA3-BCA7-E345F6CB6DF3
 ---,Q7327967,Richard Muyej,Q112221013,Minister of Interior,2012-04-28,2014-12-09,Q7327967-D604DBCC-6EDB-47D1-AB46-B5A6718B1395
 ---,Q63349528,Geneviève Inagosi,Q112220999,Minister of Family,2012-04-28,2014-12-09,Q63349528-40992391-82F4-4E27-8C42-7E7891F26BEE
@@ -19,7 +20,6 @@
 ---,Q16545541,Célestin Vunabandi,Q112221028,Minister of Planning,2012-04-28,2014-12-09,Q16545541-267FFB2F-4DCA-495C-93BC-D7EDCDF4A0BF
 ---,Q130512,Daniel Mukoko Samba,Q112220973,Minister of Budget,2012-04-28,2014-12-09,Q130512-CCA6A5D5-BE6E-4629-A40E-BA36588D3257
 ---,Q129404,Alexandre Luba Ntambo,Q17110451,Minister of Defence,2012-04-28,2014-12-09,Q129404-710416FB-3253-41ED-ADF2-B5FED6FAF3C8
----,Q112222006,Omer Engwake,Q112221048,Minister of Spatial Planning,2014-12-09,2016-12-19,Q112222006-C3C84F8A-939A-4D95-B6AF-222CBC4CB969
 ---,Q112221938,Chelo Lotsima,Q112221003,Minister of Higher Education,2012-04-28,2014-12-09,Q112221938-3102D34F-E440-459E-83B7-5B31B190C302
 ---,Q112221937,Charles Nawej Mundele,Q108730998,Minister of Social Affairs,2012-04-28,2014-12-09,Q112221937-114B3ED5-8AFB-4830-9889-7FBC3BF92A15
 ---,Q112221930,Bavon N'sa Mputu Elima,Q112220998,Minister of Environment,2012-04-28,2014-12-09,Q112221930-18585E70-D452-46AA-911A-3E5A2A4AE7BF
@@ -32,5 +32,4 @@
 +++,Q3002789,Crispin Atama Tabe,,Défense nationale et Anciens combattants,,,
 +++,Q19631190,Bijou Mushitu Kat,,"Genre, Famille et Enfants",,,
 +++,Q19631190,Bijou Mushitu Kat,,"Affaires sociales et action humanitaire :aussi ministre ad interim du Genre, de la Famille et des Enfants",,,
-+++,Q18642583,Omer Egwake,,"Aménagement du territoire, Urbanisme et Habitat",,,
 +++,Q178793,Lambert Mende Omalanga,,Communication et Médias,,,

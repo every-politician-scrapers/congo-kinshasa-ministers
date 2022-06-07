@@ -1,6 +1,7 @@
 item,itemLabel,position,positionLabel,startDate,endDate,source,sourceDate,psid
 Q104416504,Maguy Rwakabuba,Q112223961,"Vice-ministre, Santé",2016-12-19,2017-05-09,https://fr.wikipedia.org/wiki/Gouvernement_Badibanga,2022-06-06,Q104416504-41759C53-020C-4466-A87D-98374D4CD4A8
 Q104889315,Wivine Mumba Matipa,Q112221026,Portefeuille,2016-12-19,2019-01-23,https://fr.wikipedia.org/wiki/Gouvernement_Badibanga,2022-06-06,Q104889315-AA6962F7-6613-4182-B866-429B470B384A
+Q106904729,Agée Matembo,Q112225261,"Vice-ministre, Environnement",2016-12-19,2017-05-09,https://fr.wikipedia.org/wiki/Gouvernement_Badibanga,2022-06-06,Q106904729-4BBD497A-E402-478B-84DE-C0950178E49C
 Q106904741,Guy Mikulu Pombo,Q112221053,"Formation professionnelle, métiers et Artisanats",2016-12-19,2017-05-09,https://fr.wikipedia.org/wiki/Gouvernement_Badibanga,2022-06-06,Q106904741-0B741C09-1FA8-44FF-8057-EB28F73C35BA
 Q106904837,Samy Adubango,Q112223985,"Vice-ministre, Transports et Voies de communication",2016-12-19,2017-05-09,https://fr.wikipedia.org/wiki/Gouvernement_Badibanga,2022-06-06,Q106904837-7E6AA8B7-201C-4CDC-86DD-5012436F2295
 Q107187435,Arthur Sedea,Q112251767,"Vice-ministre, Travail et Prévoyance sociale",2016-12-19,2017-05-09,https://fr.wikipedia.org/wiki/Gouvernement_Badibanga,2022-06-06,Q107187435-C55E59CE-8530-460F-94B9-FCA2C96B6A63
@@ -21,20 +22,17 @@ Q112222009,Patrick Mayombe Mumbioko,Q54429353,Agriculture,2016-12-19,2017-05-09,
 Q112222013,Pierre Anatole Matusila,Q112220996,Énergie et ressources hydrauliques,2016-12-19,2017-05-09,https://fr.wikipedia.org/wiki/Gouvernement_Badibanga,2022-06-06,Q112222013-FB5C0FF7-AF64-4791-A401-329338FAF232
 Q112222028,Sylvain Maurice Masheke,Q54100574,Cultures et Arts,2016-12-19,2017-05-09,https://fr.wikipedia.org/wiki/Gouvernement_Badibanga,2022-06-06,Q112222028-2DD39B60-F0FC-487F-AE8A-996F3A0E31A2
 Q112222033,Venant Tshipasa Vangi,Q112220989,Affaires coutumières,2016-12-19,2017-05-09,https://fr.wikipedia.org/wiki/Gouvernement_Badibanga,2022-06-06,Q112222033-B30B7C42-2742-4E0B-AB0A-C72A80D4074E
-Q112251755,Agée Matembo,Q112225261,"Vice-ministre, Environnement",2016-12-19,2017-05-09,https://fr.wikipedia.org/wiki/Gouvernement_Badibanga,2022-06-06,Q112251755-E0EF7B7C-1D59-4509-AE7E-F5481333BD14
 Q112251777,Basile Olongo,Q112223972,"Vice-ministre, Intérieur",2016-12-19,2017-05-09,https://fr.wikipedia.org/wiki/Gouvernement_Badibanga,2022-06-06,Q112251777-B6996C3E-E253-4B95-B16A-6293F4B69ECC
+Q112251915,Papy Matenzolo,Q112251917,"Vice-ministre, Infrastructures",2016-12-19,2017-05-09,https://fr.wikipedia.org/wiki/Gouvernement_Badibanga,2022-06-06,Q112251915-285A7A99-9636-43D8-A2F0-BE02618AE7DC
 Q112252492,Zachée Rugabisha,Q112251925,"Vice-ministre, Urbanisme",2016-12-19,2017-05-09,https://fr.wikipedia.org/wiki/Gouvernement_Badibanga,2022-06-06,Q112252492-4720FDE1-5646-4086-93B8-989D0D4088ED
 Q112252505,Omer Egbake Yangembe,Q112252506,"Vice-ministre, Portefeuille",2016-12-19,2017-05-09,https://fr.wikipedia.org/wiki/Gouvernement_Badibanga,2022-06-06,Q112252505-4B2B0D2E-2801-4381-8972-4A57D88EEAA8
 Q112252513,Isidore Omari Kampene,Q112251841,"Vice-ministre, Télécommunications et NTIC",2016-12-19,2017-05-09,https://fr.wikipedia.org/wiki/Gouvernement_Badibanga,2022-06-06,Q112252513-9D0F6F7E-F82B-4A4D-9A94-D75113CBF764
 Q112252518,Tharcisse Loseke Nembalemba,Q112223978,"Vice-ministre, Finances",2016-12-19,2017-05-09,https://fr.wikipedia.org/wiki/Gouvernement_Badibanga,2022-06-06,Q112252518-441BBF36-6E4D-453F-A3D0-FAC331A97842
 Q112252531,Corneille Maswaswa,Q112223954,"Vice-ministre, Défense nationale",2016-12-19,2017-05-09,https://fr.wikipedia.org/wiki/Gouvernement_Badibanga,2022-06-06,Q112252531-99B014A3-85A7-4A78-8289-044D6775326E
 Q112252546,Montana Mpuku Autaine,Q112252547,"Vice-ministre, Décentralisation et Réforme institutionnelle",2016-12-19,2017-05-09,https://fr.wikipedia.org/wiki/Gouvernement_Badibanga,2022-06-06,Q112252546-41C2C232-DC5A-46E8-9328-3D590DB41FF9
-Q112252551,Willy Mishiki,Q112251767,"Vice-ministre, Énergie et ressources hydrauliques",2016-12-19,2017-05-09,https://fr.wikipedia.org/wiki/Gouvernement_Badibanga,2022-06-06,Q112252551-990EE25B-7DDC-45E0-81CD-1D03B5881691
 Q112252556,John Kwete,Q112225267,"Vice-ministre, Coopération au développement",2016-12-19,2017-05-09,https://fr.wikipedia.org/wiki/Gouvernement_Badibanga,2022-06-06,Q112252556-0F9B6FDC-0259-4E91-A6F2-FF8D57D994C0
 Q112252557,Yves Kisombe,Q112223974,"Vice-ministre, Affaires étrangères",2016-12-19,2017-05-09,https://fr.wikipedia.org/wiki/Gouvernement_Badibanga,2022-06-06,Q112252557-1308E0AC-03CE-4FDE-89A5-11E1C09D4ABC
 Q112252559,Bishumu Akupendayi,Q112225259,"Vice-ministre, Économie",2016-12-19,2017-05-09,https://fr.wikipedia.org/wiki/Gouvernement_Badibanga,2022-06-06,Q112252559-6D93859C-4C8F-4BD6-8836-418C926BC99F
-Q112252560,Papy Matenzolo,Q112251917,"Vice-ministre, Infrastructures",2016-12-19,2017-05-09,https://fr.wikipedia.org/wiki/Gouvernement_Badibanga,2022-06-06,Q112252560-9576DA58-D503-4095-BFFE-B9D2342D2198
-Q112252648,Willy Ngoposs Sunzel,Q112223987,"Vice-ministre, Budget",2016-12-19,2017-05-09,https://fr.wikipedia.org/wiki/Gouvernement_Badibanga,2022-06-06,Q112252648-9F6CCC5E-FF95-4DC9-B2BD-96D49FAD1EB3
 Q16269662,Emmanuel Ramazani Shadary,Q112221013,Intérieur,2016-12-19,2018-02-21,https://fr.wikipedia.org/wiki/Gouvernement_Badibanga,2022-06-06,Q16269662-A2D2CC79-44EA-4841-9087-9F67FE6AD67D
 Q17639110,Samy Badibanga,Q3401753,Premier ministre,2016-11-17,2017-05-18,https://fr.wikipedia.org/wiki/Gouvernement_Badibanga,2022-06-06,Q17639110-0277E615-73F3-4BA1-AA84-F449ED1DC370
 Q178793,Lambert Mende,Q112220985,Communication et Médias,2014-12-09,2019-01-23,https://fr.wikipedia.org/wiki/Gouvernement_Badibanga,2022-06-06,Q178793-5CFE3461-94FD-4DF8-BC32-F5161984AD40
@@ -45,6 +43,7 @@ Q18649355,Thomas Luhaka,Q112221011,"Infrastructures, Travaux publics et reconstr
 Q18681696,Aimé Ngoy Mukena,Q112221007,Hydrocarbures,2015-09-25,2019-01-23,https://fr.wikipedia.org/wiki/Gouvernement_Badibanga,2022-06-06,Q18681696-12E44C95-F55C-4C52-8B8F-E5743DF25E94
 Q19543886,Modeste Bahati Lukwebo,Q112220992,Économie nationale,2014-12-09,2017-05-09,https://fr.wikipedia.org/wiki/Gouvernement_Badibanga,2022-06-06,Q19543886-33DA0E05-1F84-4D59-85BA-85365DFC249E
 Q19544597,Félix Kabange,Q112221018,Affaires foncières,2016-12-19,2017-05-09,https://fr.wikipedia.org/wiki/Gouvernement_Badibanga,2022-06-06,Q19544597-DEAE1817-D4F4-41FA-BDEB-460208C0AA0F
+Q19545075,Willy Mishiki,Q112251767,"Vice-ministre, Énergie et ressources hydrauliques",2016-12-19,2017-05-09,https://fr.wikipedia.org/wiki/Gouvernement_Badibanga,2022-06-06,Q19545075-1F2E3F38-EFF3-4A89-A613-F25D232C2E8A
 Q19631192,Henri Yav Mulang,Q97366094,Finances,2014-12-07,2019-08,https://fr.wikipedia.org/wiki/Gouvernement_Badibanga,2022-06-06,Q19631192-EA1ABD0A-3818-4D08-B203-2403CABD7178
 Q20740642,Justin Bitakwira,Q112221041,Relation avec le Parlement,2016-12-19,2017-05-09,https://fr.wikipedia.org/wiki/Gouvernement_Badibanga,2022-06-06,Q20740642-9B0BA2B6-25FE-445F-B786-A49E491BD881
 Q20982168,Edouard Kiove Kola,Q112223956,"Vice-ministre, Justice",2016-12-19,2017-05-09,https://fr.wikipedia.org/wiki/Gouvernement_Badibanga,2022-06-06,Q20982168-67C58A37-C1F5-4196-9593-422A850C2038
@@ -67,3 +66,4 @@ Q85853156,Emmanuel Ilunga Ngoy Kasongo,Q112252403,"Vice-ministre, Congolais de l
 Q96988286,Nathalie Bul'an'sung Sanata,Q112252284,"Vice-ministre, Commerce extérieur",2016-12-19,2017-05-09,https://fr.wikipedia.org/wiki/Gouvernement_Badibanga,2022-06-06,Q96988286-06F789BE-814B-4BCD-BA78-1BBA65FAF6B7
 Q97446584,Steve Mbikayi Mabuluki,Q112221003,Enseignement Supérieur Universitaire,2016-12-19,2019-01-23,https://fr.wikipedia.org/wiki/Gouvernement_Badibanga,2022-06-06,Q97446584-BF4C5F6E-F022-446E-BE7B-B63C5616BDFF
 Q97464651,Willy Bakonga Wilima,Q112221049,Sports,2016-12-19,2017-05-09,https://fr.wikipedia.org/wiki/Gouvernement_Badibanga,2022-06-06,Q97464651-1EAF918E-D70C-4F03-A152-DDC2A1A14A18
+Q97478738,Willy Ngoposs Sunzel,Q112223987,"Vice-ministre, Budget",2016-12-19,2017-05-09,https://fr.wikipedia.org/wiki/Gouvernement_Badibanga,2022-06-06,Q97478738-AFDF64C7-3694-4AF0-BBD8-22212F1BA296
