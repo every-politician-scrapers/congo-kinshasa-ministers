@@ -5,7 +5,7 @@ require 'every_politician_scraper/comparison'
 
 class Comparison < EveryPoliticianScraper::NulllessComparison
   def columns
-    super + %i[item psid]
+    super - %i[arealabel] + %i[item psid]
   end
 end
 
