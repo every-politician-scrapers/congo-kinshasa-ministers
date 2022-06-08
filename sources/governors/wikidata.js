@@ -17,7 +17,7 @@ module.exports = function () {
 
       OPTIONAL {
         ?held prov:wasDerivedFrom ?ref .
-        ?ref pr:P4656 ?source FILTER CONTAINS(STR(?source), '${meta.source.url}') .
+        ?ref pr:P4656 ?source FILTER (STR(?source) = '${meta.source}') .
         OPTIONAL { ?ref pr:P1810 ?sourceName }
         OPTIONAL { ?ref pr:P1932 ?statedName }
         OPTIONAL { ?ref pr:P813  ?sourceDate }

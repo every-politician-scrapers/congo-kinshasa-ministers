@@ -7,7 +7,7 @@ require 'pry'
 
 class Comparison < EveryPoliticianScraper::NulllessComparison
   def columns
-    super + %i[person]
+    super + %i[psid] - %i[province provincelabel]
   end
 end
 

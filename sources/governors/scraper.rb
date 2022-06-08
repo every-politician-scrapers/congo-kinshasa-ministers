@@ -33,6 +33,9 @@ class MemberList
     end
 
     field :position do
+    end
+
+    field :positionLabel do
       "Governor of #{provinceLabel}"
     end
 
