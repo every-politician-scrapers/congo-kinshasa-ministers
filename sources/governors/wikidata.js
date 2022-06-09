@@ -6,7 +6,7 @@ module.exports = function () {
   return `SELECT DISTINCT ?province ?provinceLabel ?position ?positionLabel ?item ?name
          ?source ?sourceDate (STRAFTER(STR(?held), '/statement/') AS ?psid)
   WHERE {
-    ?position wdt:P279 wd:Q132050 ; wdt:P17 wd:Q974 ; wdt:P1001 ?province .
+    ?position wdt:P279 wd:Q82366032 ; wdt:P1001 ?province .
     MINUS { ?province wdt:P576 [] }
     OPTIONAL {
       ?item wdt:P31 wd:Q5 ; p:P39 ?held .
