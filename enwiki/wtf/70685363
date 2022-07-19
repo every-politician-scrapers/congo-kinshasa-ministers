@@ -1,0 +1,75 @@
+{
+  "title": "Daniel Aselo Okito",
+  "pageID": 70685363,
+  "categories": [
+    "Living people",
+    "Democratic Republic of the Congo politicians",
+    "Government ministers of the Democratic Republic of the Congo",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Daniel Asselo Okito Wankoy is a politician from the Democratic Republic of the Congo.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Democratic Republic of the Congo"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Daniel Asselo Okito Wankoy"
+                ]
+              }
+            },
+            {
+              "text": "He is Minister of the Interior, Security, Decentralization and Traditional Affairs in the Lukonde cabinet.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Lukonde cabinet"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Politician of the Democratic Republic of the Congo",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "date": "2021-04-12",
+          "title": "RDC : publication du gouvernement Sama Lukonde",
+          "url": "https://www.radiookapi.net/2021/04/12/actualite/politique/rdc-publication-du-gouvernement-sama-lukonde",
+          "access-date": "2022-05-02",
+          "website": "Radio Okapi",
+          "language": "fr",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "drcongo-politician-stub"
+        }
+      ]
+    }
+  ]
+}

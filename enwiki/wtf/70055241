@@ -1,0 +1,216 @@
+{
+  "title": "Adèle Kahinda",
+  "pageID": 70055241,
+  "categories": [
+    "Year of birth missing (living people)",
+    "Living people",
+    "Women government ministers of the Democratic Republic of the Congo",
+    "21st-century Democratic Republic of the Congo women politicians",
+    "21st-century Democratic Republic of the Congo politicians",
+    "Members of the National Assembly (Democratic Republic of the Congo)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Adèle Kahinda Mayina is a DR Congo politician.",
+              "links": [
+                {
+                  "text": "DR Congo",
+                  "type": "internal",
+                  "page": "Democratic Republic of the Congo"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Adèle Kahinda Mayina"
+                ]
+              }
+            },
+            {
+              "text": "She is a member of Modeste Bahati Lukwebo's Alliance des Forces Démocratiques du Congo (AFDC), and a longstanding deputy in the National Assembly.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Modeste Bahati Lukwebo"
+                },
+                {
+                  "type": "internal",
+                  "page": "Alliance des Forces Démocratiques du Congo"
+                },
+                {
+                  "text": "National Assembly",
+                  "type": "internal",
+                  "page": "National Assembly (Democratic Republic of the Congo)"
+                }
+              ]
+            },
+            {
+              "text": "In 2021 she was appointed Minister of Portfolio in the Lukonde government.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Lukonde government"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Adèle Kahinda Mayina"
+          },
+          "office": {
+            "text": "Minister of Portfolio"
+          },
+          "term_start": {
+            "text": "April 2021"
+          },
+          "office2": {
+            "text": "Member of the National Assembly",
+            "links": [
+              {
+                "text": "National Assembly",
+                "type": "internal",
+                "page": "National Assembly (Democratic Republic of the Congo)"
+              }
+            ]
+          },
+          "constituency2": {
+            "text": "Sandoa",
+            "links": [
+              {
+                "text": "Sandoa",
+                "type": "internal",
+                "page": "Sandoa Territory"
+              }
+            ]
+          },
+          "party": {
+            "text": "Alliance des Forces Démocratiques du Congo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alliance des Forces Démocratiques du Congo"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "politician"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "The International Directory of Government 2021",
+          "year": "2021",
+          "publisher": "Europa Publications",
+          "pages": "475–476",
+          "isbn": "9781000521375",
+          "url": "https://books.google.com/books?id=v9o6EAAAQBAJ&pg=PT476",
+          "template": "citation",
+          "type": "book"
+        }
+      ]
+    },
+    {
+      "title": "Life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Princess Adèle Kahinda Mahina comes from the royal family of the Tshokwe people, from near Mwathisenge in Sandoa Territory, Lualaba Province.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tshokwe people"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sandoa Territory"
+                },
+                {
+                  "type": "internal",
+                  "page": "Lualaba Province"
+                }
+              ]
+            },
+            {
+              "text": "She was elected to the National Assembly as a deputy representing Sandoa, and has served in the National Assembly for over a decade.",
+              "links": [
+                {
+                  "text": "National Assembly",
+                  "type": "internal",
+                  "page": "National Assembly (Democratic Republic of the Congo)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She has been president of the caucus of women parliamentarians, and president of the gender and parity parliamentary network."
+            },
+            {
+              "text": "She was also been president of the AFDC-A parliamentary group."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "After several months of negotiating the composition of the Sacred Union of the Nation in early 2021, on 12 April 2021 Adèle Kahinda was announced as Minister of Portfolio within the Lukonde cabinet.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sacred Union of the Nation"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "author": "Cathy Ibandula",
+          "title": "Ministère du Portefeuille: Qui est Adèle Kahinda?",
+          "language": "FR",
+          "website": "digitalcongo.net",
+          "date": "16 April 2021",
+          "url": "https://www.digitalcongo.net/article/6079b316d33cbd001550af6b/",
+          "access-date": "12 February 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "author1": "Romain Gras",
+          "author2": "Stanis Bujakera Tshiamala",
+          "title": "DRC: President Tshisekedi finally forms a government",
+          "website": "The Africa Report",
+          "date": "14 April 2021",
+          "url": "https://www.theafricareport.com/79935/drc-president-tshisekedi-finally-forms-a-government/",
+          "access-date": "11 February 2022",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,788 @@
+{
+  "title": "Nicolas Kazadi",
+  "pageID": 60234683,
+  "categories": [
+    "1966 births",
+    "Living people",
+    "Luba people",
+    "People from Kinshasa",
+    "Marien Ngouabi University alumni",
+    "École nationale d'administration alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Nicolas Kazadi (born January 7, 1966) is a Congolese politician and career diplomat who has been Ambassador-at-large for the Democratic Republic of the Congo since 7 March 2019 and Minister of Finance since 12 April 2021.",
+              "links": [
+                {
+                  "text": "Congolese",
+                  "type": "internal",
+                  "page": "Democratic Republic of the Congo"
+                },
+                {
+                  "text": "diplomat",
+                  "type": "internal",
+                  "page": "diplomat"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ambassador-at-large"
+                },
+                {
+                  "type": "internal",
+                  "page": "Democratic Republic of the Congo"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Nicolas Kazadi"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He is a member of the presidential party Union for Democracy and Social Progress (UDPS), the oldest and largest opposition party since President Mobutu cancelled the multi-party system upon his rise to power in 1965.",
+              "links": [
+                {
+                  "text": "Union for Democracy and Social Progress",
+                  "type": "internal",
+                  "page": "Union for Democracy and Social Progress (Democratic Republic of the Congo)"
+                },
+                {
+                  "text": "President Mobutu",
+                  "type": "internal",
+                  "page": "Mobutu Sese Seko"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Congolese politician",
+          "template": "short description"
+        },
+        {
+          "year": "1966",
+          "month": "1",
+          "day": "7",
+          "mf": "yes",
+          "template": "birth date and age"
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2019",
+            "month": "03",
+            "date": "07",
+            "template": "start date",
+            "text": "March 7, 2019"
+          }
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific_prefix": {
+            "text": "His Excellency",
+            "links": [
+              {
+                "type": "internal",
+                "page": "His Excellency"
+              }
+            ]
+          },
+          "name": {
+            "text": "Nicolas Kazadi"
+          },
+          "image": {
+            "text": "File:Nicolas Kazadi at home.jpg"
+          },
+          "caption": {
+            "text": "Nicolas Kazadi in 2018."
+          },
+          "office": {
+            "text": "Minister of Finance of the Democratic Republic of the Congo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister of Finance"
+              },
+              {
+                "type": "internal",
+                "page": "Democratic Republic of the Congo"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "28 April 2021"
+          },
+          "office2": {
+            "text": "Ambassador-at-large of the Democratic Republic of the Congo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ambassador-at-large"
+              },
+              {
+                "type": "internal",
+                "page": "Democratic Republic of the Congo"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "7 March 2019"
+          },
+          "president": {
+            "text": "Félix Tshisekedi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Félix Tshisekedi"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Jean-Michel Sama Lukonde",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jean-Michel Sama Lukonde"
+              }
+            ]
+          },
+          "majority": {
+            "text": "Union Sacrée de la Nation (USN)"
+          },
+          "majority2": {
+            "text": "Cap pour le changement (CACH)"
+          },
+          "birth_name": {
+            "text": "Nicolas Serge Kazadi Kadima-Nzuji"
+          },
+          "birth_date": {
+            "text": "January 7, 1966"
+          },
+          "birth_place": {
+            "text": "Léopoldville, Congo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Léopoldville"
+              },
+              {
+                "text": "Congo",
+                "type": "internal",
+                "page": "Democratic Republic of the Congo"
+              }
+            ]
+          },
+          "citizenship": {
+            "text": "Democratic Republic of the Congo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Democratic Republic of the Congo"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Congolese"
+          },
+          "party": {
+            "text": "Union for Democracy and Social Progress",
+            "links": [
+              {
+                "text": "Union for Democracy and Social Progress",
+                "type": "internal",
+                "page": "Union for Democracy and Social Progress (Democratic Republic of the Congo)"
+              }
+            ]
+          },
+          "children": {
+            "text": "5",
+            "number": 5
+          },
+          "father": {
+            "text": "Jacques Kazadi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jacques Kazadi"
+              }
+            ]
+          },
+          "education": {
+            "text": "École Nationale d'Administration, Pantheon-Sorbonne University, Marien Ngouabi University, University of Reims Champagne-Ardenne",
+            "links": [
+              {
+                "text": "École Nationale d'Administration",
+                "type": "internal",
+                "page": "École Nationale d'Administration"
+              },
+              {
+                "type": "internal",
+                "page": "Pantheon-Sorbonne University"
+              },
+              {
+                "type": "internal",
+                "page": "Marien Ngouabi University"
+              },
+              {
+                "type": "internal",
+                "page": "University of Reims Champagne-Ardenne"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "École Nationale d'Administration",
+            "links": [
+              {
+                "text": "École Nationale d'Administration",
+                "type": "internal",
+                "page": "École Nationale d'Administration"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Diplomat, politician"
+          },
+          "profession": {
+            "text": "Economist"
+          },
+          "known_for": {
+            "text": "Ambassador-at-large of the Democratic Republic of Congo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ambassador-at-large"
+              },
+              {
+                "type": "internal",
+                "page": "Democratic Republic of Congo"
+              }
+            ]
+          },
+          "cabinet": {
+            "text": "Tshisekedi I"
+          }
+        },
+        {
+          "name": {
+            "text": "Cabinet of the President of the Democratic Republic of the Congo"
+          },
+          "formed": {
+            "text": "March 7, 2019"
+          },
+          "headquarters": {
+            "text": "Palais de la Nation",
+            "links": [
+              {
+                "text": "Palais de la Nation",
+                "type": "internal",
+                "page": "Palais de la Nation (Kinshasa)"
+              }
+            ]
+          },
+          "motto": {
+            "text": "Justice, Paix, Travail (Justice, Peace, Labor)"
+          },
+          "chief1_name": {
+            "text": "Vital Kamerhe",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vital Kamerhe"
+              }
+            ]
+          },
+          "chief1_position": {
+            "text": "Chief of Staff"
+          },
+          "website": {
+            "text": "https://presidence.cd"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://afrique.lalibre.be/33325/rdc-liste-des-membres-du-cabinet-du-president-de-la-republique/",
+          "title": "RDC : Liste des membres du cabinet du président de la république",
+          "date": "2019-03-08",
+          "website": "La Libre Afrique",
+          "language": "fr-FR",
+          "access-date": "2019-03-15",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2021-04-12",
+          "title": "Two Years After Vote, Congo’s President Gets His Own Government",
+          "language": "en",
+          "work": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2021-04-12/new-government-shifts-congo-s-power-balance-to-tshisekedi",
+          "access-date": "2021-04-14",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Kazadi started his university studies at the University of Kinshasa, but transferred to Marien Ngouabi University in neighboring Brazzaville a year later, which is where he graduated with a Bachelor's degree in development planning.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Kinshasa"
+                },
+                {
+                  "type": "internal",
+                  "page": "Marien Ngouabi University"
+                },
+                {
+                  "type": "internal",
+                  "page": "Brazzaville"
+                }
+              ]
+            },
+            {
+              "text": "He continued his studies in France, where he attended the University of Reims Champagne-Ardenne, obtaining his first Master's degree in Macroeconomics.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Reims Champagne-Ardenne"
+                }
+              ]
+            },
+            {
+              "text": "Kazadi went on to further his studies at the University of Paris I, Pantheon-Sorbonne, and obtained a Master's in Economic Regulation and Development Policies.",
+              "links": [
+                {
+                  "text": "University of Paris I, Pantheon-Sorbonne",
+                  "type": "internal",
+                  "page": "Pantheon-Sorbonne University"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 1998, after having kickstarted his professional career at the Central Bank of Congo and the Ministry of Finance for the seven preceding years, Nicolas Kazadi returned to France to attend the prestigious École Nationale d'Administration.",
+              "links": [
+                {
+                  "text": "Central Bank of Congo",
+                  "type": "internal",
+                  "page": "Central Bank of the Congo"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ministry of Finance"
+                },
+                {
+                  "text": "École Nationale d'Administration",
+                  "type": "internal",
+                  "page": "École nationale d'administration"
+                }
+              ]
+            },
+            {
+              "text": "As part of the Averroès promotion (1998–2000), he graduated alongside multiple prominent French political figures such as Alexis Kohler, current secretary general of the French presidency l'Élysée, as well as Fleur Pellerin, former French Minister of Culture and Communication, or again Audrey Azoulay, former French Minister of Culture and current Director-General of the United Nations Educational, Scientific and Cultural Organization (UNESCO).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Alexis Kohler"
+                },
+                {
+                  "text": "l'Élysée",
+                  "type": "internal",
+                  "page": "Élysée Palace"
+                },
+                {
+                  "type": "internal",
+                  "page": "Fleur Pellerin"
+                },
+                {
+                  "type": "internal",
+                  "page": "Audrey Azoulay"
+                },
+                {
+                  "text": "United Nations Educational, Scientific and Cultural Organization (UNESCO)",
+                  "type": "internal",
+                  "page": "United Nations Educational, Scientific and Cultural Organization"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://ideas4development.org/en/auteur/nicolas-kazadi-2/",
+          "title": "Nicolas Kazadi, Senior Economist, Chief, Strategic & Policy Unit at UNDP",
+          "website": "ID4D",
+          "access-date": "2019-03-15",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.jeuneafrique.com/mag/746755/politique/rdc-nicolas-kazadi-lenarque-de-felix-tshisekedi/",
+          "title": "RDC : Nicolas Kazadi, l’énarque de Félix Tshisekedi",
+          "date": "2019-03-13",
+          "website": "JeuneAfrique.com",
+          "language": "fr-FR",
+          "access-date": "2019-03-15",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Return to Zaïre and first career in Congolese government",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In 1991, Nicolas Kazadi returned to the then Zaïre, starting a career at the Central Bank of Zaïre until transferring to the Ministry of Finance in 1995, as the economic and financial advisor to the minister.",
+              "links": [
+                {
+                  "text": "Zaïre",
+                  "type": "internal",
+                  "page": "Zaire"
+                },
+                {
+                  "text": "Central Bank of Zaïre",
+                  "type": "internal",
+                  "page": "Central Bank of the Congo"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ministry of Finance"
+                }
+              ]
+            },
+            {
+              "text": "It is at the Ministry of Finance that Kazadi is introduced to his colleague Vital Kamerhe, with whom he would work again years later as part of the Presidency of the Democratic Republic of the Congo under President Tshisekedi.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Vital Kamerhe"
+                },
+                {
+                  "text": "President Tshisekedi",
+                  "type": "internal",
+                  "page": "Félix Tshisekedi"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 1997, Kazadi returned to the new Central Bank of Congo (renamed upon Mobutu's ousting from power) until 1998, the year he returned to France to study at the École Nationale d'Administration.",
+              "links": [
+                {
+                  "text": "Central Bank of Congo",
+                  "type": "internal",
+                  "page": "Central Bank of the Congo"
+                },
+                {
+                  "text": "Mobutu's ousting from power",
+                  "type": "internal",
+                  "page": "First Congo War"
+                },
+                {
+                  "text": "École Nationale d'Administration",
+                  "type": "internal",
+                  "page": "École nationale d'administration"
+                }
+              ]
+            },
+            {
+              "text": "During his second stint at the Central Bank, he was a member of the team in charge of developing and releasing the Zairean zaïre's replacement, the Congolese franc.",
+              "links": [
+                {
+                  "text": "Central Bank",
+                  "type": "internal",
+                  "page": "Central Bank of the Congo"
+                },
+                {
+                  "text": "Zairean zaïre's",
+                  "type": "internal",
+                  "page": "Zairean zaire"
+                },
+                {
+                  "type": "internal",
+                  "page": "Congolese franc"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2001, he returned to Congo and served as Managing Director of the French Chamber of Commerce and Industry in Kinshasa.",
+              "links": [
+                {
+                  "text": "Congo",
+                  "type": "internal",
+                  "page": "Democratic Republic of the Congo"
+                },
+                {
+                  "text": "French Chamber of Commerce and Industry",
+                  "type": "internal",
+                  "page": "Paris Île-de-France Regional Chamber of Commerce and Industry"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kinshasa"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.unrec.org/default/index.php/en/unrec-updates/380-unrec-marks-the-international-day-of-peace",
+          "title": "International Day of Peace: UNREC Raises Awareness on Peace, Disarmament and Development",
+          "website": "United Nations Regional Center for Peace and Disarmament",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://actualite.cd/2019/03/08/rdc-tshisekedi-nomme-lessentiel-des-membres-de-son-cabinet-liste",
+          "title": "RDC : Tshisekedi nomme l'essentiel des membres de son cabinet (Liste)",
+          "date": "2019-03-08",
+          "website": "Actualite.cd",
+          "language": "fr",
+          "access-date": "2019-03-15",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.internationalmedalist.org/?page=about",
+          "title": "International Medalist Association",
+          "website": "www.internationalmedalist.org",
+          "access-date": "2019-03-15",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Diplomatic career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In January 2002, Kazadi left Congo once again and joined the African Development Bank's headquarters in Abidjan, where he served as advisor and acting alternate executive director, representing the Democratic Republic of the Congo, Cameroon, Congo, Burundi and the Central African Republic.",
+              "links": [
+                {
+                  "text": "Congo",
+                  "type": "internal",
+                  "page": "Democratic Republic of the Congo"
+                },
+                {
+                  "text": "African Development Bank's",
+                  "type": "internal",
+                  "page": "African Development Bank"
+                },
+                {
+                  "type": "internal",
+                  "page": "Abidjan"
+                },
+                {
+                  "type": "internal",
+                  "page": "Democratic Republic of the Congo"
+                },
+                {
+                  "type": "internal",
+                  "page": "Cameroon"
+                },
+                {
+                  "text": "Congo",
+                  "type": "internal",
+                  "page": "Republic of the Congo"
+                },
+                {
+                  "type": "internal",
+                  "page": "Burundi"
+                },
+                {
+                  "type": "internal",
+                  "page": "Central African Republic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "A year and a half later, although remaining in an intergovernmental organization, Nicolas Kazadi joined the United Nations Development Programme and served as a senior economist and chief of the strategic and policy units in Madagascar, Guinea, Ivory Coast and Togo over a period of 15 years.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "United Nations Development Programme"
+                },
+                {
+                  "type": "internal",
+                  "page": "Madagascar"
+                },
+                {
+                  "type": "internal",
+                  "page": "Guinea"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ivory Coast"
+                },
+                {
+                  "type": "internal",
+                  "page": "Togo"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.afdb.org/en/news-and-events/togo-lancement-du-rapport-2015-perspectives-economiques-en-afrique-14783/",
+          "title": "Togo : Lancement du rapport 2015 – Perspectives économiques en Afrique",
+          "website": "African Development Bank",
+          "language": "en",
+          "access-date": "2019-03-15",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "End of diplomatic career and return to Congolese government",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "A long time member of the current Presidential party and advisor to its late founder Étienne Tshisekedi, Nicolas Kazadi left his diplomatic career at the United Nations in December 2018, month of the Congolese Presidential elections, to join the candidate Félix Tshisekedi in Kinshasa.",
+              "links": [
+                {
+                  "text": "Presidential party",
+                  "type": "internal",
+                  "page": "Union for Democracy and Social Progress (Democratic Republic of the Congo)"
+                },
+                {
+                  "text": "Étienne Tshisekedi",
+                  "type": "internal",
+                  "page": "Étienne Tshisekedi"
+                },
+                {
+                  "type": "internal",
+                  "page": "United Nations"
+                },
+                {
+                  "text": "Congolese Presidential elections",
+                  "type": "internal",
+                  "page": "2018 Democratic Republic of the Congo general election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Félix Tshisekedi"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kinshasa"
+                }
+              ]
+            },
+            {
+              "text": "A month and a half after having been elected President of the Democratic Republic of the Congo, Félix Tshisekedi named him Ambassador-at-large on 7 march 2019.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "President of the Democratic Republic of the Congo"
+                },
+                {
+                  "type": "internal",
+                  "page": "Félix Tshisekedi"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ambassador-at-large"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Kazadi was named Minister of Finance on 12 April 2021 and assumed office on 28 April 2021"
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Nicolas_Kazadi_Angola.png",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Nicolas_Kazadi_Angola.png?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Nicolas_Kazadi_Angola.png",
+          "caption": "Nicolas Kazadi (left), Angolan President João Lourenço (right), and Congolese President Felix Tshisekedi (behind) 2019.",
+          "links": []
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.rfi.fr/emission/20181128-une-tshisekedi-kamerhe-une-arrivee-fanfare",
+          "title": "Revue de presse Afrique – A la Une: Tshisekedi et Kamerhe, une arrivée en fanfare",
+          "date": "2018-11-28",
+          "website": "RFI",
+          "language": "fr",
+          "access-date": "2019-03-15",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://7sur7.cd/rdc-lhomme-daffaires-luc-gerard-nyafe-et-dany-banza-parmi-les-5-ambassadeurs-itinerants-nommes-par-le-president-f-tshisekedi/",
+          "title": "RDC : L'homme d'affaires Luc Gérard Nyafé et Dany Banza parmi les 5 ambassadeurs itinérants nommés par le président F. Tshisekedi",
+          "date": "2019-03-07",
+          "website": "7sur7",
+          "language": "fr-FR",
+          "access-date": "2019-03-15",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2021-04-28",
+          "title": "RDC : le nouveau ministre des Finances, Nicolas Kazadi s'engage \" servir l'Etat sans s'asservir\"",
+          "url": "https://actualite.cd/2021/04/28/rdc-le-nouveau-ministre-des-finances-nicolas-kazadi-sengage-servir-letat-sans-sasservir",
+          "access-date": "2021-04-28",
+          "website": "Actualite.cd",
+          "language": "fr",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

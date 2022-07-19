@@ -1,0 +1,100 @@
+{
+  "title": "Jean-Pierre Lihau",
+  "pageID": 71040443,
+  "categories": [
+    "1975 births",
+    "Living people",
+    "People from Kinshasa",
+    "21st-century Democratic Republic of the Congo politicians",
+    "Government ministers of the Democratic Republic of the Congo",
+    "Members of the National Assembly (Democratic Republic of the Congo)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Jean-Pierre Lihau Ebua Kalokola Monga Libana, better known as Jean-Pierre Lihau (born 20 January 1975 in Kinshasa) is a DR Congo politician from the People's Party for Reconstruction and Democracy currently serving as Minister of the Civil Service, Administrative Modernization and Innovation in Public Services in the Lukonde cabinet.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kinshasa"
+                },
+                {
+                  "text": "DR Congo",
+                  "type": "internal",
+                  "page": "Democratic Republic of the Congo"
+                },
+                {
+                  "type": "internal",
+                  "page": "People's Party for Reconstruction and Democracy"
+                },
+                {
+                  "type": "internal",
+                  "page": "Lukonde cabinet"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Jean-Pierre Lihau Ebua Kalokola Monga Libana",
+                  "Jean-Pierre Lihau"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He claimed to be the illegitimate son of the country's first president Marcel Lihau.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Marcel Lihau"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "date": "2021-04-13",
+          "title": "RDC: la liste complète du nouveau gouvernement congolais",
+          "url": "https://afrique.lalibre.be/59961/rdc-la-liste-complete-du-nouveau-gouvernement-congolais/",
+          "access-date": "2022-06-16",
+          "website": "La Libre Afrique",
+          "language": "fr-FR",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Tshahe",
+          "first": "Roberto",
+          "date": "31 December 2019",
+          "title": "DRC: National MP Jean-Pierre Lihau files a complaint against Dismas Mangbengu",
+          "url": "https://linterview.cd/rdc-le-depute-national-jean-pierre-lihau-depose-une-plainte-contre-dismas-mangbengu/",
+          "access-date": "18 January 2020",
+          "website": "L'Interview.cd",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "drcongo-politician-stub"
+        }
+      ]
+    }
+  ]
+}

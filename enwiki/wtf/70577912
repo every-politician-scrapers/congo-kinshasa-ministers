@@ -1,0 +1,135 @@
+{
+  "title": "Théo Ngwabidje Kasi",
+  "pageID": 70577912,
+  "categories": [
+    "Living people",
+    "1971 births",
+    "21st-century Democratic Republic of the Congo people",
+    "People from South Kivu",
+    "21st-century politicians",
+    "Democratic Republic of the Congo Christians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Théo Ngwabidje Kasi (born 27 March 1971) is a politician from the Democratic Republic of the Congo who is Governor of South Kivu Province since 9 April 2019.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Democratic Republic of the Congo"
+                },
+                {
+                  "text": "South Kivu Province",
+                  "type": "internal",
+                  "page": "South Kivu"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Théo Ngwabidje Kasi"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Théo_Ngwabidje.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Th%C3%A9o_Ngwabidje.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Th%C3%A9o_Ngwabidje.jpg",
+          "caption": "Théo Ngwabidje Kasi in 2021.",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "date": "April 2022",
+          "template": "expand french"
+        }
+      ],
+      "references": [
+        {
+          "title": "Deadly clashes in DRC’s Bukavu after gunmen launch overnight raid",
+          "url": "https://www.aljazeera.com/news/2021/11/3/nine-killed-in-armed-groups-attack-in-drcs-eastern-bukavu",
+          "access-date": "2022-04-20",
+          "website": "www.aljazeera.com",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In 2021, he suspended 6 Chinese mining companies in South Kivu over environmental violations."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last": "Ol",
+          "first": "Eric",
+          "last2": "er",
+          "title": "Congolese Governor Orders Suspension of Six Chinese Mining Companies in South Kivu Over Environmental Violations",
+          "url": "https://chinaafricaproject.com/2021/08/23/congolese-governor-orders-suspension-of-six-chinese-mining-companies-in-south-kivu-over-environmental-violations/",
+          "access-date": "2022-04-20",
+          "website": "The China Africa Project",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Married to Mrs. Coralie Asseli Kasi and is father of 4 children."
+            },
+            {
+              "text": "He is a Christian."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Sud-kivu / Fête du Saint Sacrément : Le Gouverneur Théo Kasi a Communié avec les Chrétiens de la Paroisse de Bagira",
+          "url": "https://mamaradio.info/sud-kivu-fete-du-saint-sacrement-le-gouverneur-theo-kasi-a-communie-avec-les-chretiens-de-la-paroisse-de-bagira/",
+          "access-date": "2022-04-20",
+          "website": "Mama_Radio_96.6MHz",
+          "language": "fr-FR",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "drcongo-politician-stub"
+        }
+      ]
+    }
+  ]
+}

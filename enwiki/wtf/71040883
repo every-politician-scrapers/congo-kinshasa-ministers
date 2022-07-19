@@ -1,0 +1,70 @@
+{
+  "title": "Alexis Gizaro Muvuni",
+  "pageID": 71040883,
+  "categories": [
+    "Year of birth missing (living people)",
+    "Living people",
+    "21st-century Democratic Republic of the Congo politicians",
+    "Government ministers of the Democratic Republic of the Congo",
+    "Infrastructure ministers of the Democratic Republic of the Congo"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Alexis Gizaro Muvuni is a politician from the Democratic Republic of the Congo.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Democratic Republic of the Congo"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Alexis Gizaro Muvuni"
+                ]
+              }
+            },
+            {
+              "text": "He is Minister of Infrastructure and Public Works in the Lukonde cabinet.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Lukonde cabinet"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "date": "2021-04-12",
+          "title": "RDC : publication du gouvernement Sama Lukonde",
+          "url": "https://www.radiookapi.net/2021/04/12/actualite/politique/rdc-publication-du-gouvernement-sama-lukonde",
+          "access-date": "2022-06-16",
+          "website": "Radio Okapi",
+          "language": "fr",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "drcongo-politician-stub"
+        }
+      ]
+    }
+  ]
+}

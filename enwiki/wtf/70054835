@@ -1,0 +1,188 @@
+{
+  "title": "Rose Mutombo",
+  "pageID": 70054835,
+  "categories": [
+    "1960 births",
+    "Living people",
+    "Women government ministers of the Democratic Republic of the Congo",
+    "Justice ministers",
+    "Female justice ministers",
+    "21st-century Democratic Republic of the Congo women politicians",
+    "21st-century Democratic Republic of the Congo politicians",
+    "People from Kananga",
+    "Democratic Republic of the Congo lawyers"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Rose Mutombo Kiese (born 1960) is a DR Congo lawyer and politician.",
+              "links": [
+                {
+                  "text": "DR Congo",
+                  "type": "internal",
+                  "page": "Democratic Republic of the Congo"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Rose Mutombo Kiese"
+                ]
+              }
+            },
+            {
+              "text": "She is national president of the Permanent Consultative Framework for Congolese Women (CAFCO).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Permanent Consultative Framework for Congolese Women"
+                }
+              ]
+            },
+            {
+              "text": "In 2021 she was appointed Minister of Justice and Keeper of the Seals in the Lukonde government.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Minister of Justice and Keeper of the Seals"
+                },
+                {
+                  "type": "internal",
+                  "page": "Lukonde government"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Rose Mutombo Kiese"
+          },
+          "birth_date": {
+            "text": "19 March 1960"
+          },
+          "birth_place": {
+            "text": "Kananga",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kananga"
+              }
+            ]
+          },
+          "office": {
+            "text": "Minister of Justice and Keeper of the Seals",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister of Justice and Keeper of the Seals"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "12 April 2021"
+          },
+          "occupation": {
+            "text": "politician"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "The International Directory of Government 2021",
+          "year": "2021",
+          "publisher": "Europa Publications",
+          "pages": "475–476",
+          "isbn": "9781000521375",
+          "url": "https://books.google.com/books?id=v9o6EAAAQBAJ&pg=PT476",
+          "template": "citation",
+          "type": "book"
+        }
+      ]
+    },
+    {
+      "title": "Life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Rose Mutombo Kiese was born in Kananga on 19 March 1960.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kananga"
+                }
+              ]
+            },
+            {
+              "text": "She trained as a lawyer and worked as a magistrate at the General Prosucutor's Office at the Council of State."
+            },
+            {
+              "text": "She was National President of the Permanent Consultative Framework for Congolese Women (CAFCO)."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "After several months of negotiations on the composition of the Sacred Union of the Nation in early 2021, in April 2021 Rose Mutombo was announced as Minister of Justice within the Lukonde government.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sacred Union of the Nation"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Qui est l’actuelle ministre d’État en charge de la Justice et Garde des Sceaux?",
+          "language": "FR",
+          "website": "RC.Congo News Live",
+          "date": "12 April 2021",
+          "url": "https://rdcnewslive.net/2021/04/12/qui-est-lactuelle-ministre-detat-en-charge-de-la-justice-et-garde-des-sceaux/",
+          "access-date": "12 February 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Biographie",
+          "website": "Ministry of Justice and Keeper of the Seals",
+          "url": "https://justice.gouv.cd/about/",
+          "access-date": "12 February 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "author1": "Romain Gras",
+          "author2": "Stanis Bujakera Tshiamala",
+          "title": "DRC: President Tshisekedi finally forms a government",
+          "website": "The Africa Report",
+          "date": "14 April 2021",
+          "url": "https://www.theafricareport.com/79935/drc-president-tshisekedi-finally-forms-a-government/",
+          "access-date": "11 February 2022",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    }
+  ]
+}

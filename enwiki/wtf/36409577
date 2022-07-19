@@ -1,0 +1,105 @@
+{
+  "title": "Richard Muyej",
+  "pageID": 36409577,
+  "categories": [
+    "Living people",
+    "Government ministers of the Democratic Republic of the Congo",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Richard Muyej Mangeze Mans is a Congolese politician.",
+              "links": [
+                {
+                  "text": "Congolese",
+                  "type": "internal",
+                  "page": "Democratic Republic of the Congo"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Richard Muyej Mangeze Mans"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In February 2010, he joined the government and in March 2012 he was appointed Minister of Interior, Security, Decentralization and customary affairs of the Democratic Republic of the Congo.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Minister of Interior"
+                },
+                {
+                  "type": "internal",
+                  "page": "Democratic Republic of the Congo"
+                }
+              ]
+            },
+            {
+              "text": "He left the government at the reshuffle of the 7 December 2014."
+            },
+            {
+              "text": "In 2016 he became governor of the province of Lualaba.",
+              "links": [
+                {
+                  "text": "Lualaba",
+                  "type": "internal",
+                  "page": "Lualaba Province"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Congolese politician",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "url": "http://radiookapi.net/actualite/2012/07/12/rdc-le-ministre-de-linterieur-apaise-la-communaute-tutsi-sur-les-propos-haineux-des-cadres-pprd/",
+          "title": "RDC : le ministre de l’Intérieur apaise la communauté tutsi sur les propos \"haineux\" des cadres du PPRD",
+          "date": "2012-07-12",
+          "accessdate": "2012-07-13",
+          "work": "Radio Okapi",
+          "language": "French",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "RDC: liste de nouveaux gouverneurs de province élus",
+          "url": "http://www.radiookapi.net/2016/03/26/actualite/politique/rdc-liste-de-nouveaux-gouverneurs-de-province-elus",
+          "website": "Radio Okapi",
+          "accessdate": "21 May 2016",
+          "date": "26 March 2016",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "drcongo-bio-stub"
+        }
+      ]
+    }
+  ]
+}
