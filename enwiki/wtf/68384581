@@ -587,18 +587,7 @@
       "templates": [
         {
           "template": "reflist"
-        }
-      ]
-    },
-    {
-      "title": "External links",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "templates": [
+        },
         {
           "list": [
             "Biography",
@@ -611,20 +600,6 @@
         {
           "template": "authority control"
         }
-      ],
-      "lists": [
-        [
-          {
-            "text": "Aminata Namasia on Twitter",
-            "links": [
-              {
-                "text": "Aminata Namasia",
-                "type": "external",
-                "site": "https://twitter.com/aminatanamasia"
-              }
-            ]
-          }
-        ]
       ]
     }
   ]
