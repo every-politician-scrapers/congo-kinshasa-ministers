@@ -1,25 +1,25 @@
-pageid,title
-13068493,Julien Paluku Kahongya
-17631570,Christophe Lutundula
-31908583,Modeste Mutinga
-36409577,Richard Muyej
-44150652,Aimé Boji
-55792775,Ève Bazaiba
-57511508,Félix Tshisekedi
-60234683,Nicolas Kazadi
-65694394,Patrick Muyaya Katembwe
-66286312,Guy Loando Mboyo
-66773483,Jean-Michel Sama Lukonde
-66857306,Denise Nyakéru Tshisekedi
-67428833,Christophe Mboso N'Kodia Pwanga
-68384581,Aminata Namasia
-69973666,Gisèle Ndaya Luseba
-70053299,Irène Esambo
-70054835,Rose Mutombo
-70055241,Adèle Kahinda
-70055893,Modeste Bahati Lukwebo
-70577912,Théo Ngwabidje Kasi
-70685363,Daniel Aselo Okito
-71005877,Constant Ndima Kongba
-71040443,Jean-Pierre Lihau
-71040883,Alexis Gizaro Muvuni
+pageid,title,wikidata,label
+13068493,Julien Paluku Kahongya,Q469286,Julien Paluku Kahongya
+17631570,Christophe Lutundula,Q5111780,Christophe Lutundula
+31908583,Modeste Mutinga,Q3317910,Modeste Mutinga
+36409577,Richard Muyej,Q7327967,Richard Muyej
+44150652,Aimé Boji,Q18353237,Aimé Boji
+55792775,Ève Bazaiba,Q3577297,Ève Bazaiba
+57511508,Félix Tshisekedi,Q29032770,Félix Tshisekedi
+60234683,Nicolas Kazadi,Q62066858,Nicolas Kazadi
+65694394,Patrick Muyaya Katembwe,Q30118210,Patrick Muyaya Katembwe
+66286312,Guy Loando Mboyo,Q104600997,Guy Loando Mboyo
+66773483,Jean-Michel Sama Lukonde,Q105523479,Jean-Michel Sama Lukonde
+66857306,Denise Nyakéru Tshisekedi,Q61855144,Denise Nyakeru Tshisekedi
+67428833,Christophe Mboso N'Kodia Pwanga,Q2966383,Christophe Mboso N'Kodia Pwanga
+68384581,Aminata Namasia,Q106505759,Aminata Namasia
+69973666,Gisèle Ndaya Luseba,Q106905203,Gisèle Ndaya Luseba
+70053299,Irène Esambo,Q95457762,Irène Esambo
+70054835,Rose Mutombo,Q106912571,Rose Mutombo Kiese
+70055241,Adèle Kahinda,Q96439880,Adèle Kayinda Mahina
+70055893,Modeste Bahati Lukwebo,Q19543886,Modeste Bahati Lukwebo
+70577912,Théo Ngwabidje Kasi,Q108526392,Théo Ngwabidje Kasi
+70685363,Daniel Aselo Okito,Q106913507,Daniel Asselo Okito Wankoy
+71005877,Constant Ndima Kongba,Q106904349,Constant Ndima Kongba
+71040443,Jean-Pierre Lihau,Q106884074,Jean-Pierre Lihau
+71040883,Alexis Gizaro Muvuni,Q106912607,Alexis Gizaro Muvuni

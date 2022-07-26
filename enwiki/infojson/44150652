@@ -1,0 +1,31 @@
+[
+  {
+    "office": {
+      "links": [
+        "National Assembly (Democratic Republic of the Congo)"
+      ],
+      "stated_as": "Member of the National Assembly"
+    },
+    "P580": "2006-07-30",
+    "P582": "2019-02"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Foreign Trade"
+    },
+    "P580": "2016-12-19",
+    "P582": "?"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Budget"
+    },
+    "P580": "2021-04"
+  }
+]
