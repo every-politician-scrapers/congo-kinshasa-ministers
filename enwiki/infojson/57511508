@@ -1,0 +1,54 @@
+[
+  {
+    "office": {
+      "links": [
+        "Union for Democracy and Social Progress (Democratic Republic of the Congo)"
+      ],
+      "stated_as": "Leader of the Union for Democracy and Social Progress"
+    },
+    "P580": "2018-03-31",
+    "P1365": {
+      "links": [
+        "Étienne Tshisekedi"
+      ],
+      "stated_as": "Étienne Tshisekedi"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of the Democratic Republic of the Congo"
+      ],
+      "stated_as": "5th President of the Democratic Republic of the Congo"
+    },
+    "P580": "2019-01-24",
+    "P1365": {
+      "links": [
+        "Joseph Kabila"
+      ],
+      "stated_as": "Joseph Kabila"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Chairperson of the African Union"
+      ],
+      "stated_as": "19th Chairperson of the African Union"
+    },
+    "P580": "2021-02-06",
+    "P1365": {
+      "links": [
+        "Cyril Ramaphosa"
+      ],
+      "stated_as": "Cyril Ramaphosa"
+    },
+    "P582": "2022-02-05",
+    "P1366": {
+      "links": [
+        "Macky Sall"
+      ],
+      "stated_as": "Macky Sall"
+    }
+  }
+]

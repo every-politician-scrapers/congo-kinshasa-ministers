@@ -1,0 +1,31 @@
+[
+  {
+    "office": {
+      "links": [
+        "Organizational founder",
+        ":fr:Fondation Widal"
+      ],
+      "stated_as": "Founder & president of Widal Foundation"
+    },
+    "P580": "2018-09"
+  },
+  {
+    "office": {
+      "links": [
+        "Senate (Democratic Republic of the Congo)"
+      ],
+      "stated_as": "Member of the Democratic Republic of the Congo Senate"
+    },
+    "P580": "2019-05-14",
+    "P582": "2021-04-26"
+  },
+  {
+    "office": {
+      "links": [
+        "Democratic Republic of the Congo"
+      ],
+      "stated_as": "Minister of regional planning of the Democratic Republic of the Congo"
+    },
+    "P580": "2021-04-26"
+  }
+]

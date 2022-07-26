@@ -1,0 +1,31 @@
+[
+  {
+    "office": {
+      "links": [
+        "Organizational founder"
+      ],
+      "stated_as": "Founder of Aminata Namasia Foundation"
+    },
+    "P580": "2016"
+  },
+  {
+    "office": {
+      "links": [
+        "Parliament of the Democratic Republic of the Congo"
+      ],
+      "stated_as": "Member of the Democratic Republic of the Congo Parliament"
+    },
+    "P580": "2018-12-30",
+    "P582": "2021-04-26"
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Minister",
+        "Democratic Republic of the Congo"
+      ],
+      "stated_as": "Deputy Minister of Primary, Secondary and Technical Education of the Democratic Republic of the Congo"
+    },
+    "P580": "2021-04-26"
+  }
+]

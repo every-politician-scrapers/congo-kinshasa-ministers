@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "First Lady of the Democratic Republic of the Congo"
+      ],
+      "stated_as": "First Lady of the Democratic Republic of the Congo"
+    },
+    "P580": "2019-01-24",
+    "P1365": {
+      "links": [
+        "Olive Lembe di Sita"
+      ],
+      "stated_as": "Olive Lembe di Sita"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Chairperson of the African Union"
+      ],
+      "stated_as": "First Lady of African Union"
+    },
+    "P580": "2021-02-06",
+    "P1365": {
+      "links": [
+        "Tshepo Motsepe"
+      ],
+      "stated_as": "Tshepo Motsepe"
+    },
+    "P582": "2022-02-05",
+    "P1366": {
+      "links": [
+        "Marieme Faye Sall"
+      ],
+      "stated_as": "Marieme Faye Sall"
+    }
+  }
+]
